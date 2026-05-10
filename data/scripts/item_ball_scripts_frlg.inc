@@ -34,8 +34,8 @@ MtMoon_1F_EventScript_ItemRareCandy::
 	finditem ITEM_RARE_CANDY
 	end
 
-MtMoon_1F_EventScript_ItemEscapeRope::
-	finditem ITEM_ESCAPE_ROPE
+MtMoon_1F_EventScript_ItemBottleCap::
+	finditem ITEM_BOTTLE_CAP
 	end
 
 MtMoon_1F_EventScript_ItemMoonStone::
@@ -94,8 +94,8 @@ Route9_EventScript_ItemTM40::
 	finditem ITEM_TM40
 	end
 
-RocketHideout_B1F_EventScript_ItemEscapeRope::
-	finditem ITEM_ESCAPE_ROPE
+RocketHideout_B1F_EventScript_ItemBottleCap::
+	finditem ITEM_BOTTLE_CAP
 	end
 
 RocketHideout_B1F_EventScript_ItemHyperPotion::
@@ -138,8 +138,8 @@ RocketHideout_B4F_EventScript_ItemCalcium::
 	finditem ITEM_CALCIUM
 	end
 
-PokemonTower_3F_EventScript_ItemEscapeRope::
-	finditem ITEM_ESCAPE_ROPE
+PokemonTower_3F_EventScript_ItemBottleCap::
+	finditem ITEM_BOTTLE_CAP
 	end
 
 PokemonTower_4F_EventScript_ItemElixir::
@@ -230,8 +230,8 @@ SilphCo_4F_EventScript_ItemMaxRevive::
 	finditem ITEM_MAX_REVIVE
 	end
 
-SilphCo_4F_EventScript_ItemEscapeRope::
-	finditem ITEM_ESCAPE_ROPE
+SilphCo_4F_EventScript_ItemBottleCap::
+	finditem ITEM_BOTTLE_CAP
 	end
 
 SilphCo_4F_EventScript_ItemFullHeal::
@@ -302,8 +302,8 @@ PokemonMansion_1F_EventScript_ItemCarbos::
 	finditem ITEM_CARBOS
 	end
 
-PokemonMansion_1F_EventScript_ItemEscapeRope::
-	finditem ITEM_ESCAPE_ROPE
+PokemonMansion_1F_EventScript_ItemBottleCap::
+	finditem ITEM_BOTTLE_CAP
 	end
 
 PokemonMansion_2F_EventScript_ItemCalcium::
@@ -438,8 +438,8 @@ RockTunnel_1F_EventScript_ItemPearl::
 	finditem ITEM_PEARL
 	end
 
-RockTunnel_1F_EventScript_ItemEscapeRope::
-	finditem ITEM_ESCAPE_ROPE
+RockTunnel_1F_EventScript_ItemBottleCap::
+	finditem ITEM_BOTTLE_CAP
 	end
 
 RockTunnel_B1F_EventScript_ItemRevive::

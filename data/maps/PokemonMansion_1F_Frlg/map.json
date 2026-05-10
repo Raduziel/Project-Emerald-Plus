@@ -55,8 +55,8 @@
       "movement_range_y": 1,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "PokemonMansion_1F_EventScript_ItemEscapeRope",
-      "flag": "FLAG_HIDE_POKEMON_MANSION_1F_ESCAPE_ROPE"
+      "script": "PokemonMansion_1F_EventScript_ItemBottleCap",
+      "flag": "FLAG_HIDE_POKEMON_MANSION_1F_BOTTLE_CAP "
     },
     {
       "type": "object",

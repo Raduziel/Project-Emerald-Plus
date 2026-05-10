@@ -97,8 +97,8 @@
       "movement_range_y": 1,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "SilphCo_4F_EventScript_ItemEscapeRope",
-      "flag": "FLAG_HIDE_SILPH_CO_4F_ESCAPE_ROPE"
+      "script": "SilphCo_4F_EventScript_ItemBottleCap",
+      "flag": "FLAG_HIDE_SILPH_CO_4F_BOTTLE_CAP "
     },
     {
       "type": "object",

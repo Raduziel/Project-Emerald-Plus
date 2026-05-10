@@ -51,14 +51,14 @@
 
 #else
 
-#define FLAG_UNUSED_0x020    0x20 // Unused Flag
-#define FLAG_UNUSED_0x021    0x21 // Unused Flag
-#define FLAG_UNUSED_0x022    0x22 // Unused Flag
-#define FLAG_UNUSED_0x023    0x23 // Unused Flag
-#define FLAG_UNUSED_0x024    0x24 // Unused Flag
-#define FLAG_UNUSED_0x025    0x25 // Unused Flag
-#define FLAG_UNUSED_0x026    0x26 // Unused Flag
-#define FLAG_UNUSED_0x027    0x27 // Unused Flag
+#define FLAG_TEXT_SPEED_INSTANT 0x20 // Instant Text
+#define FLAG_EGG_MOVES          0x21
+#define FLAG_TUTOR_MOVES        0x22
+#define FLAG_NO_ENCOUNTER       0x23 // Use this for Infinite Repel
+#define FLAG_POKE_RIDER         0x24
+#define FLAG_EXP_SHARE          0x25
+#define FLAG_VS_SEEKER_CHARGE   0x26
+#define FLAG_ORAS_DOWSING       0x27
 #define FLAG_UNUSED_0x028    0x28 // Unused Flag
 #define FLAG_UNUSED_0x029    0x29 // Unused Flag
 #define FLAG_UNUSED_0x02A    0x2A // Unused Flag
@@ -1100,7 +1100,7 @@
 #define FLAG_ITEM_METEOR_FALLS_1F_1R_PP_UP                          0x417
 #define FLAG_ITEM_RUSTURF_TUNNEL_POKE_BALL                          0x418
 #define FLAG_ITEM_RUSTURF_TUNNEL_MAX_ETHER                          0x419
-#define FLAG_ITEM_GRANITE_CAVE_1F_ESCAPE_ROPE                       0x41A
+#define FLAG_ITEM_GRANITE_CAVE_1F_BOTTLE_CAP                        0x41A
 #define FLAG_ITEM_GRANITE_CAVE_B1F_POKE_BALL                        0x41B
 #define FLAG_ITEM_MT_PYRE_5F_LAX_INCENSE                            0x41C
 #define FLAG_ITEM_GRANITE_CAVE_B2F_REPEL                            0x41D
@@ -1126,7 +1126,7 @@
 #define FLAG_ITEM_MT_PYRE_EXTERIOR_MAX_POTION                       0x431
 #define FLAG_ITEM_MT_PYRE_EXTERIOR_TM_SKILL_SWAP                    0x432
 #define FLAG_ITEM_NEW_MAUVILLE_ULTRA_BALL                           0x433
-#define FLAG_ITEM_NEW_MAUVILLE_ESCAPE_ROPE                          0x434
+#define FLAG_ITEM_NEW_MAUVILLE_BOTTLE_CAP                           0x434
 #define FLAG_ITEM_ABANDONED_SHIP_HIDDEN_FLOOR_ROOM_6_LUXURY_BALL    0x435
 #define FLAG_ITEM_ABANDONED_SHIP_HIDDEN_FLOOR_ROOM_2_SCANNER        0x436
 #define FLAG_ITEM_SCORCHED_SLAB_TM_SUNNY_DAY                        0x437
@@ -1146,7 +1146,7 @@
 #define FLAG_ITEM_ROUTE_124_BLUE_SHARD                              0x445
 #define FLAG_ITEM_SAFARI_ZONE_NORTH_WEST_TM_SOLAR_BEAM              0x446
 #define FLAG_ITEM_ABANDONED_SHIP_ROOMS_1F_HARBOR_MAIL               0x447
-#define FLAG_ITEM_ABANDONED_SHIP_ROOMS_B1F_ESCAPE_ROPE              0x448
+#define FLAG_ITEM_ABANDONED_SHIP_ROOMS_B1F_BOTTLE_CAP               0x448
 #define FLAG_ITEM_ABANDONED_SHIP_ROOMS_2_B1F_DIVE_BALL              0x449
 #define FLAG_ITEM_ABANDONED_SHIP_ROOMS_B1F_TM_ICE_BEAM              0x44A
 #define FLAG_ITEM_ABANDONED_SHIP_ROOMS_2_1F_REVIVE                  0x44B
@@ -1805,7 +1805,7 @@
 #define FLAG_HIDE_MT_MOON_1F_TM09                               0
 #define FLAG_HIDE_MT_MOON_1F_POTION                             0
 #define FLAG_HIDE_MT_MOON_1F_RARE_CANDY                         0
-#define FLAG_HIDE_MT_MOON_1F_ESCAPE_ROPE                        0
+#define FLAG_HIDE_MT_MOON_1F_BOTTLE_CAP                         0
 #define FLAG_HIDE_MT_MOON_1F_MOON_STONE                         0
 #define FLAG_HIDE_MT_MOON_B2F_STAR_PIECE                        0
 #define FLAG_HIDE_MT_MOON_B2F_TM46                              0
@@ -1820,7 +1820,7 @@
 #define FLAG_HIDE_SSANNE_B1F_ROOM5_SUPER_POTION                 0
 #define FLAG_HIDE_SSANNE_KITCHEN_GREAT_BALL                     0
 #define FLAG_HIDE_ROUTE9_TM40                                   0
-#define FLAG_HIDE_ROCKET_HIDEOUT_B1F_ESCAPE_ROPE                0
+#define FLAG_HIDE_ROCKET_HIDEOUT_B1F_BOTTLE_CAP                 0
 #define FLAG_HIDE_ROCKET_HIDEOUT_B1F_HYPER_POTION               0
 #define FLAG_HIDE_ROCKET_HIDEOUT_B2F_X_SPEED                    0
 #define FLAG_HIDE_ROCKET_HIDEOUT_B2F_MOON_STONE                 0
@@ -1831,7 +1831,7 @@
 #define FLAG_HIDE_ROCKET_HIDEOUT_B4F_TM49                       0
 #define FLAG_HIDE_ROCKET_HIDEOUT_B4F_MAX_ETHER                  0
 #define FLAG_HIDE_ROCKET_HIDEOUT_B4F_CALCIUM                    0
-#define FLAG_HIDE_POKEMON_TOWER_3F_ESCAPE_ROPE                  0
+#define FLAG_HIDE_POKEMON_TOWER_3F_BOTTLE_CAP                   0
 #define FLAG_HIDE_POKEMON_TOWER_4F_ELIXIR                       0
 #define FLAG_HIDE_POKEMON_TOWER_4F_AWAKENING                    0
 #define FLAG_HIDE_POKEMON_TOWER_4F_GREAT_BALL                   0
@@ -1854,7 +1854,7 @@
 #define FLAG_HIDE_SAFARI_ZONE_WEST_MAX_REVIVE                   0
 #define FLAG_HIDE_SILPH_CO_3F_HYPER_POTION                      0
 #define FLAG_HIDE_SILPH_CO_4F_MAX_REVIVE                        0
-#define FLAG_HIDE_SILPH_CO_4F_ESCAPE_ROPE                       0
+#define FLAG_HIDE_SILPH_CO_4F_BOTTLE_CAP                        0
 #define FLAG_HIDE_SILPH_CO_4F_FULL_HEAL                         0
 #define FLAG_HIDE_SILPH_CO_5F_PROTEIN                           0
 #define FLAG_HIDE_SILPH_CO_5F_TM01                              0
@@ -1872,7 +1872,7 @@
 #define FLAG_HIDE_POWER_PLANT_THUNDER_STONE                     0
 #define FLAG_HIDE_POWER_PLANT_ELIXIR                            0
 #define FLAG_HIDE_POKEMON_MANSION_1F_CARBOS                     0
-#define FLAG_HIDE_POKEMON_MANSION_1F_ESCAPE_ROPE                0
+#define FLAG_HIDE_POKEMON_MANSION_1F_BOTTLE_CAP                 0
 #define FLAG_HIDE_POKEMON_MANSION_2F_CALCIUM                    0
 #define FLAG_HIDE_POKEMON_MANSION_3F_MAX_POTION                 0
 #define FLAG_HIDE_POKEMON_MANSION_3F_IRON                       0
@@ -1909,7 +1909,7 @@
 #define FLAG_HIDE_ROUTE9_BURN_HEAL                              0
 #define FLAG_HIDE_ROCK_TUNNEL_1F_REPEL                          0
 #define FLAG_HIDE_ROCK_TUNNEL_1F_PEARL                          0
-#define FLAG_HIDE_ROCK_TUNNEL_1F_ESCAPE_ROPE                    0
+#define FLAG_HIDE_ROCK_TUNNEL_1F_BOTTLE_CAP                     0
 #define FLAG_HIDE_ROCK_TUNNEL_B1F_REVIVE                        0
 #define FLAG_HIDE_ROCK_TUNNEL_B1F_MAX_ETHER                     0
 #define FLAG_HIDE_SILPH_CO_8F_IRON                              0
@@ -2195,7 +2195,7 @@
 #define FLAG_HIDDEN_ITEM_VICTORY_ROAD_1F_FULL_RESTORE                      0
 #define FLAG_HIDDEN_ITEM_CERULEAN_CAVE_1F_ULTRA_BALL                       0
 #define FLAG_HIDDEN_ITEM_UNUSED_0x28                                       0
-#define FLAG_HIDDEN_ITEM_ROUTE11_ESCAPE_ROPE                               0
+#define FLAG_HIDDEN_ITEM_ROUTE11_BOTTLE_CAP                                0
 #define FLAG_HIDDEN_ITEM_ROUTE12_HYPER_POTION                              0
 #define FLAG_HIDDEN_ITEM_UNUSED_0x2B                                       0
 #define FLAG_HIDDEN_ITEM_UNUSED_0x2C                                       0
