@@ -225,76 +225,76 @@ BattleFrontier_Lounge3_Text_YouLookToughExplainGambling::
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerSingle::
 	.string "What I'm looking for is a Trainer who's\n"
 	.string "going to be challenging the Battle\l"
-	.string "Tower's SINGLE Battle ROOMS.\p"
+	.string "Tower's Single Battle Rooms.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerDouble::
 	.string "What I'm looking for is a Trainer who's\n"
 	.string "going to be challenging the Battle\l"
-	.string "Tower's DOUBLE Battle ROOMS.\p"
+	.string "Tower's Double Battle Rooms.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerMulti::
 	.string "What I'm looking for is a Trainer who's\n"
 	.string "going to be challenging the Battle\l"
-	.string "Tower's MULTI Battle ROOMS.\p"
+	.string "Tower's Multi Battle Rooms.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleDomeSingle::
 	.string "What I'm looking for is a Trainer who's\n"
 	.string "going to be entering the Battle\l"
-	.string "DOME's SINGLE Battle Tourney.\p"
+	.string "Dome's Single Battle Tourney.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleDomeDouble::
 	.string "What I'm looking for is a Trainer who's\n"
 	.string "going to be entering the Battle\l"
-	.string "DOME's DOUBLE Battle Tourney.\p"
+	.string "Dome's Double Battle Tourney.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleFactorySingle::
 	.string "What I'm looking for is a Trainer who's\n"
 	.string "going to be entering the Battle\l"
-	.string "FACTORY's Battle Swap Single Tourney.\p"
+	.string "Factory's Battle Swap Single Tourney.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleFactoryDouble::
 	.string "What I'm looking for is a Trainer who's\n"
 	.string "going to be entering the Battle\l"
-	.string "FACTORY's Battle Swap Double Tourney.\p"
+	.string "Factory's Battle Swap Double Tourney.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePalaceSingle::
 	.string "What I'm looking for is a Trainer who's\n"
 	.string "going to be challenging the Battle\l"
-	.string "PALACE's SINGLE Battle HALLS.\p"
+	.string "Palace's Single Battle Halls.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePalaceDouble::
 	.string "What I'm looking for is a Trainer who's\n"
 	.string "going to be challenging the Battle\l"
-	.string "PALACE's DOUBLE Battle HALLS.\p"
+	.string "Palace's Double Battle Halls.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleArena::
 	.string "What I'm looking for is a Trainer who's\n"
 	.string "going to be entering the Battle\l"
-	.string "ARENA's Set KO Tourney.\p"
+	.string "Arena's Set Ko Tourney.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePike::
 	.string "What I'm looking for is a Trainer who's\n"
-	.string "going to be entering the Battle PIKE's\l"
+	.string "going to be entering the Battle Pike's\l"
 	.string "Battle Choice.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
@@ -302,7 +302,7 @@ BattleFrontier_Lounge3_Text_ChallengeBattlePike::
 BattleFrontier_Lounge3_Text_ChallengeBattlePyramid::
 	.string "What I'm looking for is a Trainer who's\n"
 	.string "going to be entering the Battle\l"
-	.string "PYRAMID's Battle Quest.\p"
+	.string "Pyramid's Battle Quest.\p"
 	.string "But so far, I haven't seen a Trainer\n"
 	.string "that has that winning quality.$"
 
@@ -334,83 +334,83 @@ BattleFrontier_Lounge3_Text_ThanksOffYouGo::
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerSingle::
 	.string "Get to the Battle Tower's\n"
-	.string "SINGLE Battle ROOMS pronto!\p"
+	.string "Single Battle Rooms pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerDouble::
 	.string "Get to the Battle Tower's\n"
-	.string "DOUBLE Battle ROOMS pronto!\p"
+	.string "Double Battle Rooms pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerMulti::
 	.string "Get to the Battle Tower's\n"
-	.string "MULTI Battle ROOMS pronto!\p"
+	.string "Multi Battle Rooms pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleDomeSingle::
-	.string "Get to the Battle DOME's\n"
-	.string "SINGLE Battle Tourney pronto!\p"
+	.string "Get to the Battle Dome's\n"
+	.string "Single Battle Tourney pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleDomeDouble::
-	.string "Get to the Battle DOME's\n"
-	.string "DOUBLE Battle Tourney pronto!\p"
+	.string "Get to the Battle Dome's\n"
+	.string "Double Battle Tourney pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleFactorySingle::
-	.string "Get to the Battle FACTORY's\n"
+	.string "Get to the Battle Factory's\n"
 	.string "Battle Swap Single Tourney pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleFactoryDouble::
-	.string "Get to the Battle FACTORY's\n"
+	.string "Get to the Battle Factory's\n"
 	.string "Battle Swap Double Tourney pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePalaceSingle::
-	.string "Get to the Battle PALACE's\n"
-	.string "SINGLE Battle HALLS pronto!\p"
+	.string "Get to the Battle Palace's\n"
+	.string "Single Battle Halls pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePalaceDouble::
-	.string "Get to the Battle PALACE's\n"
-	.string "DOUBLE Battle HALLS pronto!\p"
+	.string "Get to the Battle Palace's\n"
+	.string "Double Battle Halls pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleArena::
-	.string "Get to the Battle ARENA's\n"
-	.string "Set KO Tourney pronto!\p"
+	.string "Get to the Battle Arena's\n"
+	.string "Set Ko Tourney pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePike::
-	.string "Get to the Battle PIKE's\n"
+	.string "Get to the Battle Pike's\n"
 	.string "Battle Choice pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
 	.string "Both of our futures depend on you!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePyramid::
-	.string "Get to the Battle PYRAMID's\n"
+	.string "Get to the Battle Pyramid's\n"
 	.string "Battle Quest pronto!\p"
 	.string "It's a must-win situation!\n"
 	.string "Don't blow your chance!\l"
@@ -456,7 +456,7 @@ BattleFrontier_Lounge3_Text_BackedWrongTrainer::
 BattleFrontier_Lounge3_Text_TrainerGoodButRattled::
 	.string "That Trainer…\p"
 	.string "He's good, but he gets rattled too\n"
-	.string "easily to survive the Battle DOME…$"
+	.string "easily to survive the Battle Dome…$"
 
 BattleFrontier_Lounge3_Text_KnowWinnerWhenISeeOne::
 	.string "Giggle!\n"

@@ -29,14 +29,14 @@ Route9_Text_ChrisPostBattle::
 	.string "Keep walking!$"
 
 Route9_Text_DrewIntro::
-	.string "I'm taking the ROCK TUNNEL to\n"
+	.string "I'm taking the Rock Tunnel to\n"
 	.string "go to Lavender…$"
 
 Route9_Text_DrewDefeat::
 	.string "Can't measure up…$"
 
 Route9_Text_DrewPostBattle::
-	.string "Are you off to ROCK TUNNEL, too?$"
+	.string "Are you off to Rock Tunnel, too?$"
 
 Route9_Text_CaitlinIntro::
 	.string "Don't you dare patronize me!$"
@@ -78,7 +78,7 @@ Route9_Text_BrentIntro::
 	.string "my Pokémon from cocoons!$"
 
 Route9_Text_BrentDefeat::
-	.string "WHAT?\p"
+	.string "What?\p"
 	.string "What a total waste of time!$"
 
 Route9_Text_BrentPostBattle::
@@ -98,16 +98,16 @@ Route9_Text_AlanPostBattle::
 	.string "Us hearty guys always laugh!$"
 
 Route9_Text_ConnerIntro::
-	.string "Go, my super BUG Pokémon!$"
+	.string "Go, my super Bug Pokémon!$"
 
 Route9_Text_ConnerDefeat::
 	.string "My bugs…$"
 
 Route9_Text_ConnerPostBattle::
-	.string "If you don't like BUG Pokémon,\n"
+	.string "If you don't like Bug Pokémon,\n"
 	.string "you bug me!$"
 
 Route9_Text_RouteSign::
 	.string "Route 9\n"
-	.string "Cerulean City - ROCK TUNNEL$"
+	.string "Cerulean City - Rock Tunnel$"
 

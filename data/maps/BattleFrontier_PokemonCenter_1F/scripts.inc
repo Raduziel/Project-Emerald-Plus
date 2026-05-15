@@ -46,7 +46,7 @@ BattleFrontier_PokemonCenter_1F_Text_NeverSeenPokemon:
 	.string "like that.$"
 
 BattleFrontier_PokemonCenter_1F_Text_NextStopBattleArena:
-	.string "Okay! Next stop, the Battle ARENA!\n"
+	.string "Okay! Next stop, the Battle Arena!\n"
 	.string "I'd better get the right Pokémon from\l"
 	.string "the PC Storage System.$"
 
@@ -55,5 +55,5 @@ BattleFrontier_PokemonCenter_1F_Text_GoingThroughEveryChallenge:
 	.string "challenge with just this baby!$"
 
 BattleFrontier_PokemonCenter_1F_Text_Skitty:
-	.string "SKITTY: Mya myaaah!$"
+	.string "Skitty: Mya myaaah!$"
 

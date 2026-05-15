@@ -39,7 +39,7 @@ SilphCo_8F_EventScript_Grunt2::
 	end
 
 SilphCo_8F_Text_WonderIfSilphIsFinished::
-	.string "I wonder if SILPH is finished…$"
+	.string "I wonder if Silph is finished…$"
 
 SilphCo_8F_Text_ThanksForSavingUs::
 	.string "Thanks for saving us!$"
@@ -62,12 +62,12 @@ SilphCo_8F_Text_ParkerDefeat::
 	.string "I lost?$"
 
 SilphCo_8F_Text_ParkerPostBattle::
-	.string "So, what do you think of SILPH\n"
-	.string "BUILDING's maze?$"
+	.string "So, what do you think of Silph\n"
+	.string "Building's maze?$"
 
 SilphCo_8F_Text_Grunt2Intro::
 	.string "I am one of the four Rocket\n"
-	.string "BROTHERS!$"
+	.string "Brothers!$"
 
 SilphCo_8F_Text_Grunt2Defeat::
 	.string "Whoo!\n"

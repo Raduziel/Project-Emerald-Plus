@@ -19,7 +19,7 @@ const struct EasyChatWordInfo gEasyChatGroup_TrendySaying[] = {
     },
     [EC_INDEX(EC_WORD_COUPLE)] =
     {
-        .text = COMPOUND_STRING("Couple"),
+        .text = COMPOUND_STRING("COUPLE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_BANG),
         .enabled = TRUE,
     },
@@ -181,13 +181,13 @@ const struct EasyChatWordInfo gEasyChatGroup_TrendySaying[] = {
     },
     [EC_INDEX(EC_WORD_OLD)] =
     {
-        .text = COMPOUND_STRING("Old"),
+        .text = COMPOUND_STRING("OLD"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_YEEHAW_EXCL),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_YOUNG)] =
     {
-        .text = COMPOUND_STRING("Young"),
+        .text = COMPOUND_STRING("YOUNG"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_YES_SIR_EXCL),
         .enabled = TRUE,
     },

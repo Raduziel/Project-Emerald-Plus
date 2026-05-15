@@ -49,7 +49,7 @@ Route1_Text_ComeSeeUsIfYouNeedPokeBalls::
 
 Route1_Text_PutPotionAway::
 	.string "{PLAYER} put the Potion away in\n"
-	.string "the Bag's ITEMS Pocket.$"
+	.string "the Bag's Items Pocket.$"
 
 Route1_Text_CanJumpFromLedges::
 	.string "See those ledges along the road?\p"

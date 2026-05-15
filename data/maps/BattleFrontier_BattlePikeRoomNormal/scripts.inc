@@ -688,29 +688,29 @@ BattleFrontier_BattlePikeRoomNormal_Text_WatchOut:
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaStop:
 	.string "Now, now!\n"
-	.string "KIRLIA, stop that!$"
+	.string "Kirlia, stop that!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsStop:
 	.string "Now, now!\n"
-	.string "DUSCLOPS, stop that!$"
+	.string "Dusclops, stop that!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedToxic:
-	.string "KIRLIA used TOXIC!$"
+	.string "Kirlia used Toxic!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedHypnosis:
-	.string "KIRLIA used HYPNOSIS!$"
+	.string "Kirlia used Hypnosis!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedThunderWave:
-	.string "KIRLIA used THUNDER WAVE!$"
+	.string "Kirlia used Thunder Wave!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedWillOWisp:
-	.string "KIRLIA used WILL-O-WISP!$"
+	.string "Kirlia used Will-O-Wisp!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedWillOWisp:
-	.string "DUSCLOPS used WILL-O-WISP!$"
+	.string "Dusclops used Will-O-Wisp!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedIceBeam:
-	.string "DUSCLOPS used ICE BEAM!$"
+	.string "Dusclops used Ice Beam!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ThatsEnough:
 	.string "Look here!\n"
@@ -718,11 +718,11 @@ BattleFrontier_BattlePikeRoomNormal_Text_ThatsEnough:
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForKirlia:
 	.string "I must apologize to you…\p"
-	.string "My KIRLIA has a TIMID nature…$"
+	.string "My Kirlia has a Timid nature…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops:
 	.string "I must apologize to you…\p"
-	.string "My DUSCLOPS has a TIMID nature…$"
+	.string "My Dusclops has a Timid nature…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled:
 	.string "It attacks without warning if it is\n"
@@ -752,9 +752,9 @@ BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge2:
 	.string "Battle Choice challenge…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ImThePikeQueen:
-	.string "I am LUCY…\n"
+	.string "I am Lucy…\n"
 	.string "I am the law here…\l"
-	.string "For I am the PIKE QUEEN…\p"
+	.string "For I am the Pike Queen…\p"
 	.string "You already know it, but to advance,\n"
 	.string "you must defeat me…\p"
 	.string "…I'm not one for idle chatter.\n"
@@ -765,7 +765,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_HopeYouDidntUseUpLuck:
 	.string "I hope you didn't use it all up here…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyShowMeFrontierPass:
-	.string "LUCY: … … … … … …\n"
+	.string "Lucy: … … … … … …\n"
 	.string "Show me your Frontier Pass…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ReceivedLuckSymbol:
@@ -777,7 +777,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_AllThereIsDisappear:
 	.string "Disappear already…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyYouAgain:
-	.string "LUCY: …You again…\p"
+	.string "Lucy: …You again…\p"
 	.string "… … … … … …\p"
 	.string "…I've trampled flowers and braved\n"
 	.string "storms to get to where I am…\p"
@@ -791,7 +791,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_NowComeOn:
 	.string "Come on!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyFrontierPass:
-	.string "LUCY: … … … … … …\p"
+	.string "Lucy: … … … … … …\p"
 	.string "…Frontier Pass…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LuckSymbolTookGoldenShine:

@@ -1,5 +1,5 @@
 CeladonCity_GameCorner_Text_TryPokemonPrinter::
-	.string "It's a Pokémon PRINTER!\p"
+	.string "It's a Pokémon Printer!\p"
 	.string "It can put a print of your Pokémon\n"
 	.string "on the back of your Trainer Card.\p"
 	.string "It costs only ¥50.\n"
@@ -22,25 +22,25 @@ CeladonCity_GameCorner_Text_PrintIsReadyCheckTrainerCard::
 
 FourIsland_House2_Text_WishICouldShowOffStickers::
 	.string "Giggle…\n"
-	.string "I collected a ton of STICKERS.\l"
+	.string "I collected a ton of Stickers.\l"
 	.string "I wish I could show them off…$"
 
 FourIsland_House2_Text_GiveYouStickerIfYouBrag::
 	.string "Oh, excellent!\n"
 	.string "You've come to the right place!\p"
 	.string "Look, look! See? See?\n"
-	.string "These are my STICKERS!\l"
+	.string "These are my Stickers!\l"
 	.string "Look how many I got!\p"
 	.string "I bet you want some.\n"
 	.string "I bet you do!\p"
-	.string "I'll give a STICKER if you can tell\n"
+	.string "I'll give a Sticker if you can tell\n"
 	.string "me something awesome about\l"
 	.string "yourself.\p"
 	.string "What will you brag about?$"
 
 FourIsland_House2_Text_BragAboutSomethingForMe::
 	.string "Brag about something for me.\n"
-	.string "I'll give you a STICKER.$"
+	.string "I'll give you a Sticker.$"
 
 FourIsland_House2_Text_BragAboutWhatToday::
 	.string "Oh, hi!\n"
@@ -50,31 +50,31 @@ FourIsland_House2_Text_BragAboutWhatToday::
 
 FourIsland_House2_Text_WowHoFLowest::
 	.string "Oh, wow, you made it into the\n"
-	.string "HALL OF FAME.\p"
+	.string "Hall Of Fame.\p"
 	.string "That's pretty good, yup!\n"
 	.string "I'll give you one of these.$"
 
 FourIsland_House2_Text_WowHoFLow::
 	.string "Oh, wow, you've entered the\n"
-	.string "HALL OF FAME often!\p"
+	.string "Hall Of Fame often!\p"
 	.string "That's impressive, yup!\n"
 	.string "I'll give you one of these.$"
 
 FourIsland_House2_Text_WowHoFHigh::
 	.string "Whoa! You've made it into the\n"
-	.string "HALL OF FAME that often?\l"
+	.string "Hall Of Fame that often?\l"
 	.string "That's seriously incredible, yup!\p"
 	.string "You own the Pokémon League!\n"
 	.string "I'll give you one of these.$"
 
 FourIsland_House2_Text_WowHoFHighest::
 	.string "No way! You've gone into the\n"
-	.string "HALL OF FAME that many times?\p"
+	.string "Hall Of Fame that many times?\p"
 	.string "You're beyond incredible, yup!\n"
 	.string "That's it, I have to give you this.$"
 
 FourIsland_House2_Text_HoFStickerApplied::
-	.string "The HALL OF FAME STICKER was\n"
+	.string "The Hall Of Fame Sticker was\n"
 	.string "applied to the Trainer Card.$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryHoF::
@@ -85,7 +85,7 @@ FourIsland_House2_Text_ComeBackWithBetterStoryHoF::
 FourIsland_House2_Text_LivingLegendHoF::
 	.string "Oh, no, no can do.\p"
 	.string "You're practically a living legend.\n"
-	.string "I have no SITCKERS left to give.$"
+	.string "I have no Sitckers left to give.$"
 
 FourIsland_House2_Text_WowEggsLowest::
 	.string "Oh, wow, there are Pokémon Eggs?\n"
@@ -113,7 +113,7 @@ FourIsland_House2_Text_WowEggsHighest::
 	.string "That's it, I have to give you this.$"
 
 FourIsland_House2_Text_EggStickerApplied::
-	.string "The Egg STICKER was applied\n"
+	.string "The Egg Sticker was applied\n"
 	.string "to the Trainer Card.$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryEggs::
@@ -124,7 +124,7 @@ FourIsland_House2_Text_ComeBackWithBetterStoryEggs::
 FourIsland_House2_Text_LivingLegendEggs::
 	.string "Oh, no, no can do.\p"
 	.string "You're practically a living legend.\n"
-	.string "I have no SITCKERS left to give.$"
+	.string "I have no Sitckers left to give.$"
 
 FourIsland_House2_Text_WowLinkWinsLowest::
 	.string "Oh, wow, you've had success\n"
@@ -153,7 +153,7 @@ FourIsland_House2_Text_WowLinkWinsHighest::
 	.string "That's it, I have to give you this.$"
 
 FourIsland_House2_Text_VictoryStickerApplied::
-	.string "The VICTORY STICKER was applied\n"
+	.string "The Victory Sticker was applied\n"
 	.string "to the Trainer Card.$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryLinkWins::
@@ -164,4 +164,4 @@ FourIsland_House2_Text_ComeBackWithBetterStoryLinkWins::
 FourIsland_House2_Text_LivingLegendLinkWins::
 	.string "Oh, no, no can do.\p"
 	.string "You're practically a living legend.\n"
-	.string "I have no SITCKERS left to give.$"
+	.string "I have no Sitckers left to give.$"

@@ -1,8 +1,8 @@
 const u8 gEasyChatWord_Appeal[] = _("APPEAL");
 const u8 gEasyChatWord_Events[] = _("EVENTS");
 const u8 gEasyChatWord_StayAtHome[] = _("STAY-AT-HOME");
-const u8 gEasyChatWord_Berry[] = _("Berry");
-const u8 gEasyChatWord_Contest[] = _("Contest");
+const u8 gEasyChatWord_Berry[] = _("BERRY");
+const u8 gEasyChatWord_Contest[] = _("CONTEST");
 const u8 gEasyChatWord_Mc[] = _("MC");
 const u8 gEasyChatWord_Judge[] = _("JUDGE");
 const u8 gEasyChatWord_Super[] = _("SUPER");
@@ -10,19 +10,19 @@ const u8 gEasyChatWord_Stage[] = _("STAGE");
 const u8 gEasyChatWord_HallOfFame[] = _("HALL OF FAME");
 const u8 gEasyChatWord_Evolution[] = _("EVOLUTION");
 const u8 gEasyChatWord_Hyper[] = _("HYPER");
-const u8 gEasyChatWord_BattleTower[] = _("Battle Tower");
-const u8 gEasyChatWord_Leaders[] = _("Leaders");
-const u8 gEasyChatWord_BattleRoom[] = _("Battle ROOM");
+const u8 gEasyChatWord_BattleTower[] = _("BATTLE TOWER");
+const u8 gEasyChatWord_Leaders[] = _("LEADERS");
+const u8 gEasyChatWord_BattleRoom[] = _("BATTLE ROOM");
 const u8 gEasyChatWord_Hidden[] = _("HIDDEN");
 const u8 gEasyChatWord_SecretBase[] = _("SECRET BASE");
 const u8 gEasyChatWord_Blend[] = _("BLEND");
 const u8 gEasyChatWord_POKEBLOCK[] = _("{POKEBLOCK}");
 const u8 gEasyChatWord_Master[] = _("MASTER");
 const u8 gEasyChatWord_Rank[] = _("RANK");
-const u8 gEasyChatWord_Ribbon[] = _("Ribbon");
+const u8 gEasyChatWord_Ribbon[] = _("RIBBON");
 const u8 gEasyChatWord_Crush[] = _("CRUSH");
 const u8 gEasyChatWord_Direct[] = _("DIRECT");
-const u8 gEasyChatWord_Tower[] = _("Tower");
+const u8 gEasyChatWord_Tower[] = _("TOWER");
 const u8 gEasyChatWord_Union[] = _("UNION");
 const u8 gEasyChatWord_Room[] = _("ROOM");
 const u8 gEasyChatWord_Wireless[] = _("WIRELESS");
@@ -49,13 +49,13 @@ const struct EasyChatWordInfo gEasyChatGroup_Events[] = {
     },
     [EC_INDEX(EC_WORD_BERRY)] =
     {
-        .text = COMPOUND_STRING("Berry"),
+        .text = COMPOUND_STRING("BERRY"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_BERRY),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_CONTEST)] =
     {
-        .text = COMPOUND_STRING("Contest"),
+        .text = COMPOUND_STRING("CONTEST"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_BLEND),
         .enabled = TRUE,
     },
@@ -103,19 +103,19 @@ const struct EasyChatWordInfo gEasyChatGroup_Events[] = {
     },
     [EC_INDEX(EC_WORD_BATTLE_TOWER)] =
     {
-        .text = COMPOUND_STRING("Battle Tower"),
+        .text = COMPOUND_STRING("BATTLE TOWER"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_HIDDEN),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_LEADERS)] =
     {
-        .text = COMPOUND_STRING("Leaders"),
+        .text = COMPOUND_STRING("LEADERS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_HYPER),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_BATTLE_ROOM)] =
     {
-        .text = COMPOUND_STRING("Battle ROOM"),
+        .text = COMPOUND_STRING("BATTLE ROOM"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_JUDGE),
         .enabled = TRUE,
     },
@@ -157,7 +157,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Events[] = {
     },
     [EC_INDEX(EC_WORD_RIBBON)] =
     {
-        .text = COMPOUND_STRING("Ribbon"),
+        .text = COMPOUND_STRING("RIBBON"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_ROOM),
         .enabled = TRUE,
     },
@@ -175,7 +175,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Events[] = {
     },
     [EC_INDEX(EC_WORD_TOWER)] =
     {
-        .text = COMPOUND_STRING("Tower"),
+        .text = COMPOUND_STRING("TOWER"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_STAY_AT_HOME),
         .enabled = TRUE,
     },
@@ -199,7 +199,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Events[] = {
     },
     [EC_INDEX(EC_WORD_FRONTIER)] =
     {
-        .text = COMPOUND_STRING("Frontier"),
+        .text = COMPOUND_STRING("FRONTIER"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WIRELESS),
         .enabled = TRUE,
     },

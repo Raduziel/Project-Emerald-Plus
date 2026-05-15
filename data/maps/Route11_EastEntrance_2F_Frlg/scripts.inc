@@ -86,7 +86,7 @@ Route11_EastEntrance_2F_EventScript_GetAideRequestInfo::
 
 Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
 	.string "Hi! Remember me?\n"
-	.string "I'm one of Prof. Oak's AIDES.\p"
+	.string "I'm one of Prof. Oak's Aides.\p"
 	.string "If your Pokédex has complete data\n"
 	.string "on {STR_VAR_1} species, I'm supposed to\l"
 	.string "give you a reward.\p"
@@ -104,12 +104,12 @@ Route11_EastEntrance_2F_Text_GreatHereYouGo::
 
 Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide::
 	.string "{PLAYER} received the {STR_VAR_2}\n"
-	.string "from the AIDE.$"
+	.string "from the Aide.$"
 
 Route11_EastEntrance_2F_Text_ExplainItemfinder::
 	.string "There are items on the ground that\n"
 	.string "may be hidden from view.\p"
-	.string "Use the ITEMFINDER to detect any\n"
+	.string "Use the Itemfinder to detect any\n"
 	.string "hidden items close to you.\p"
 	.string "The machine is a bit limited.\n"
 	.string "It can't pinpoint item locations.\p"
@@ -133,6 +133,6 @@ Route11_EastEntrance_2F_Text_RockTunnelGoodRouteToLavender::
 	.string "to show…\p"
 	.string "To get to Lavender Town from\n"
 	.string "Cerulean City…\p"
-	.string "ROCK TUNNEL appears to be a good\n"
+	.string "Rock Tunnel appears to be a good\n"
 	.string "route to take.$"
 

@@ -154,13 +154,13 @@ Route113_Text_RouteSignFallarbor:
 	.string "{LEFT_ARROW} Fallarbor Town$"
 
 Route113_Text_TrainerTipsRegisterKeyItems:
-	.string "Trainer TIPS\p"
-	.string "You may register one of the KEY ITEMS\n"
-	.string "in your Bag as SELECT.\p"
-	.string "Simply press SELECT to use\n"
+	.string "Trainer Tips\p"
+	.string "You may register one of the Key Items\n"
+	.string "in your Bag as Select.\p"
+	.string "Simply press Select to use\n"
 	.string "the registered item conveniently.$"
 
 Route113_Text_GlassWorkshopSign:
-	.string "GLASS WORKSHOP\n"
+	.string "Glass Workshop\n"
 	.string "“Turning Volcanic Ash into Glass Items”$"
 

@@ -147,7 +147,7 @@ ViridianCity_School_Text_HeyDontLookAtMyNotes::
 
 ViridianCity_School_Text_BlackboardListsStatusProblems::
 	.string "The blackboard lists Pokémon\n"
-	.string "STATUS problems during battles.$"
+	.string "Status problems during battles.$"
 
 ViridianCity_School_Text_ReadWhichTopic::
 	.string "Which topic do you want to read?$"
@@ -157,14 +157,14 @@ ViridianCity_School_Text_ExplainSleep::
 	.string "asleep.\p"
 	.string "Pokémon will stay asleep even\n"
 	.string "after battles.\p"
-	.string "Use AWAKENING to awaken one\n"
+	.string "Use Awakening to awaken one\n"
 	.string "from sleep.$"
 
 ViridianCity_School_Text_ExplainBurn::
-	.string "A burn reduces ATTACK power.\n"
+	.string "A burn reduces Attack power.\n"
 	.string "It also causes ongoing HP loss.\p"
 	.string "A burn remains after a battle.\n"
-	.string "Use BURN HEAL to cure a burn.$"
+	.string "Use Burn Heal to cure a burn.$"
 
 ViridianCity_School_Text_ExplainPoison::
 	.string "When poisoned, a Pokémon's health\n"
@@ -177,12 +177,12 @@ ViridianCity_School_Text_ExplainFreeze::
 	.string "helplessly immobile.\p"
 	.string "It stays frozen even after the\n"
 	.string "battle ends.\p"
-	.string "Use ICE HEAL to thaw out the\n"
+	.string "Use Ice Heal to thaw out the\n"
 	.string "suffering Pokémon.$"
 
 ViridianCity_School_Text_ExplainParalysis::
-	.string "Paralysis reduces SPEED and may\n"
+	.string "Paralysis reduces Speed and may\n"
 	.string "prevent the Pokémon from moving.\p"
 	.string "Paralysis remains after battles.\n"
-	.string "Use PARLYZ HEAL for treatment.$"
+	.string "Use Parlyz Heal for treatment.$"
 

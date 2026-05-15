@@ -42,12 +42,12 @@ ThreeIsland_Mart_Text_TrueThatCeldadonDeptStoreBigger::
 ThreeIsland_Mart_Text_PeopleHealWithBerriesFromForest::
 	.string "I sometimes buy medicine here.\p"
 	.string "But a lot of people heal Pokémon\n"
-	.string "with BERRIES from Berry Forest.\p"
-	.string "After all, BERRIES are free and\n"
+	.string "with Berries from Berry Forest.\p"
+	.string "After all, Berries are free and\n"
 	.string "they never run out.$"
 
 ThreeIsland_Mart_Text_BikersWereAboutToTrashMart::
-	.string "Those BIKERS were about to trash\n"
+	.string "Those Bikers were about to trash\n"
 	.string "this Pokémon Mart.\p"
 	.string "Am I glad they decided to leave!$"
 

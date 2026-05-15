@@ -43,7 +43,7 @@ Route20_Text_BarryPostBattle::
 	.string "I bet you're not tired.$"
 
 Route20_Text_ShirleyIntro::
-	.string "SEAFOAM is a quiet getaway.\n"
+	.string "Seafoam is a quiet getaway.\n"
 	.string "I'm vacationing here.$"
 
 Route20_Text_ShirleyDefeat::
@@ -70,7 +70,7 @@ Route20_Text_IreneDefeat::
 	.string "No mercy at all!$"
 
 Route20_Text_IrenePostBattle::
-	.string "SEAFOAM used to be a single island\n"
+	.string "Seafoam used to be a single island\n"
 	.string "in the distant past.$"
 
 Route20_Text_DeanIntro::
@@ -114,7 +114,7 @@ Route20_Text_NoraDefeat::
 
 Route20_Text_NoraPostBattle::
 	.string "Will my pearls grow bigger inside\n"
-	.string "CLOYSTER?$"
+	.string "Cloyster?$"
 
 Route20_Text_MissyIntro::
 	.string "I swam here from Cinnabar Island.\n"
@@ -144,10 +144,10 @@ Route20_Text_MelissaPostBattle::
 	.string "when a volcano erupted.$"
 
 Route20_Text_SeafoamIslands::
-	.string "SEAFOAM Islands$"
+	.string "Seafoam Islands$"
 
 Route20_Text_MistyTrainsHere::
-	.string "Strong Trainers and WATER Pokémon\n"
+	.string "Strong Trainers and Water Pokémon\n"
 	.string "are common sights in these parts.\p"
 	.string "They say that Misty of the\n"
 	.string "Cerulean Gym trains here.$"

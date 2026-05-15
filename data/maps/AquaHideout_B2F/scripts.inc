@@ -91,7 +91,7 @@ AquaHideout_B2F_Text_MattIntro:
 	.string "Got here already, did you?\n"
 	.string "We underestimated you!\p"
 	.string "But this is it!\p"
-	.string "I'm a cut above the GRUNTS you've seen\n"
+	.string "I'm a cut above the Grunts you've seen\n"
 	.string "so far.\p"
 	.string "I'm not stalling for time.\n"
 	.string "I'm going to pulverize you!$"
@@ -141,7 +141,7 @@ AquaHideout_B2F_Text_Grunt6Defeat:
 
 AquaHideout_B2F_Text_Grunt6PostBattle:
 	.string "That reminds me… I can't remember\n"
-	.string "where I put the MASTER Ball.\p"
+	.string "where I put the Master Ball.\p"
 	.string "If I fail to guard it, our Boss will\n"
 	.string "chew me out…$"
 

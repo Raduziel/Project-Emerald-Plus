@@ -284,7 +284,7 @@ LavaridgeTown_Text_MayNiceBadgesTakeThis:
 	.string "have this.$"
 
 LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
-	.string "May: With those GO-GOGGLES, you'll\n"
+	.string "May: With those Go-Goggles, you'll\n"
 	.string "have no trouble getting through the\l"
 	.string "desert near Route 111.\p"
 	.string "But, wow, {PLAYER}{KUN}…\n"
@@ -348,7 +348,7 @@ LavaridgeTown_Text_AsYouWishThen:
 
 LavaridgeTown_Text_EverySoOftenEggFoundAtDayCare:
 	.string "Every so often, an Egg will be found at\n"
-	.string "the Pokémon DAY CARE.\p"
+	.string "the Pokémon Day Care.\p"
 	.string "Or at least that's how the rumor goes.$"
 
 LavaridgeTown_Text_HotSpringsNeverRunDry:
@@ -392,7 +392,7 @@ LavaridgeTown_Text_HotSpringsClaims:
 
 LavaridgeTown_Text_TownSign:
 	.string "Lavaridge Town\p"
-	.string "“Pokémon Center HOT SPRINGS\n"
+	.string "“Pokémon Center Hot Springs\n"
 	.string "An excellent place for relaxing!”$"
 
 LavaridgeTown_Text_GymSign:
@@ -401,6 +401,6 @@ LavaridgeTown_Text_GymSign:
 	.string "“One with a fiery passion that burns!”$"
 
 LavaridgeTown_Text_HerbShopSign:
-	.string "Pokémon HERB SHOP\n"
+	.string "Pokémon Herb Shop\n"
 	.string "“Bitter taste--better cure!”$"
 

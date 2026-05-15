@@ -8646,7 +8646,7 @@ bool32 CanMegaEvolve(enum BattlerId battler)
     if (GetBattleFormChangeTargetSpecies(battler, FORM_CHANGE_BATTLE_MEGA_EVOLUTION_MOVE, ability) != gBattleMons[battler].species)
         return TRUE;
 
-    // No checks passed, the mon CAN'T mega evolve.
+    // No checks passed, the mon CAN't mega evolve.
     return FALSE;
 }
 
@@ -8679,7 +8679,7 @@ bool32 CanUltraBurst(enum BattlerId battler)
     if (GetBattleFormChangeTargetSpecies(battler, FORM_CHANGE_BATTLE_ULTRA_BURST, ability) != gBattleMons[battler].species && holdEffect == HOLD_EFFECT_Z_CRYSTAL)
         return TRUE;
 
-    // No checks passed, the mon CAN'T ultra burst.
+    // No checks passed, the mon CAN't ultra burst.
     return FALSE;
 }
 

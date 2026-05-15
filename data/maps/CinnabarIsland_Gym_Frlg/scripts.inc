@@ -717,22 +717,22 @@ CinnabarIsland_Gym_Text_BlaineIntro::
 	.string "and ready with intense heat!\p"
 	.string "They incinerate all challengers!\p"
 	.string "Hah!\n"
-	.string "You better have BURN HEAL!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
+	.string "You better have Burn Heal!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 CinnabarIsland_Gym_Text_BlaineDefeat::
 	.string "I have burned down to nothing!\n"
 	.string "Not even ashes remain!\p"
-	.string "You have earned the VOLCANOBADGE.$"
+	.string "You have earned the Volcano Badge.$"
 
 CinnabarIsland_Gym_Text_FireBlastIsUltimateFireMove::
-	.string "FIRE BLAST is the ultimate fire\n"
+	.string "Fire Blast is the ultimate fire\n"
 	.string "technique.\p"
-	.string "Don't waste it on WATER Pokémon.$"
+	.string "Don't waste it on Water Pokémon.$"
 
 CinnabarIsland_Gym_Text_ExplainVolcanoBadge::
 	.string "Hah!\p"
-	.string "The VOLCANOBADGE heightens the\n"
-	.string "SPECIAL stats of your Pokémon.\p"
+	.string "The Volcano Badge heightens the\n"
+	.string "Special stats of your Pokémon.\p"
 	.string "Here, you can have this, too!$"
 
 CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
@@ -740,9 +740,9 @@ CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
 	.string "from Blaine.$"
 
 CinnabarIsland_Gym_Text_BlainePostBattle::
-	.string "TM38 contains FIRE BLAST.\n"
-	.string "Teach it to FIRE-type Pokémon.\p"
-	.string "VULPIX or CHARMELEON would be\n"
+	.string "TM38 contains Fire Blast.\n"
+	.string "Teach it to Fire-type Pokémon.\p"
+	.string "Vulpix or Charmeleon would be\n"
 	.string "ideal for that move.$"
 
 CinnabarIsland_Gym_Text_MakeSpaceForThis::
@@ -786,7 +786,7 @@ CinnabarIsland_Gym_Text_AveryPostBattle::
 	.string "for you to understand.$"
 
 CinnabarIsland_Gym_Text_RamonIntro::
-	.string "I like using FIRE-type Pokémon.\n"
+	.string "I like using Fire-type Pokémon.\n"
 	.string "I just do.$"
 
 CinnabarIsland_Gym_Text_RamonDefeat::
@@ -820,8 +820,8 @@ CinnabarIsland_Gym_Text_DustyDefeat::
 	.string "Too hot!$"
 
 CinnabarIsland_Gym_Text_DustyPostBattle::
-	.string "PONYTA, NINETALES…\n"
-	.string "Those are popular FIRE Pokémon.$"
+	.string "Ponyta, Ninetales…\n"
+	.string "Those are popular Fire Pokémon.$"
 
 CinnabarIsland_Gym_Text_ZacIntro::
 	.string "Fire is weak against H2O.$"
@@ -832,17 +832,17 @@ CinnabarIsland_Gym_Text_ZacDefeat::
 
 CinnabarIsland_Gym_Text_ZacPostBattle::
 	.string "Water beats fire, of course.\p"
-	.string "But fire melts ice, so the FIRE\n"
-	.string "type beats ICE-type Pokémon.$"
+	.string "But fire melts ice, so the Fire\n"
+	.string "type beats Ice-type Pokémon.$"
 
 CinnabarIsland_Gym_Text_GymGuyAdvice::
 	.string "Yo!\n"
 	.string "Champ in the making!\p"
-	.string "The hotheaded Blaine is a FIRE\n"
+	.string "The hotheaded Blaine is a Fire\n"
 	.string "Pokémon pro.\p"
 	.string "Douse his spirits with water!\p"
 	.string "You'd better take some\n"
-	.string "BURN HEALS, too.$"
+	.string "Burn Heals, too.$"
 
 CinnabarIsland_Gym_Text_GymGuyPostVictory::
 	.string "{PLAYER}!\n"
@@ -851,13 +851,13 @@ CinnabarIsland_Gym_Text_GymGuyPostVictory::
 CinnabarIsland_Gym_Text_GymStatue::
 	.string "Cinnabar Pokémon Gym\n"
 	.string "Leader: Blaine\p"
-	.string "WINNING Trainers:\n"
+	.string "Winning Trainers:\n"
 	.string "{RIVAL}$"
 
 CinnabarIsland_Gym_Text_GymStatuePlayerWon::
 	.string "Cinnabar Pokémon Gym\n"
 	.string "Leader: Blaine\p"
-	.string "WINNING Trainers:\n"
+	.string "Winning Trainers:\n"
 	.string "{RIVAL}, {PLAYER}$"
 
 CinnabarIsland_Gym_Text_PokemonQuizRules::
@@ -871,25 +871,25 @@ CinnabarIsland_Gym_Text_PokemonQuizRules::
 	.string "Here we go!$"
 
 CinnabarIsland_Gym_Text_QuizQuestion1::
-	.string "CATERPIE evolves into METAPOD?$"
+	.string "Caterpie evolves into Metapod?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion2::
 	.string "There are nine certified Pokémon\n"
 	.string "League Badges?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion3::
-	.string "POLIWAG evolves three times?$"
+	.string "Poliwag evolves three times?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion4::
 	.string "Are electric moves effective\n"
-	.string "against GROUND-type Pokémon?$"
+	.string "against Ground-type Pokémon?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion5::
 	.string "Pokémon of the same kind and level\n"
 	.string "are not identical?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion6::
-	.string "TM28 contains TOMBSTONY?$"
+	.string "TM28 contains Tombstony?$"
 
 CinnabarIsland_Gym_Text_CorrectGoOnThrough::
 	.string "You're absolutely correct!\p"

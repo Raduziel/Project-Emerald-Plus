@@ -86,7 +86,7 @@ EverGrandeCity_HallOfFame_Text_HereWeHonorLeagueChampions:
 	.string "This is where we keep records of\n"
 	.string "Pokémon that prevailed through\l"
 	.string "harsh battles.\p"
-	.string "It is here that the League CHAMPIONS\n"
+	.string "It is here that the League Champions\n"
 	.string "are honored.$"
 
 EverGrandeCity_HallOfFame_Text_LetsRecordYouAndYourPartnersNames:

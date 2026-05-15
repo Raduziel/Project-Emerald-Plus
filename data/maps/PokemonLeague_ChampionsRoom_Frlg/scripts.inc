@@ -261,11 +261,11 @@ PokemonLeague_ChampionsRoom_Text_RematchIntro::
 	.string "the world!$"
 
 PokemonLeague_ChampionsRoom_Text_Defeat::
-	.string "NO!\n"
+	.string "No!\n"
 	.string "That can't be!\l"
 	.string "You beat me at my best!\p"
 	.string "After all that work to become\n"
-	.string "the League CHAMP?\p"
+	.string "the League Champ?\p"
 	.string "My reign is over already?\n"
 	.string "It's not fair!$"
 
@@ -314,7 +314,7 @@ PokemonLeague_ChampionsRoom_Text_OakImDisappointedRival::
 	.string "You have forgotten to treat your\n"
 	.string "Pokémon with love and trust.\p"
 	.string "Without them, you will never\n"
-	.string "become a CHAMP again!$"
+	.string "become a Champ again!$"
 
 PokemonLeague_ChampionsRoom_Text_OakPlayerComeWithMe::
 	.string "Oak: {PLAYER}.\p"

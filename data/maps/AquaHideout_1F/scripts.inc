@@ -92,7 +92,7 @@ AquaHideout_1F_Text_TeamMagmaAtMtChimney:
 	.string "What? What?\n"
 	.string "Are you a Team Magma grunt?\p"
 	.string "I hear that Team Magma is after\n"
-	.string "an awesome Pokémon at MT. CHIMNEY.\p"
+	.string "an awesome Pokémon at Mt. Chimney.\p"
 	.string "But what is that Pokémon like?$"
 
 AquaHideout_1F_Text_BossIsInSlateportCity:

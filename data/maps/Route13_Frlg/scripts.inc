@@ -18,7 +18,7 @@ Route13_Text_SebastianIntro::
 	.string "with you!$"
 
 Route13_Text_SebastianDefeat::
-	.string "My PIDGEY and PIDGEOTTO combo\n"
+	.string "My Pidgey and Pidgeotto combo\n"
 	.string "lost?$"
 
 Route13_Text_SebastianPostBattle::
@@ -60,7 +60,7 @@ Route13_Text_GwenPostBattle::
 	.string "to toughen them up.$"
 
 Route13_Text_AlmaIntro::
-	.string "I found CARBOS in a cave once\n"
+	.string "I found Carbos in a cave once\n"
 	.string "while I was spelunking.$"
 
 Route13_Text_AlmaDefeat::
@@ -68,7 +68,7 @@ Route13_Text_AlmaDefeat::
 	.string "I just messed up!$"
 
 Route13_Text_AlmaPostBattle::
-	.string "CARBOS boosted the SPEED of my\n"
+	.string "Carbos boosted the Speed of my\n"
 	.string "Pokémon.$"
 
 Route13_Text_PerryIntro::
@@ -124,20 +124,20 @@ Route13_Text_RobertDefeat::
 	.string "Out of power!$"
 
 Route13_Text_RobertPostBattle::
-	.string "I wish I could fly like PIDGEY and\n"
-	.string "PIDGEOTTO…$"
+	.string "I wish I could fly like Pidgey and\n"
+	.string "Pidgeotto…$"
 
 Route13_Text_LookToLeftOfThatPost::
-	.string "Trainer TIPS\p"
+	.string "Trainer Tips\p"
 	.string "Look, look!\n"
 	.string "Look to the left of that post!$"
 
 Route13_Text_SelectToSwitchItems::
-	.string "Trainer TIPS\p"
-	.string "Use SELECT to switch items in the\n"
-	.string "ITEMS window.$"
+	.string "Trainer Tips\p"
+	.string "Use Select to switch items in the\n"
+	.string "Items window.$"
 
 Route13_Text_RouteSign::
 	.string "Route 13\n"
-	.string "North to SILENCE BRIDGE$"
+	.string "North to Silence Bridge$"
 

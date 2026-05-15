@@ -291,7 +291,7 @@ SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis:
 	.string "What are you doing here?\p"
 	.string "Me? I'm the Team Aqua member\n"
 	.string "you thumped before, remember?\l"
-	.string "Back in RUSTURF TUNNEL?\p"
+	.string "Back in Rusturf Tunnel?\p"
 	.string "Here, take this!\n"
 	.string "You have to forgive me!$"
 
@@ -309,7 +309,7 @@ SlateportCity_OceanicMuseum_1F_Text_WhirlpoolExperiment:
 	.string "A blue fluid is spiraling inside\n"
 	.string "a glass vessel.\p"
 	.string "“This is an experiment to create a\n"
-	.string "WHIRLPOOL artificially using wind.”$"
+	.string "Whirlpool artificially using wind.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_WaterfallExperiment:
 	.string "A red ball is bobbing up and down\n"

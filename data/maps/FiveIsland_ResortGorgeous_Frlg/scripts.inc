@@ -65,7 +65,7 @@ FiveIsland_ResortGorgeous_Text_CelinaDefeat::
 	.string "I feel like I'm whiting out…$"
 
 FiveIsland_ResortGorgeous_Text_CelinaPostBattle::
-	.string "GILLIAN?\n"
+	.string "Gillian?\n"
 	.string "Please tilt your head slightly…\l"
 	.string "There! That's the look I want!$"
 
@@ -130,9 +130,9 @@ FiveIsland_ResortGorgeous_Text_TobyPostBattle::
 	.string "How nonsensical.$"
 
 FiveIsland_ResortGorgeous_Text_SelphyThanksYouMayGoNow::
-	.string "SELPHY: Thank you.\p"
+	.string "Selphy: Thank you.\p"
 	.string "You may go now.$"
 
 FiveIsland_ResortGorgeous_Text_SelphysHouse::
-	.string "SELPHY's House$"
+	.string "Selphy's House$"
 

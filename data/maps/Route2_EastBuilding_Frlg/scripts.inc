@@ -40,7 +40,7 @@ Route2_EastBuilding_EventScript_Rocker::
 
 Route2_EastBuilding_Text_GiveHM05IfSeen10Mons::
 	.string "Hi! Remember me?\n"
-	.string "I'm one of Prof. Oak's AIDES.\p"
+	.string "I'm one of Prof. Oak's Aides.\p"
 	.string "If your Pokédex has complete data\n"
 	.string "on ten species, I'm supposed to\l"
 	.string "give you a reward.\p"
@@ -58,7 +58,7 @@ Route2_EastBuilding_Text_GreatHereYouGo::
 
 Route2_EastBuilding_Text_ReceivedHM05FromAide::
 	.string "{PLAYER} received HM05\n"
-	.string "from the AIDE.$"
+	.string "from the Aide.$"
 
 Route2_EastBuilding_Text_ExplainHM05::
 	.string "HM05 contains the hidden move\n"
@@ -68,5 +68,5 @@ Route2_EastBuilding_Text_ExplainHM05::
 
 Route2_EastBuilding_Text_CanGetThroughRockTunnel::
 	.string "Once a Pokémon learns Flash, you\n"
-	.string "can get through ROCK TUNNEL.$"
+	.string "can get through Rock Tunnel.$"
 

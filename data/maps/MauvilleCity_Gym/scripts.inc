@@ -260,8 +260,8 @@ MauvilleCity_Gym_Text_GymGuideAdvice:
 	.string "Hey, how's it going, Champion-\n"
 	.string "bound {PLAYER}?\p"
 	.string "Wattson, the Leader of Mauville\n"
-	.string "Gym, uses ELECTRIC-type Pokémon.\p"
-	.string "If you challenge him with WATER-type\n"
+	.string "Gym, uses Electric-type Pokémon.\p"
+	.string "If you challenge him with Water-type\n"
 	.string "Pokémon, he'll zap them! Bzzt!\p"
 	.string "And, he's put in switch-controlled\n"
 	.string "doors all over his Gym! Eccentric!\p"
@@ -352,11 +352,11 @@ MauvilleCity_Gym_Text_WattsonDefeat:
 	.string "Take this Badge!$"
 
 MauvilleCity_Gym_Text_ReceivedDynamoBadge:
-	.string "{PLAYER} received the DYNAMO Badge\n"
+	.string "{PLAYER} received the Dynamo Badge\n"
 	.string "from Wattson.$"
 
 MauvilleCity_Gym_Text_ExplainDynamoBadgeTakeThis:
-	.string "With the DYNAMO Badge, Pokémon can\n"
+	.string "With the Dynamo Badge, Pokémon can\n"
 	.string "use Rock Smash out of battle.\p"
 	.string "And, it will make your Pokémon a little\n"
 	.string "bit faster, too.\p"
@@ -364,7 +364,7 @@ MauvilleCity_Gym_Text_ExplainDynamoBadgeTakeThis:
 	.string "You should take this, too!$"
 
 MauvilleCity_Gym_Text_ExplainShockWave:
-	.string "That TM34 there contains SHOCK WAVE.\p"
+	.string "That TM34 there contains Shock Wave.\p"
 	.string "It's a trustworthy move that never\n"
 	.string "misses! You can count on it!\p"
 	.string "… … … … … …$"

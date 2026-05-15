@@ -89,7 +89,7 @@ PokemonLeague_AgathasRoom_EventScript_DefeatedAgatha::
 	end
 
 PokemonLeague_AgathasRoom_Text_Intro::
-	.string "I am AGATHA of the Elite Four.\p"
+	.string "I am Agatha of the Elite Four.\p"
 	.string "I hear Oak's taken a lot of\n"
 	.string "interest in you, child.\p"
 	.string "That old duff was once tough and\n"
@@ -104,7 +104,7 @@ PokemonLeague_AgathasRoom_Text_Intro::
 	.string "Trainer battles!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_AgathasRoom_Text_RematchIntro::
-	.string "I am AGATHA of the Elite Four.\p"
+	.string "I am Agatha of the Elite Four.\p"
 	.string "You're the child that Oak's taken\n"
 	.string "under his wing, aren't you?\p"
 	.string "That old duff was once tough and\n"

@@ -33,7 +33,7 @@ FourIsland_LoreleisHouse_EventScript_Doll::
 	end
 
 FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
-	.string "LORELEI: There's something weighing\n"
+	.string "Lorelei: There's something weighing\n"
 	.string "heavily on my mind.\p"
 	.string "If anything were to happen on\n"
 	.string "the island where I was born…\p"
@@ -43,7 +43,7 @@ FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
 	.string "irresponsible to my home…$"
 
 FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
-	.string "LORELEI: So, you managed to solve\n"
+	.string "Lorelei: So, you managed to solve\n"
 	.string "all the problems here?\p"
 	.string "That's wonderful.\p"
 	.string "That means there isn't any reason\n"

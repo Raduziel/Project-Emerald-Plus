@@ -373,12 +373,12 @@ CeruleanCity_Text_RivalDefeat::
 
 CeruleanCity_Text_RivalPostBattle::
 	.string "{RIVAL}: Hey, guess what?\p"
-	.string "I went to BILL's and got him to\n"
+	.string "I went to Bill's and got him to\n"
 	.string "show me his rare Pokémon.\p"
 	.string "That added a lot of pages to my\n"
 	.string "Pokédex!\p"
-	.string "After all, BILL's world famous as a\n"
-	.string "POKéMANIAC.\p"
+	.string "After all, Bill's world famous as a\n"
+	.string "Poké Maniac.\p"
 	.string "He invented the Pokémon Storage\n"
 	.string "System on PC, too.\p"
 	.string "Since you're using his system,\n"
@@ -443,7 +443,7 @@ CeruleanCity_Text_YouCanCutDownSmallTrees::
 	.string "though.$"
 
 CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
-	.string "If that SLOWBRO wasn't there, you\n"
+	.string "If that Slowbro wasn't there, you\n"
 	.string "could Cut down the small tree.\p"
 	.string "That way, you could get to the\n"
 	.string "other side.\p"
@@ -458,25 +458,25 @@ CeruleanCity_Text_PeopleHereWereRobbed::
 	.string "The people here were robbed.\p"
 	.string "It's obvious that Team Rocket is\n"
 	.string "behind this most heinous crime!\p"
-	.string "Even our POLICE FORCE has\n"
-	.string "trouble with the ROCKETS!$"
+	.string "Even our Police Force has\n"
+	.string "trouble with the Rockets!$"
 
 CeruleanCity_Text_SlowbroUseSonicboom::
-	.string "Okay! SLOWBRO!\n"
-	.string "Use SONICBOOM!$"
+	.string "Okay! Slowbro!\n"
+	.string "Use Sonicboom!$"
 
 CeruleanCity_Text_SlowbroPayAttention::
-	.string "Come on, SLOWBRO, pay attention!$"
+	.string "Come on, Slowbro, pay attention!$"
 
 CeruleanCity_Text_SlowbroPunch::
-	.string "SLOWBRO, punch!$"
+	.string "Slowbro, punch!$"
 
 CeruleanCity_Text_NoYouBlewItAgain::
 	.string "No!\n"
 	.string "You blew it again!$"
 
 CeruleanCity_Text_SlowbroWithdraw::
-	.string "SLOWBRO, WITHDRAW!$"
+	.string "Slowbro, Withdraw!$"
 
 CeruleanCity_Text_HardToControlMonsObedience::
 	.string "No! That's wrong!\n"
@@ -485,16 +485,16 @@ CeruleanCity_Text_HardToControlMonsObedience::
 	.string "on your abilities as a Trainer.$"
 
 CeruleanCity_Text_SlowbroTookSnooze::
-	.string "SLOWBRO took a snooze…$"
+	.string "Slowbro took a snooze…$"
 
 CeruleanCity_Text_SlowbroLoafingAround::
-	.string "SLOWBRO is loafing around…$"
+	.string "Slowbro is loafing around…$"
 
 CeruleanCity_Text_SlowbroTurnedAway::
-	.string "SLOWBRO turned away…$"
+	.string "Slowbro turned away…$"
 
 CeruleanCity_Text_SlowbroIgnoredOrders::
-	.string "SLOWBRO ignored orders…$"
+	.string "Slowbro ignored orders…$"
 
 CeruleanCity_Text_WantBrightRedBicycle::
 	.string "I want a bright red bicycle.\p"
@@ -519,7 +519,7 @@ CeruleanCity_Text_CitySign::
 	.string "It$"
 
 CeruleanCity_Text_TrainerTipsHeldItems::
-	.string "Trainer TIPS\p"
+	.string "Trainer Tips\p"
 	.string "A Pokémon can be made to hold\n"
 	.string "an item.\p"
 	.string "Some items can even be used by\n"
@@ -527,7 +527,7 @@ CeruleanCity_Text_TrainerTipsHeldItems::
 
 CeruleanCity_Text_BikeShopSign::
 	.string "Grass and caves handled easily!\n"
-	.string "BIKE SHOP$"
+	.string "Bike Shop$"
 
 CeruleanCity_Text_GymSign::
 	.string "Cerulean City Pokémon Gym\n"

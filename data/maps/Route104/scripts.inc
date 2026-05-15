@@ -996,7 +996,7 @@ Route104_EventScript_Darian::
 
 Route104_Text_BrineyLivesInSeasideCottage:
 	.string "That seaside cottage is where\n"
-	.string "Mr. BRINEY lives.\p"
+	.string "Mr. Briney lives.\p"
 	.string "He was once a mighty sailor who never\n"
 	.string "feared the sea, however stormy.$"
 
@@ -1033,27 +1033,27 @@ Route104_Text_LikeFillingMouthWithSeedsTakeThis:
 
 Route104_Text_TMsAreOneTimeUse:
 	.string "A word of advice!\p"
-	.string "A TM, TECHNICAL MACHINE, is good only\n"
+	.string "A TM, Technical Machine, is good only\n"
 	.string "for one-time use.\p"
 	.string "Once you use it, it's gone.\n"
 	.string "Think twice before using it!$"
 
 Route104_Text_DontNeedThisTakeIt:
-	.string "This FLOWER SHOP started selling\n"
+	.string "This Flower Shop started selling\n"
 	.string "saplings recently.\p"
 	.string "It made me so happy, I went overboard\n"
 	.string "shopping.\p"
-	.string "I don't need this WHITE HERB anymore.\n"
+	.string "I don't need this White Herb anymore.\n"
 	.string "Would you take it, please?$"
 
 Route104_Text_FlowerShopSellingSaplings:
-	.string "This FLOWER SHOP started selling\n"
+	.string "This Flower Shop started selling\n"
 	.string "saplings recently.\p"
 	.string "It made me so happy, I went overboard\n"
 	.string "shopping. Where should I put them?$"
 
 Route104_Text_MrBrineysCottage:
-	.string "Mr. BRINEY's COTTAGE$"
+	.string "Mr. Briney's Cottage$"
 
 Route104_Text_RouteSignPetalburg:
 	.string "Route 1O4\n"
@@ -1064,15 +1064,15 @@ Route104_Text_RouteSignRustboro:
 	.string "{UP_ARROW} Rustboro City$"
 
 Route104_Text_PrettyPetalFlowShop:
-	.string "PRETTY PETAL FLOWER SHOP$"
+	.string "Pretty Petal Flower Shop$"
 
 Route104_Text_TrainerTipsDoubleBattles:
-	.string "Trainer TIPS\p"
+	.string "Trainer Tips\p"
 	.string "In the Hoenn region there are pairs\n"
 	.string "of Trainers who challenge others\l"
 	.string "for 2-on-2 Pokémon battles called\l"
-	.string "DOUBLE BATTLES.\p"
-	.string "In a DOUBLE Battle, the Trainer must\n"
+	.string "Double Battles.\p"
+	.string "In a Double Battle, the Trainer must\n"
 	.string "send out two Pokémon, the one at the\l"
 	.string "left of the list and the top one.\l"
 	.string "Watch how Pokémon are lined up.$"
@@ -1119,14 +1119,14 @@ Route104_Text_MayPostBattle:
 	.string "May: I can tell you've gotten pretty\n"
 	.string "good with the way you handle Pokémon.\p"
 	.string "But instead of only making them\n"
-	.string "battle, you should be like Mr. BRINEY.\p"
+	.string "battle, you should be like Mr. Briney.\p"
 	.string "It's important to become friends with\n"
 	.string "Pokémon, too.$"
 
 Route104_Text_BrendanWeShouldRegister:
 	.string "Brendan: Oh, hey, {PLAYER}!\p"
-	.string "Cool, you had Devon install the MATCH\n"
-	.string "CALL system on your PokéNav!\p"
+	.string "Cool, you had Devon install the Match\n"
+	.string "Call system on your PokéNav!\p"
 	.string "Let's register each other in our\n"
 	.string "POKéNAVS so we can keep in touch.$"
 
@@ -1164,5 +1164,5 @@ Route104_Text_BrendanPostBattle:
 	.string "at handling Pokémon.\p"
 	.string "But, you know, you shouldn't just be\n"
 	.string "making Pokémon battle.\p"
-	.string "Like Mr. BRINEY, it's important to\n"
+	.string "Like Mr. Briney, it's important to\n"
 	.string "become friends with your Pokémon.$"

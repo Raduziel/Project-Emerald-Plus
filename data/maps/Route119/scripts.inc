@@ -534,10 +534,10 @@ Route119_Text_BrendanExplainFly:
 	.string "Anyway, I have to move along.$"
 
 Route119_Text_ScottWayToGoBeSeeingYou:
-	.string "SCOTT: Hahahah!\n"
+	.string "Scott: Hahahah!\n"
 	.string "Way to go, {PLAYER}{KUN}!\p"
 	.string "I just passed by a Trainer riding\n"
-	.string "a BIKE.\p"
+	.string "a Bike.\p"
 	.string "You just beat that Trainer, didn't you?\n"
 	.string "It was pretty obvious that you did.\p"
 	.string "The kid looked really upset with\n"
@@ -551,7 +551,7 @@ Route119_Text_ScottWayToGoBeSeeingYou:
 Route119_Text_ScottYouWonAtFortreeGym:
 	.string "… … … … … …\n"
 	.string "… … … … … Beep!\p"
-	.string "SCOTT: Hiya, {PLAYER}{KUN}, it's me!\p"
+	.string "Scott: Hiya, {PLAYER}{KUN}, it's me!\p"
 	.string "Just as I thought, you won at\n"
 	.string "the Fortree Gym.\p"
 	.string "Your strength…\n"
@@ -565,17 +565,17 @@ Route119_Text_ScottYouWonAtFortreeGym:
 
 Route119_Text_StayAwayFromWeatherInstitute:
 	.string "We're standing lookout here.\p"
-	.string "Hey, you! Stay away from the WEATHER\n"
-	.string "INSTITUTE. It's not safe.$"
+	.string "Hey, you! Stay away from the Weather\n"
+	.string "Institute. It's not safe.$"
 
 Route119_Text_DontGoNearWeatherInstitute:
 	.string "Lookout duty is surprisingly boring.\p"
 	.string "Hey, you! Please don't go near the\n"
-	.string "WEATHER INSTITUTE.$"
+	.string "Weather Institute.$"
 
 Route119_Text_ThoughtFlyByCatchingBirdMons:
 	.string "I thought you Fly by catching a whole\n"
-	.string "flock of BIRD Pokémon, and then\l"
+	.string "flock of Bird Pokémon, and then\l"
 	.string "hanging on to them somehow.\p"
 	.string "But it turns out there's an HM move\n"
 	.string "called Fly!\p"
@@ -585,26 +585,26 @@ Route119_Text_ThoughtFlyByCatchingBirdMons:
 Route119_Text_TallGrassSnaresBikeTires:
 	.string "Tch…\n"
 	.string "It's a no-go…\p"
-	.string "The tall grass snares BIKE tires.\n"
+	.string "The tall grass snares Bike tires.\n"
 	.string "There's no way you can cycle here.$"
 
 Route119_Text_CanYourMonMakeSecretBase:
-	.string "Can your Pokémon use its SECRET POWER\n"
+	.string "Can your Pokémon use its Secret Power\n"
 	.string "on a big pile of grass and make a\l"
-	.string "SECRET BASE?$"
+	.string "Secret Base?$"
 
 Route119_Text_RouteSignFortree:
 	.string "Route 119\n"
 	.string "{RIGHT_ARROW} Fortree City$"
 
 Route119_Text_WeatherInstitute:
-	.string "WEATHER INSTITUTE$"
+	.string "Weather Institute$"
 
 Route119_Text_TrainerTipsDecoration:
-	.string "Trainer TIPS\p"
+	.string "Trainer Tips\p"
 	.string "Up to sixteen decorations and\n"
 	.string "furniture items can be placed in\l"
-	.string "a SECRET BASE.\p"
+	.string "a Secret Base.\p"
 	.string "Pick your favorite items and create\n"
-	.string "your very own SECRET BASE exactly the\l"
+	.string "your very own Secret Base exactly the\l"
 	.string "way you want.$"

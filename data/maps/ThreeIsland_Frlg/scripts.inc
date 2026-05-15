@@ -398,7 +398,7 @@ ThreeIsland_Text_GoBackToKanto::
 	.string "We don't need you people bringing\n"
 	.string "your noise and trouble here!\p"
 	.string "We're asking you to go back to\n"
-	.string "KANTO!$"
+	.string "Kanto!$"
 
 ThreeIsland_Text_BossIsOnHisWay::
 	.string "Hey, go cry somewhere else.\n"
@@ -416,7 +416,7 @@ ThreeIsland_Text_WhosGonnaMakeMe::
 
 ThreeIsland_Text_AreYouBossGoBackToKanto::
 	.string "Are you the boss?\n"
-	.string "Go back to KANTO right now!$"
+	.string "Go back to Kanto right now!$"
 
 ThreeIsland_Text_JustGotHerePal::
 	.string "Hah?\p"
@@ -467,7 +467,7 @@ ThreeIsland_Text_Biker1PostBattle::
 	.string "Don't you dare laugh!$"
 
 ThreeIsland_Text_Biker2Intro::
-	.string "Aren't you from KANTO?\n"
+	.string "Aren't you from Kanto?\n"
 	.string "You should be on our side!$"
 
 ThreeIsland_Text_Biker2Defeat::
@@ -516,7 +516,7 @@ ThreeIsland_Text_ThankYouOhYourMonGotHurt::
 
 ThreeIsland_Text_GivenFullRestore::
 	.string "{PLAYER} was given\n"
-	.string "a FULL RESTORE.$"
+	.string "a Full Restore.$"
 
 ThreeIsland_Text_OhYourBagIsFull::
 	.string "Oh?\n"
@@ -532,23 +532,23 @@ ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
 	.string "I hope you'll at least stay here\n"
 	.string "a while.\p"
 	.string "…I beg your pardon?\n"
-	.string "You're looking for LOSTELLE?\p"
-	.string "LOSTELLE went off towards BOND\n"
-	.string "BRIDGE a while ago.$"
+	.string "You're looking for Lostelle?\p"
+	.string "Lostelle went off towards Bond\n"
+	.string "Bridge a while ago.$"
 
 ThreeIsland_Text_WouldntWantToSeeBikersHereAgain::
 	.string "Three Island is actually the most\n"
 	.string "populous of the islands here.\p"
 	.string "Still, it could be less sleepy.\p"
 	.string "But I wouldn't want to see goons\n"
-	.string "like those BIKERS here again.$"
+	.string "like those Bikers here again.$"
 
 ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame::
-	.string "I'm going to train my DODUO in the\n"
+	.string "I'm going to train my Doduo in the\n"
 	.string "Berry Forest.\p"
 	.string "When it evolves, I'm going to play\n"
 	.string "a game on Two Island.$"
 
 ThreeIsland_Text_Doduo::
-	.string "DODUO: Gigiih!$"
+	.string "Doduo: Gigiih!$"
 

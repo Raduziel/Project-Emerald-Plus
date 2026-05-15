@@ -1,11 +1,11 @@
 FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "I welcome you to the Battle Tent\n"
 	.string "Fallarbor Site!\p"
-	.string "I am your guide to the Set KO Tourney!$"
+	.string "I am your guide to the Set Ko Tourney!$"
 
 FallarborTown_BattleTentLobby_Text_TakeChallenge:
 	.string "Now, do you wish to take the challenge\n"
-	.string "of a Set KO Tourney?$"
+	.string "of a Set Ko Tourney?$"
 
 FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge:
 	.string "We await your challenge on\n"
@@ -13,7 +13,7 @@ FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge:
 
 FallarborTown_BattleTentLobby_Text_ExplainFallarborTent:
 	.string "In the Fallarbor Battle Tent,\n"
-	.string "we undertake the Set KO Tourney.\p"
+	.string "we undertake the Set Ko Tourney.\p"
 	.string "All participants enter with a team of\n"
 	.string "three Pokémon.\p"
 	.string "The three Pokémon must be lined up\n"
@@ -229,7 +229,7 @@ SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
 	.string "First, you will be loaned three\n"
 	.string "Pokémon specifically for this event.\p"
 	.string "Using the supplied rental Pokémon,\n"
-	.string "you must conduct a SINGLE Battle.\p"
+	.string "you must conduct a Single Battle.\p"
 	.string "If you win, you are permitted to trade\n"
 	.string "one of your rental Pokémon.\p"
 	.string "Repeat this cycle of battling and\n"

@@ -49,7 +49,7 @@ MagmaHideout_2F_2R_Text_Grunt6PostBattle:
 MagmaHideout_2F_2R_Text_Grunt7Intro:
 	.string "You can hear tremors here sometimes.\p"
 	.string "Could it be the volcano rattling?\n"
-	.string "Or is it GROU…\p"
+	.string "Or is it Grou…\p"
 	.string "Whoops!\n"
 	.string "No, no, never mind!$"
 
@@ -65,7 +65,7 @@ MagmaHideout_2F_2R_Text_Grunt7PostBattle:
 
 MagmaHideout_2F_2R_Text_Grunt8Intro:
 	.string "One of our guys was freaking out that\n"
-	.string "he lost his Magma EMBLEM…\p"
+	.string "he lost his Magma Emblem…\p"
 	.string "Wait a minute!\n"
 	.string "Was it you who found it?$"
 

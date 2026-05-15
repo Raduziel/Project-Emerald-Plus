@@ -91,7 +91,7 @@ SilphCo_6F_EventScript_Grunt2::
 	end
 
 SilphCo_6F_Text_RocketsTookOverBuilding::
-	.string "The ROCKETS came and took over\n"
+	.string "The Rockets came and took over\n"
 	.string "the building!$"
 
 SilphCo_6F_Text_BetterGetBackToWork::
@@ -122,16 +122,16 @@ SilphCo_6F_Text_RocketsRanAwayBecauseOfYou::
 	.string "because of you!$"
 
 SilphCo_6F_Text_TargetedSilphForOurMonProducts::
-	.string "They must have targeted SILPH for\n"
+	.string "They must have targeted Silph for\n"
 	.string "our Pokémon products.$"
 
 SilphCo_6F_Text_ComeWorkForSilphWhenYoureOlder::
-	.string "Come work for SILPH when you\n"
+	.string "Come work for Silph when you\n"
 	.string "get older.$"
 
 SilphCo_6F_Text_Grunt1Intro::
 	.string "I am one of the four Rocket\n"
-	.string "BROTHERS!$"
+	.string "Brothers!$"
 
 SilphCo_6F_Text_Grunt1Defeat::
 	.string "Flame out!$"
@@ -143,7 +143,7 @@ SilphCo_6F_Text_Grunt1PostBattle::
 SilphCo_6F_Text_TaylorIntro::
 	.string "That rotten President!\p"
 	.string "Serves him right for shipping me\n"
-	.string "off to the TIKSI BRANCH!\p"
+	.string "off to the Tiksi Branch!\p"
 	.string "That's why Team Rocket came after\n"
 	.string "us, I'm sure of it!$"
 
@@ -151,7 +151,7 @@ SilphCo_6F_Text_TaylorDefeat::
 	.string "Shoot!$"
 
 SilphCo_6F_Text_TaylorPostBattle::
-	.string "TIKSI BRANCH?\n"
+	.string "Tiksi Branch?\n"
 	.string "It's in Russian no-man's-land!$"
 
 SilphCo_6F_Text_Grunt2Intro::

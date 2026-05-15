@@ -90,7 +90,7 @@ SafariZone_EventScript_PokeblockPresent::
 
 SafariZone_Text_WouldYouLikeToExit:
 	.string "Would you like to exit the Safari\n"
-	.string "ZONE right now?$"
+	.string "Zone right now?$"
 
 SafariZone_Text_TimesUp:
 	.string "Ding-dong! Time's up!\n"
@@ -102,7 +102,7 @@ SafariZone_Text_OutOfBalls:
 
 SafariZone_Text_PlacePokeblockOnFeeder:
 	.string "Would you like to place a {POKEBLOCK}\n"
-	.string "on the {POKEBLOCK} FEEDER?$"
+	.string "on the {POKEBLOCK} Feeder?$"
 
 SafariZone_Text_PokeblockStillHere:
 	.string "The {STR_VAR_1} you left\n"
@@ -110,7 +110,7 @@ SafariZone_Text_PokeblockStillHere:
 
 SafariZone_Text_PokeblockWasPlaced:
 	.string "The {STR_VAR_1} was placed\n"
-	.string "on the {POKEBLOCK} FEEDER.$"
+	.string "on the {POKEBLOCK} Feeder.$"
 
 Route121_SafariZoneEntrance_Text_WelcomeToSafariZone:
 	.string "Welcome to the Safari Zone!\p"
@@ -174,12 +174,12 @@ Route121_SafariZoneEntrance_Text_PCIsFull:
 
 Route121_SafariZoneEntrance_Text_YouNeedPokeblockCase:
 	.string "Excuse me!\n"
-	.string "You seem to be without a {POKEBLOCK} CASE.\p"
+	.string "You seem to be without a {POKEBLOCK} Case.\p"
 	.string "Your Safari Game will be much more\n"
 	.string "fruitful if you use {POKEBLOCK}S.\p"
-	.string "Please come back with a {POKEBLOCK} CASE.\p"
-	.string "You may obtain a {POKEBLOCK} CASE from\n"
-	.string "the Lilycove Contest HALL.$"
+	.string "Please come back with a {POKEBLOCK} Case.\p"
+	.string "You may obtain a {POKEBLOCK} Case from\n"
+	.string "the Lilycove Contest Hall.$"
 
 SafariZone_South_Text_StillHaveTimeExit:
 	.string "You still have time left. Would you like\n"
@@ -208,7 +208,7 @@ SafariZone_South_Text_Boy:
 
 SafariZone_South_Text_Man:
 	.string "I want to keep going deeper, but I\n"
-	.string "forgot to bring a BIKE.\p"
+	.string "forgot to bring a Bike.\p"
 	.string "Something tells me that rare Pokémon\n"
 	.string "live in the outlying areas.$"
 
@@ -225,7 +225,7 @@ SafariZone_Northwest_Text_Man:
 	.string "energy to catch Pokémon…$"
 
 SafariZone_North_Text_Fisherman:
-	.string "I'm on a mission to find WATER Pokémon\n"
+	.string "I'm on a mission to find Water Pokémon\n"
 	.string "you don't see in Hoenn.\p"
 	.string "Do you have any idea where the lake is?$"
 
@@ -234,13 +234,13 @@ SafariZone_North_Text_Man:
 	.string "here and trade them with my friends!$"
 
 SafariZone_South_Text_Youngster:
-	.string "I put a {POKEBLOCK} on the {POKEBLOCK} FEEDER.\n"
+	.string "I put a {POKEBLOCK} on the {POKEBLOCK} Feeder.\n"
 	.string "But it seems to have disappeared.\p"
 	.string "I guess Pokémon must have eaten it\n"
 	.string "without me noticing.$"
 
 Route121_SafariZoneEntrance_Text_TrainerTip:
-	.string "Safari Zone Trainer TIP!\p"
+	.string "Safari Zone Trainer Tip!\p"
 	.string "Throw {POKEBLOCK}S at wild Pokémon to make\n"
 	.string "them less likely to flee.$"
 
@@ -262,7 +262,7 @@ SafariZone_RestHouse_Text_PsychicM:
 	.string "Pokémon that don't flee easily.$"
 
 SafariZone_RestHouse_Text_FatMan:
-	.string "If you put a {POKEBLOCK} on the FEEDER,\n"
+	.string "If you put a {POKEBLOCK} on the Feeder,\n"
 	.string "Pokémon are attracted to it.\p"
 	.string "I think Pokémon with the same sort of\n"
 	.string "nature are drawn by a certain {POKEBLOCK}.$"
@@ -300,7 +300,7 @@ SafariZone_Northeast_Text_Boy:
 	.string "decide what I should catch.$"
 
 SafariZone_Northeast_Text_Woman:
-	.string "I heard that you can see PIKACHU here.\n"
+	.string "I heard that you can see Pikachu here.\n"
 	.string "Where might one be?$"
 
 SafariZone_Northeast_Text_Girl:

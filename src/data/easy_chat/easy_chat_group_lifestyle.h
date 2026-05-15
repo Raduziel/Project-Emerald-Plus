@@ -37,7 +37,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Lifestyle[] = {
     },
     [EC_INDEX(EC_WORD_SCHOOL)] =
     {
-        .text = COMPOUND_STRING("School"),
+        .text = COMPOUND_STRING("SCHOOL"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_DEPT_STORE),
         .enabled = TRUE,
     },
@@ -157,7 +157,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Lifestyle[] = {
     },
     [EC_INDEX(EC_WORD_DEPT_STORE)] =
     {
-        .text = COMPOUND_STRING("Dept. Store"),
+        .text = COMPOUND_STRING("DEPT. STORE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_PARTY),
         .enabled = TRUE,
     },
@@ -187,7 +187,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Lifestyle[] = {
     },
     [EC_INDEX(EC_WORD_NEWS)] =
     {
-        .text = COMPOUND_STRING("News"),
+        .text = COMPOUND_STRING("NEWS"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_RENTAL),
         .enabled = TRUE,
     },
@@ -217,7 +217,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Lifestyle[] = {
     },
     [EC_INDEX(EC_WORD_MAIL)] =
     {
-        .text = COMPOUND_STRING("Mail"),
+        .text = COMPOUND_STRING("MAIL"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SYSTEM),
         .enabled = TRUE,
     },

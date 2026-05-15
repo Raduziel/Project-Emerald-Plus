@@ -635,7 +635,7 @@ Route111_Text_ToughToKeepWinningUpTheRanks:
 	.string "any Gym Leader.$"
 
 Route111_Text_WinstrateFamilyDestroyedMe:
-	.string "I challenged the WINSTRATE family,\n"
+	.string "I challenged the Winstrate family,\n"
 	.string "but four matches in a row is tough\l"
 	.string "going… They destroyed me.$"
 
@@ -645,7 +645,7 @@ Route111_Text_RouteSignMauville:
 
 Route111_Text_WinstrateHouseSign:
 	.string "“Our family's hearts beat as one!”\n"
-	.string "THE WINSTRATE's House$"
+	.string "The Winstrate's House$"
 
 Route111_Text_RouteSign112:
 	.string "Route 111\n"
@@ -656,16 +656,16 @@ Route111_Text_RouteSign113:
 	.string "{LEFT_ARROW} Route 113$"
 
 Route111_Text_OldLadysRestStopSign:
-	.string "Old Lady's Rest STOP\n"
+	.string "Old Lady's Rest Stop\n"
 	.string "“Come in and rest your tired bones.”$"
 
 Route111_Text_TrainerTipsSpAtkSpDef:
-	.string "Trainer TIPS\p"
+	.string "Trainer Tips\p"
 	.string "One of the indicators of a Pokémon's\n"
-	.string "powerfulness is SP. ATK. It stands for\l"
-	.string "“SPECIAL ATTACK.”\p"
-	.string "Likewise, SP. DEF stands for “SPECIAL\n"
-	.string "DEFENSE.”$"
+	.string "powerfulness is Sp. Atk. It stands for\l"
+	.string "“Special Attack.”\p"
+	.string "Likewise, Sp. Def stands for “Special\n"
+	.string "Defense.”$"
 
 Route111_Text_ShouldBeMirageTowerAroundHere:
 	.string "There should be a tower made of sand\n"
@@ -699,11 +699,11 @@ Route111_Text_MirageTowerHasntBeenSeenSince:
 	.string "the Mirage Tower…$"
 
 Route111_Text_ClawFossilDisappeared:
-	.string "The CLAW FOSSIL disappeared into\n"
+	.string "The Claw Fossil disappeared into\n"
 	.string "the sand…$"
 
 Route111_Text_RootFossilDisappeared:
-	.string "The ROOT FOSSIL disappeared into\n"
+	.string "The Root Fossil disappeared into\n"
 	.string "the sand…$"
 
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
@@ -715,7 +715,7 @@ Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
 	.string "the bike shop in Mauville.$"
 
 Route111_Text_TrainerHillSign:
-	.string "{RIGHT_ARROW} Trainer HILL ENTRANCE\p"
+	.string "{RIGHT_ARROW} Trainer Hill Entrance\p"
 	.string "“Scale the heights, you hot-blooded\n"
 	.string "Trainers!”$"
 

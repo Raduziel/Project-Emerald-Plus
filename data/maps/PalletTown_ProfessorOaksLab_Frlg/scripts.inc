@@ -1332,7 +1332,7 @@ PalletTown_ProfessorOaksLab_Text_RivalLetsCheckOutMons::
 	.string "Come on, I'll take you on!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalDefeat::
-	.string "WHAT?\n"
+	.string "What?\n"
 	.string "Unbelievable!\l"
 	.string "I picked the wrong Pokémon!$"
 
@@ -1401,22 +1401,22 @@ PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYet::
 	.string "Don't go away yet!$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander::
-	.string "Ah! CHARMANDER is your choice.\n"
+	.string "Ah! Charmander is your choice.\n"
 	.string "You should raise it patiently.\p"
 	.string "So, {PLAYER}, you're claiming the\n"
-	.string "FIRE Pokémon CHARMANDER?$"
+	.string "Fire Pokémon Charmander?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtle::
-	.string "Hm! SQUIRTLE is your choice.\n"
+	.string "Hm! Squirtle is your choice.\n"
 	.string "It's one worth raising.\p"
 	.string "So, {PLAYER}, you've decided on the\n"
-	.string "WATER Pokémon SQUIRTLE?$"
+	.string "Water Pokémon Squirtle?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingBulbasaur::
-	.string "I see! BULBASAUR is your choice.\n"
+	.string "I see! Bulbasaur is your choice.\n"
 	.string "It's very easy to raise.\p"
 	.string "So, {PLAYER}, you want to go with\n"
-	.string "the GRASS Pokémon BULBASAUR?$"
+	.string "the Grass Pokémon Bulbasaur?$"
 
 PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic::
 	.string "This Pokémon is really quite\n"
@@ -1448,7 +1448,7 @@ PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMe::
 	.string "You have something for me?$"
 
 PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
-	.string "{PLAYER} delivered Oak's PARCEL.$"
+	.string "{PLAYER} delivered Oak's Parcel.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
 	.string "Ah! \n"
@@ -1540,10 +1540,10 @@ PalletTown_ProfessorOaksLab_Text_OaksLastMon::
 	.string "That's Prof. Oak's last Pokémon.$"
 
 PalletTown_ProfessorOaksLab_Text_PressStartToOpenMenu::
-	.string "Press START to open the MENU!$"
+	.string "Press Start to open the Menu!$"
 
 PalletTown_ProfessorOaksLab_Text_SaveOptionInMenu::
-	.string "The SAVE option is on the MENU.\n"
+	.string "The Save option is on the Menu.\n"
 	.string "Use it regularly.$"
 
 PalletTown_ProfessorOaksLab_Text_AllMonTypesHaveStrongAndWeakPoints::
@@ -1559,21 +1559,21 @@ PalletTown_ProfessorOaksLab_Text_EmailMessage::
 	.string "take on all comers!\p"
 	.string "Bring your best Pokémon and see\n"
 	.string "how you rate as a Trainer!\p"
-	.string "Pokémon League HQ\n"
-	.string "INDIGO PLATEAU\p"
+	.string "Pokémon League Hq\n"
+	.string "Indigo Plateau\p"
 	.string "Prof. Oak, please visit us!\n"
 	.string "…$"
 
 PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
 	.string "I study Pokémon as Prof. Oak's\n"
-	.string "AIDE.$"
+	.string "Aide.$"
 
 PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
 	.string "Hi, {PLAYER}. I bet you've become\n"
 	.string "good friends with your Pokémon.\p"
 	.string "By the way, did you know about\n"
-	.string "DAISY?\p"
-	.string "If you show DAISY your Pokémon,\n"
+	.string "Daisy?\p"
+	.string "If you show Daisy your Pokémon,\n"
 	.string "she can tell how much it likes you.\p"
 	.string "Occasionally, she will even groom\n"
 	.string "a Pokémon for you.\p"
@@ -1584,7 +1584,7 @@ PalletTown_ProfessorOaksLab_Text_OakIsGoingToHaveRadioShow::
 	.string "Prof. Oak is going to have his own\n"
 	.string "radio show soon.\p"
 	.string "The program will be called Prof.\n"
-	.string "Oak's Pokémon SEMINAR.$"
+	.string "Oak's Pokémon Seminar.$"
 
 PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMons::
 	.string "Prof. Oak may not look like much,\n"
@@ -1602,7 +1602,7 @@ PalletTown_ProfessorOaksLab_Text_OakSightingsOfRareMons::
 	.string "Recently, there have been sightings\n"
 	.string "of many rare Pokémon species.\p"
 	.string "I'm talking about Pokémon that\n"
-	.string "have never been seen in KANTO.\p"
+	.string "have never been seen in Kanto.\p"
 	.string "I would love to go see things for\n"
 	.string "myself, but I'm much too old.\p"
 	.string "Since I can't do it, {PLAYER}, I'd\n"

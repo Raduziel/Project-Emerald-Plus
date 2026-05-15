@@ -89,7 +89,7 @@ PewterCity_Gym_Text_BrockIntro::
 	.string "My Pokémon are all rock hard, and\n"
 	.string "have true-grit determination.\p"
 	.string "That's right - my Pokémon are all\n"
-	.string "the ROCK type!\p"
+	.string "the Rock type!\p"
 	.string "Fuhaha! You're going to challenge\n"
 	.string "me knowing that you'll lose?\p"
 	.string "That's the Trainer's honor that\n"
@@ -102,10 +102,10 @@ PewterCity_Gym_Text_BrockDefeat::
 	.string "I lost.\p"
 	.string "As proof of your victory, I confer\n"
 	.string "on you this…the official Pokémon\l"
-	.string "League BOULDERBADGE.\p"
-	.string "{FONT_NORMAL}{PLAYER} received the BOULDERBADGE\n"
+	.string "League Boulder Badge.\p"
+	.string "{FONT_NORMAL}{PLAYER} received the Boulder Badge\n"
 	.string "from Brock!{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}\p"
-	.string "{FONT_MALE}Just having the BOULDERBADGE makes\n"
+	.string "{FONT_MALE}Just having the Boulder Badge makes\n"
 	.string "your Pokémon more powerful.\p"
 	.string "It also enables the use of the\n"
 	.string "move Flash outside of battle.\p"
@@ -129,9 +129,9 @@ PewterCity_Gym_Text_ExplainTM39::
 	.string "So, when you use one, pick the\n"
 	.string "Pokémon carefully.\p"
 	.string "Anyways…\n"
-	.string "TM39 contains ROCK TOMB.\p"
+	.string "TM39 contains Rock Tomb.\p"
 	.string "It hurls boulders at the foe and\n"
-	.string "lowers its SPEED.$"
+	.string "lowers its Speed.$"
 
 PewterCity_Gym_Text_BrockPostBattle::
 	.string "There are all kinds of Trainers in\n"
@@ -174,7 +174,7 @@ PewterCity_Gym_Text_LetsGetHappening::
 
 PewterCity_Gym_Text_TryDifferentPartyOrders::
 	.string "The first Pokémon out in a match is\n"
-	.string "at the left of the Pokémon LIST.\p"
+	.string "at the left of the Pokémon List.\p"
 	.string "By changing the order of Pokémon,\n"
 	.string "you may gain an advantage.\p"
 	.string "Try different orders to suit your\n"
@@ -191,12 +191,12 @@ PewterCity_Gym_Text_YoureChampMaterial::
 PewterCity_Gym_Text_GymStatue::
 	.string "Pewter Pokémon Gym\n"
 	.string "Leader: Brock\p"
-	.string "WINNING Trainers:\n"
+	.string "Winning Trainers:\n"
 	.string "{RIVAL}$"
 
 PewterCity_Gym_Text_GymStatuePlayerWon::
 	.string "Pewter Pokémon Gym\n"
 	.string "Leader: Brock\p"
-	.string "WINNING Trainers:\n"
+	.string "Winning Trainers:\n"
 	.string "{RIVAL}, {PLAYER}$"
 

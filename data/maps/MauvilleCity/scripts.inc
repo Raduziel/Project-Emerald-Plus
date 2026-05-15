@@ -460,18 +460,18 @@ MauvilleCity_EventScript_RegisterWallyCall::
 	end
 
 MauvilleCity_Text_UncleHesTooPeppy:
-	.string "UNCLE: It's because of Pokémon that\n"
+	.string "Uncle: It's because of Pokémon that\n"
 	.string "this boy's got more pep, I suppose…\l"
 	.string "But he's become a bit too peppy…$"
 
 MauvilleCity_Text_WallyWantToChallengeGym:
-	.string "Wally: Aww, UNCLE, please?\p"
+	.string "Wally: Aww, Uncle, please?\p"
 	.string "I want to challenge this Gym and see\n"
 	.string "how much better I've become.\p"
 	.string "Please? May I, please?$"
 
 MauvilleCity_Text_UncleYourePushingIt:
-	.string "UNCLE: Now hold on, Wally.\p"
+	.string "Uncle: Now hold on, Wally.\p"
 	.string "Since you started living with Pokémon,\n"
 	.string "you have grown quite a lot stronger.\p"
 	.string "But don't you think you're pushing it\n"
@@ -479,25 +479,25 @@ MauvilleCity_Text_UncleYourePushingIt:
 
 MauvilleCity_Text_WallyWeCanBeatAnyone:
 	.string "Wally: I'm not pushing it.\p"
-	.string "If I combine forces with RALTS,\n"
+	.string "If I combine forces with Ralts,\n"
 	.string "we can beat anyone!$"
 
 MauvilleCity_Text_WallyWillYouBattleMe:
 	.string "Wally: Oh! Hi, {PLAYER}!\p"
 	.string "I've gotten a lot stronger since\n"
 	.string "we met.\p"
-	.string "{PLAYER}, I want you and my UNCLE to\n"
+	.string "{PLAYER}, I want you and my Uncle to\n"
 	.string "understand that.\p"
 	.string "{PLAYER}, please, will you have\n"
 	.string "a battle with me?$"
 
 MauvilleCity_Text_WallyMyUncleWontKnowImStrong:
 	.string "Wally: Oh… If you won't battle me,\n"
-	.string "{PLAYER}, my UNCLE won't know that I've\l"
+	.string "{PLAYER}, my Uncle won't know that I've\l"
 	.string "become really strong.$"
 
 MauvilleCity_Text_UncleCanYouBattleWally:
-	.string "UNCLE: {PLAYER}{KUN}, was it?\n"
+	.string "Uncle: {PLAYER}{KUN}, was it?\n"
 	.string "On Wally's behalf, can I ask you to\l"
 	.string "battle with him just this once?\p"
 	.string "I don't think he's going to listen to\n"
@@ -517,7 +517,7 @@ MauvilleCity_Text_WallyDefeat:
 	.string "I lost…$"
 
 MauvilleCity_Text_WallyIllGoBackToVerdanturf:
-	.string "Wally: UNCLE…\n"
+	.string "Wally: Uncle…\n"
 	.string "I'll go back to Verdanturf…$"
 
 MauvilleCity_Text_ThankYouNotEnoughToBattle:
@@ -528,7 +528,7 @@ MauvilleCity_Text_ThankYouNotEnoughToBattle:
 	.string "being a real Trainer is about.$"
 
 MauvilleCity_Text_UncleNoNeedToBeDown:
-	.string "UNCLE: Wally, there's no need to be so\n"
+	.string "Uncle: Wally, there's no need to be so\n"
 	.string "down on yourself.\p"
 	.string "Why, what's keeping you from becoming\n"
 	.string "stronger and stronger?\p"
@@ -536,7 +536,7 @@ MauvilleCity_Text_UncleNoNeedToBeDown:
 	.string "Everyone's waiting for you.$"
 
 MauvilleCity_Text_UncleVisitUsSometime:
-	.string "UNCLE: {PLAYER}{KUN}, it just dawned on me\n"
+	.string "Uncle: {PLAYER}{KUN}, it just dawned on me\n"
 	.string "that you must be the Trainer who kept\l"
 	.string "an eye out for Wally when he caught\l"
 	.string "his Pokémon.\p"
@@ -561,7 +561,7 @@ MauvilleCity_Text_RegisteredWally:
 	.string "in the PokéNav.$"
 
 MauvilleCity_Text_ScottYouDidntHoldBack:
-	.string "SCOTT: Hehe…\n"
+	.string "Scott: Hehe…\n"
 	.string "I was watching that match!\p"
 	.string "You're friends with that boy Wally,\n"
 	.string "aren't you?\p"
@@ -582,10 +582,10 @@ MauvilleCity_Text_WattsonNeedFavorTakeKey:
 	.string "Mauville City has an underground\n"
 	.string "sector called  Mauville.\p"
 	.string "{PLAYER}{KUN}, I'd like you to go there and\n"
-	.string "switch off the GENERATOR.\p"
-	.string "The GENERATOR has been running a bit\n"
+	.string "switch off the Generator.\p"
+	.string "The Generator has been running a bit\n"
 	.string "haywire. It's getting unsafe.\p"
-	.string "Here, this is the KEY to get into\n"
+	.string "Here, this is the Key to get into\n"
 	.string " Mauville.$"
 
 MauvilleCity_Text_WattsonWontBeChallenge:
@@ -601,7 +601,7 @@ MauvilleCity_Text_WattsonThanksTakeTM:
 	.string "I knew it, {PLAYER}{KUN}! I knew I'd made\n"
 	.string "the right choice asking you!\p"
 	.string "This is my thanks--a TM containing\n"
-	.string "THUNDERBOLT!\p"
+	.string "Thunderbolt!\p"
 	.string "Go on, you've earned it!$"
 
 MauvilleCity_Text_WattsonYoungTakeCharge:
@@ -622,12 +622,12 @@ MauvilleCity_Text_AllSortsOfPeopleComeThrough:
 	.string "people coming through.$"
 
 MauvilleCity_Text_RydelVeryGenerous:
-	.string "Have you been to RYDEL's CYCLES yet?\p"
-	.string "RYDEL, the owner, is a very generous\n"
+	.string "Have you been to Rydel's Cycles yet?\p"
+	.string "Rydel, the owner, is a very generous\n"
 	.string "man.$"
 
 MauvilleCity_Text_PokemonCanJumpYouOnBike:
-	.string "Even if you're riding a BIKE,\n"
+	.string "Even if you're riding a Bike,\n"
 	.string "wild Pokémon could jump you.$"
 
 MauvilleCity_Text_CitySign:
@@ -642,7 +642,7 @@ MauvilleCity_Text_GymSign:
 MauvilleCity_Text_BikeShopSign:
 	.string "“Ride in gravel and shake up your\n"
 	.string "soul!”\l"
-	.string "RYDEL's CYCLES$"
+	.string "Rydel's Cycles$"
 
 MauvilleCity_Text_GameCornerSign:
 	.string "“The play spot for all!”\n"

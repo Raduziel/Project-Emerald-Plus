@@ -93,7 +93,7 @@ ViridianCity_Mart_Text_TakeThisToProfOak::
 	.string "Can I get you to take it to him?$"
 
 ViridianCity_Mart_Text_ReceivedOaksParcelFromClerk::
-	.string "{PLAYER} received Oak's PARCEL\n"
+	.string "{PLAYER} received Oak's Parcel\n"
 	.string "from the Pokémon Mart clerk.$"
 
 ViridianCity_Mart_Text_SayHiToOakForMe::
@@ -105,7 +105,7 @@ ViridianCity_Mart_Text_ShopDoesGoodBusinessInAntidotes::
 	.string "Antidotes, I've heard.$"
 
 ViridianCity_Mart_Text_GotToBuySomePotions::
-	.string "I've got to buy some POTIONS.\p"
+	.string "I've got to buy some Potions.\p"
 	.string "You never know when your Pokémon\n"
 	.string "will need quick healing.$"
 

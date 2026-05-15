@@ -1015,7 +1015,7 @@ RustboroCity_EventScript_Boy1::
 	end
 
 RustboroCity_Text_WeShortenItToDevon:
-	.string "The Devon CORPORATION…\n"
+	.string "The Devon Corporation…\n"
 	.string "We all just shorten it to Devon.\p"
 	.string "That company makes all sorts of\n"
 	.string "convenient products.$"
@@ -1046,23 +1046,23 @@ RustboroCity_Text_YoureNewAroundHere:
 RustboroCity_Text_GymLeaderIsntEasyWithFire:
 	.string "I challenged the Gym Leader, but…\p"
 	.string "It's not going to be easy winning with\n"
-	.string "my FIRE-type Pokémon…\p"
-	.string "FIRE-type Pokémon don't match up\n"
-	.string "well against ROCK-type Pokémon…$"
+	.string "my Fire-type Pokémon…\p"
+	.string "Fire-type Pokémon don't match up\n"
+	.string "well against Rock-type Pokémon…$"
 
 RustboroCity_Text_MrBrineyWalksInTheTunnel:
-	.string "The old sailor Mr. BRINEY lives in\n"
+	.string "The old sailor Mr. Briney lives in\n"
 	.string "a cottage by the sea.\p"
 	.string "He goes for walks in the tunnel every\n"
 	.string "so often.$"
 
 RustboroCity_Text_MrBrineyLovesPeeko:
-	.string "The old sailor Mr. BRINEY lives in\n"
+	.string "The old sailor Mr. Briney lives in\n"
 	.string "a cottage by the sea.\p"
 	.string "He said he was going shopping in\n"
-	.string "Slateport for his pet, PEEKO.\p"
+	.string "Slateport for his pet, Peeko.\p"
 	.string "That old sea dog, he must really love\n"
-	.string "that PEEKO.$"
+	.string "that Peeko.$"
 
 RustboroCity_Text_WowYouHavePokemon:
 	.string "Wow, you have Pokémon with you, too.\p"
@@ -1100,7 +1100,7 @@ RustboroCity_Text_WaitDontTakeMyGoods:
 RustboroCity_Text_HelpMeIWasRobbed:
 	.string "Oh, it's you!\p"
 	.string "You're that fantastic Trainer who\n"
-	.string "helped me in Petalburg WOODS!\p"
+	.string "helped me in Petalburg Woods!\p"
 	.string "Help me! I was robbed by Team Aqua!\n"
 	.string "I have to get the Devon Goods back!\p"
 	.string "If I don't…\n"
@@ -1117,11 +1117,11 @@ RustboroCity_Text_YouGotItThankYou:
 	.string "You got them back!\p"
 	.string "You really are a great Trainer!\p"
 	.string "I know! As my thanks, I'll give you\n"
-	.string "another GREAT Ball!$"
+	.string "another Great Ball!$"
 
 RustboroCity_Text_YoureLoadedWithItems:
 	.string "You're loaded with items.\n"
-	.string "I can't give you this GREAT Ball.$"
+	.string "I can't give you this Great Ball.$"
 
 RustboroCity_Text_PleaseComeWithMe:
 	.string "Excuse me, please!\n"
@@ -1141,7 +1141,7 @@ RustboroCity_Text_RegisteredMay:
 
 RustboroCity_Text_MayPassedBrineyWantToBattle:
 	.string "May: Oh, by the way, I passed\n"
-	.string "Mr. BRINEY in Petalburg WOODS.\p"
+	.string "Mr. Briney in Petalburg Woods.\p"
 	.string "I guess he's on his way home to his\n"
 	.string "cottage by the sea.\p"
 	.string "How's your Pokédex coming along,\n"
@@ -1168,10 +1168,10 @@ RustboroCity_Text_MayDefeat:
 	.string "You're better than I expected!$"
 
 RustboroCity_Text_MayMrBrineyHint:
-	.string "May: Oh, by the way, Mr. BRINEY, who\n"
+	.string "May: Oh, by the way, Mr. Briney, who\n"
 	.string "I just passed…\p"
 	.string "{PLAYER}{KUN}, you just moved here so you\n"
-	.string "might not know this, but Mr. BRINEY\l"
+	.string "might not know this, but Mr. Briney\l"
 	.string "was once a revered seafarer.$"
 
 RustboroCity_Text_BrendanHiLetsRegister:
@@ -1188,7 +1188,7 @@ RustboroCity_Text_RegisteredBrendan:
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
 	.string "Brendan: By the way, {PLAYER}, I walked\n"
-	.string "by Mr. BRINEY in Petalburg WOODS.\p"
+	.string "by Mr. Briney in Petalburg Woods.\p"
 	.string "I bet he was on his way home to his\n"
 	.string "cottage by the sea.\p"
 	.string "{PLAYER}, how's your Pokédex?\n"
@@ -1215,10 +1215,10 @@ RustboroCity_Text_BrendanDefeat:
 
 RustboroCity_Text_BrendanMrBrineyHint:
 	.string "Brendan: By the way, you know\n"
-	.string "Mr. BRINEY? The guy I just passed?\p"
+	.string "Mr. Briney? The guy I just passed?\p"
 	.string "I bet you didn't know this, since you\n"
 	.string "just moved here, {PLAYER}, but\l"
-	.string "Mr. BRINEY was once a great sailor.$"
+	.string "Mr. Briney was once a great sailor.$"
 
 RustboroCity_Text_TunnelNearingCompletion:
 	.string "“Timesaving tunnel nearing\n"
@@ -1228,17 +1228,17 @@ RustboroCity_Text_TunnelNearingCompletion:
 	.string "across it in red paint…$"
 
 RustboroCity_Text_DevonCorpSign:
-	.string "Devon CORPORATION\p"
+	.string "Devon Corporation\p"
 	.string "“For all your living needs, we make\n"
 	.string "it all.”$"
 
 RustboroCity_Text_GymSign:
 	.string "Rustboro City Pokémon Gym\n"
 	.string "Leader: Roxanne\p"
-	.string "“The ROCK-loving honors student!”$"
+	.string "“The Rock-loving honors student!”$"
 
 RustboroCity_Text_DevonCorpBranchOfficeSign:
-	.string "Devon CORP. BRANCH OFFICE\p"
+	.string "Devon Corp. Branch Office\p"
 	.string "“Access limited to Devon employees\n"
 	.string "and authorized personnel.”$"
 

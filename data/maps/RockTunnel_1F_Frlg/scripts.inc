@@ -53,7 +53,7 @@ RockTunnel_1F_Text_LennyDefeat::
 	.string "You win!$"
 
 RockTunnel_1F_Text_LennyPostBattle::
-	.string "Watch for ONIX.\n"
+	.string "Watch for Onix.\n"
 	.string "They appear only occasionally.\p"
 	.string "High-level ones can put the\n"
 	.string "squeeze on you!$"
@@ -89,7 +89,7 @@ RockTunnel_1F_Text_AshtonDefeat::
 	.string "Game over!$"
 
 RockTunnel_1F_Text_AshtonPostBattle::
-	.string "Oh well, I'll get a ZUBAT as I go!$"
+	.string "Oh well, I'll get a Zubat as I go!$"
 
 RockTunnel_1F_Text_LeahIntro::
 	.string "Eek!\p"
@@ -100,7 +100,7 @@ RockTunnel_1F_Text_LeahDefeat::
 	.string "It was too dark…$"
 
 RockTunnel_1F_Text_LeahPostBattle::
-	.string "I saw a MACHOP in this tunnel.$"
+	.string "I saw a Machop in this tunnel.$"
 
 RockTunnel_1F_Text_DanaIntro::
 	.string "I came this far looking for wild\n"
@@ -125,6 +125,6 @@ RockTunnel_1F_Text_ArianaPostBattle::
 	.string "I'm all sweaty now.$"
 
 RockTunnel_1F_Text_RouteSign::
-	.string "ROCK TUNNEL\n"
+	.string "Rock Tunnel\n"
 	.string "Cerulean City - Lavender Town$"
 

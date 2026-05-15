@@ -1872,7 +1872,7 @@
 	.endm
 
 	@ Buffers the name of the contest category to the buffer.
-	@ For example a category of CONTEST_CATEGORY_COOL will buffer the string "COOLNESS Contest".
+	@ For example a category of CONTEST_CATEGORY_COOL will buffer the string "Coolness Contest".
 	.macro buffercontestname stringVarId:req, category:req
 	.byte SCR_OP_BUFFERCONTESTNAME
 	stringvar \stringVarId
@@ -1880,7 +1880,7 @@
 	.endm
 
 	@ Writes the name of the specified item to the specified buffer. If 'item' is a Berry or ITEM_POKE_BALL
-	@ and if the quantity is 2 or more, the buffered string will be pluralized ("IES" or "S" appended).
+	@ and if the quantity is 2 or more, the buffered string will be pluralized ("Ies" or "S" appended).
 	@ If the specified item is >= ITEMS_COUNT then the name of ITEM_NONE ("????????") is buffered instead.
 	.macro bufferitemnameplural stringVarId:req, item:req, quantity:req
 	.byte SCR_OP_BUFFERITEMNAMEPLURAL
@@ -2718,7 +2718,7 @@
 		updatefollowingmon
 		1:
 	.else
-		.error "setfollowernpc unavailable with FNPC_ENABLE_NPC_FOLLOWERS defined as FALSE"
+		.error "setfollowernpc unavailable with FNPC_ENABLE_NPC_FOLLOWERS defined as False"
 	.endif
 	.endm
 
@@ -2731,7 +2731,7 @@
 		.4byte \script
 		.2byte \battlePartner
 	.else
-		.error "createfollowernpc unavailable with FNPC_ENABLE_NPC_FOLLOWERS defined as FALSE"
+		.error "createfollowernpc unavailable with FNPC_ENABLE_NPC_FOLLOWERS defined as False"
 	.endif
 	.endm
 
@@ -2740,7 +2740,7 @@
 	.if FNPC_ENABLE_NPC_FOLLOWERS
 		callnative ScriptDestroyFollowerNPC
 	.else
-		.error "destroyfollowernpc unavailable with FNPC_ENABLE_NPC_FOLLOWERS defined as FALSE"
+		.error "destroyfollowernpc unavailable with FNPC_ENABLE_NPC_FOLLOWERS defined as False"
 	.endif
 	.endm
 

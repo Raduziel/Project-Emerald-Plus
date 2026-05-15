@@ -398,7 +398,7 @@ SaffronCity_PokemonTrainerFanClub_Text_YourePlayerWereYourFansNow::
 	.string "And that someone is you!\n"
 	.string "You're so cool!\p"
 	.string "So, we decided that we'll become\n"
-	.string "your FAN CLUB!\p"
+	.string "your Fan Club!\p"
 	.string "We all hope you'll keep battling\n"
 	.string "and show us how cool you are.\p"
 	.string "That way, maybe other people will\n"
@@ -501,7 +501,7 @@ SaffronCity_PokemonTrainerFanClub_Text_HmmAndYouAre::
 	.string "Hmm…\n"
 	.string "And you are?\p"
 	.string "Were you hoping to sign up for\n"
-	.string "a membership in our FAN CLUB?$"
+	.string "a membership in our Fan Club?$"
 
 SaffronCity_PokemonTrainerFanClub_Text_YouveStillAWaysToGo::
 	.string "Ah, so you are the much-\n"
@@ -650,7 +650,7 @@ SaffronCity_PokemonTrainerFanClub_Text_YourBattleStyleIsEducational::
 SaffronCity_PokemonTrainerFanClub_Text_WontStopBeingYourFan::
 	.string "Instead of just watching others\n"
 	.string "battle, battle yourself!\p"
-	.string "…My DOJO's MASTER chewed me out\n"
+	.string "…My Dojo's Master chewed me out\n"
 	.string "like that…\p"
 	.string "But I won't let that stop me from\n"
 	.string "being your fan!\p"
@@ -660,16 +660,16 @@ SaffronCity_PokemonTrainerFanClub_Text_OnlyMasterHasMyRespect::
 	.string "Hiyah! There is but one Trainer\n"
 	.string "who has my respect.\p"
 	.string "And that is none other than my\n"
-	.string "MASTER at the FIGHTING DOJO.\p"
+	.string "Master at the Fighting Dojo.\p"
 	.string "You should become a fan of my\n"
-	.string "MASTER like me! Hiyah!$"
+	.string "Master like me! Hiyah!$"
 
 SaffronCity_PokemonTrainerFanClub_Text_NeverBeFanOfAnyoneButMaster::
-	.string "Hiyah! I respect my MASTER at the\n"
-	.string "FIGHTING DOJO.\p"
+	.string "Hiyah! I respect my Master at the\n"
+	.string "Fighting Dojo.\p"
 	.string "I will never become a fan of\n"
-	.string "anyone other than my MASTER!\p"
-	.string "I will even sneak out of the DOJO\n"
+	.string "anyone other than my Master!\p"
+	.string "I will even sneak out of the Dojo\n"
 	.string "to spread word of his greatness.\p"
 	.string "Hiyah!$"
 

@@ -238,7 +238,7 @@ FiveIsland_RocketWarehouse_Text_MadeItSoYouCanComeBackThrough::
 	.string "in through there.\p"
 	.string "Why don't you go get rested and\n"
 	.string "refreshed for what lies ahead?\p"
-	.string "The ADMIN after me outranks me\n"
+	.string "The Admin after me outranks me\n"
 	.string "thoroughly as a Trainer.\p"
 	.string "You'd better steel yourself for one\n"
 	.string "harsh challenge.$"
@@ -282,7 +282,7 @@ FiveIsland_RocketWarehouse_Text_ReportWithGraphsAndText::
 
 FiveIsland_RocketWarehouse_Text_GideonIntro::
 	.string "I almost managed to sell the\n"
-	.string "SAPPHIRE for huge money…\p"
+	.string "Sapphire for huge money…\p"
 	.string "Then, you just had to come along\n"
 	.string "and blow the whole deal apart!\p"
 	.string "Fufu… Fufufufu…\n"

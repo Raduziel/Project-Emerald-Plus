@@ -105,7 +105,7 @@ SixIsland_PatternBush_Text_AllisonPostBattle::
 	.string "Pokémon responsibly.$"
 
 SixIsland_PatternBush_Text_GarretIntro::
-	.string "I caught a BUG Pokémon that lives\n"
+	.string "I caught a Bug Pokémon that lives\n"
 	.string "only around here!$"
 
 SixIsland_PatternBush_Text_GarretDefeat::
@@ -114,11 +114,11 @@ SixIsland_PatternBush_Text_GarretDefeat::
 
 SixIsland_PatternBush_Text_GarretPostBattle::
 	.string "There's a girl near the Bush who\n"
-	.string "measures HERACROSS for Trainers.$"
+	.string "measures Heracross for Trainers.$"
 
 SixIsland_PatternBush_Text_JonahIntro::
 	.string "You know, it just doesn't feel right\n"
-	.string "if I don't use BUG Pokémon.$"
+	.string "if I don't use Bug Pokémon.$"
 
 SixIsland_PatternBush_Text_JonahDefeat::
 	.string "It's okay, losing is a fun part of\n"
@@ -132,7 +132,7 @@ SixIsland_PatternBush_Text_JonahPostBattle::
 
 SixIsland_PatternBush_Text_VanceIntro::
 	.string "Yeah, yeah, yeah!\n"
-	.string "Look at all the BUG Pokémon!$"
+	.string "Look at all the Bug Pokémon!$"
 
 SixIsland_PatternBush_Text_VanceDefeat::
 	.string "I got beat while I was still busy\n"
@@ -183,7 +183,7 @@ SixIsland_PatternBush_Text_DaliaPostBattle::
 	.string "Isn't it refreshing?$"
 
 SixIsland_PatternBush_Text_JoanaIntro::
-	.string "I love BUG Pokémon.\n"
+	.string "I love Bug Pokémon.\n"
 	.string "That's why I'm here all the time.\p"
 	.string "Am I the only girl like that?$"
 
@@ -193,7 +193,7 @@ SixIsland_PatternBush_Text_JoanaDefeat::
 
 SixIsland_PatternBush_Text_JoanaPostBattle::
 	.string "I'm going to keep on collecting\n"
-	.string "BUG Pokémon.\p"
+	.string "Bug Pokémon.\p"
 	.string "Am I the only girl like that?$"
 
 SixIsland_PatternBush_Text_RileyIntro::

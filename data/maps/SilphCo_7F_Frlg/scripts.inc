@@ -240,16 +240,16 @@ SilphCo_7F_Text_HaveMonForSavingUs::
 	.string "for saving us.$"
 
 SilphCo_7F_Text_ObtainedLaprasFromEmployee::
-	.string "{PLAYER} obtained a LAPRAS from\n"
-	.string "the SILPH employee!$"
+	.string "{PLAYER} obtained a Lapras from\n"
+	.string "the Silph employee!$"
 
 SilphCo_7F_Text_ExplainLapras::
-	.string "It's a LAPRAS.\n"
+	.string "It's a Lapras.\n"
 	.string "It's a very intelligent Pokémon.\p"
 	.string "We kept it in our lab, but it will\n"
 	.string "be much better off with you.\p"
 	.string "I think you will be a good Trainer\n"
-	.string "for LAPRAS!\p"
+	.string "for Lapras!\p"
 	.string "It's a good swimmer.\n"
 	.string "It'll give you a lift across water!$"
 
@@ -260,16 +260,16 @@ SilphCo_7F_Text_RocketBossWentToBoardroom::
 	.string "I'm worried.$"
 
 SilphCo_7F_Text_RocketsAfterMasterBall::
-	.string "Team Rocket was after the MASTER\n"
+	.string "Team Rocket was after the Master\n"
 	.string "Ball, which catches any Pokémon.$"
 
 SilphCo_7F_Text_CanceledMasterBallProject::
-	.string "We canceled the MASTER Ball\n"
+	.string "We canceled the Master Ball\n"
 	.string "project because of Team Rocket.$"
 
 SilphCo_7F_Text_BadIfTeamRocketTookOver::
 	.string "It would be bad if Team Rocket\n"
-	.string "took over SILPH or our Pokémon.$"
+	.string "took over Silph or our Pokémon.$"
 
 SilphCo_7F_Text_WowYouChasedOffTeamRocket::
 	.string "Wow!\p"
@@ -298,7 +298,7 @@ SilphCo_7F_Text_Grunt3PostBattle::
 
 SilphCo_7F_Text_JoshuaIntro::
 	.string "Heheh!\p"
-	.string "You mistook me for a SILPH worker?$"
+	.string "You mistook me for a Silph worker?$"
 
 SilphCo_7F_Text_JoshuaDefeat::
 	.string "I'm done!$"
@@ -309,7 +309,7 @@ SilphCo_7F_Text_JoshuaPostBattle::
 
 SilphCo_7F_Text_Grunt1Intro::
 	.string "I am one of the four Rocket\n"
-	.string "BROTHERS!$"
+	.string "Brothers!$"
 
 SilphCo_7F_Text_Grunt1Defeat::
 	.string "Aack!\n"

@@ -1250,8 +1250,8 @@ TwoIsland_JoyfulGameCorner_EventScript_ShowDodrioBerryPickingRecords::
 	end
 
 CableClub_Text_WelcomeWhichCableClubService_Frlg::
-	.string "Welcome to the Pokémon CABLE\n"
-	.string "CLUB.\p"
+	.string "Welcome to the Pokémon Cable\n"
+	.string "Club.\p"
 	.string "Which of our services do you wish\n"
 	.string "to use?$"
 
@@ -1261,18 +1261,18 @@ CableClub_Text_WhichService_Frlg::
 
 CableClub_Text_TradeMonsUsingLinkCable_Frlg::
 	.string "Trade Pokémon with another player\n"
-	.string "using a GBA Game Link cable.$"
+	.string "using a Gba Game Link cable.$"
 
 CableClub_Text_BattleUsingLinkCable_Frlg::
 	.string "You may battle another Trainer\n"
-	.string "using a GBA Game Link cable.$"
+	.string "using a Gba Game Link cable.$"
 
 @ Unused, translated in Emerald
 CableClub_Text_CloseThisMenu_Frlg::
 	.string "おわります$"
 
 CableClub_Text_NeedTwoMonsForDoubleBattle_Frlg::
-	.string "For a DOUBLE Battle, you must\n"
+	.string "For a Double Battle, you must\n"
 	.string "have at least two Pokémon.$"
 
 CableClub_Text_NeedTwoMonsToTrade_Frlg::
@@ -1333,11 +1333,11 @@ CableClub_Text_IncorrectNumberOfParticipants_Frlg::
 	.string "incorrect.$"
 
 CableClub_Text_CantSingleBattleWithXPlayers_Frlg::
-	.string "The SINGLE Battle Mode can't be\n"
+	.string "The Single Battle Mode can't be\n"
 	.string "played by {STR_VAR_1} players.$"
 
 CableClub_Text_CantDoubleBattleWithXPlayers_Frlg::
-	.string "The DOUBLE Battle Mode can't be\n"
+	.string "The Double Battle Mode can't be\n"
 	.string "played by {STR_VAR_1} players.$"
 
 CableClub_Text_NeedFourPlayers_Frlg::
@@ -1428,7 +1428,7 @@ CableClub_Text_YouMayBattleHere_Frlg::
 
 CableClub_Text_CanMakeBerryPowder_Frlg::
 	.string "Two to five Trainers can make\n"
-	.string "Berry POWDER together.$"
+	.string "Berry Powder together.$"
 
 @ Unused, Record Mix nopped
 CableClub_Text_CanMixRecords_Frlg::
@@ -1436,7 +1436,7 @@ CableClub_Text_CanMixRecords_Frlg::
 	.string "あそびかたを　せつめいします$"
 
 CableClub_Text_CancelSelectedItem_Frlg::
-	.string "Cancels the selected MENU item.$"
+	.string "Cancels the selected Menu item.$"
 
 @ Unused, translated in Emerald
 CableClub_Text_WhichBattleMode_Frlg::
@@ -1447,20 +1447,20 @@ CableClub_Text_ReturnsToPreviousStep_Frlg::
 	.string "ひとつ　まえに　もどります$"
 
 CableClub_Text_NeedBerryForBerryCrush_Frlg::
-	.string "To use the Berry CRUSH service,\n"
+	.string "To use the Berry Crush service,\n"
 	.string "you must have at least one Berry.$"
 
 CableClub_Text_NeedTwoMonsForUnionRoom_Frlg::
-	.string "To enter the UNION ROOM, you must\n"
+	.string "To enter the Union Room, you must\n"
 	.string "have at least two Pokémon.$"
 
 CableClub_Text_NoEnigmaBerryInUnionRoom_Frlg::
 	.string "No Pokémon holding the {STR_VAR_1}\n"
-	.string "Berry may enter the UNION ROOM.$"
+	.string "Berry may enter the Union Room.$"
 
 CableClub_Text_UnionRoomAdapterNotConnected_Frlg::
-	.string "This is the Pokémon WIRELESS CLUB\n"
-	.string "UNION ROOM.\p"
+	.string "This is the Pokémon Wireless Club\n"
+	.string "Union Room.\p"
 	.string "Unfortunately, your Wireless\n"
 	.string "Adapter is not connected properly.\p"
 	.string "Please do come again.$"
@@ -1476,9 +1476,9 @@ Text_DescribeWhichGame_Frlg::
 	.string "Which game should I describe?$"
 
 Text_PokemonJumpInfo_Frlg::
-	.string "“Pokémon JUMP”\p"
+	.string "“Pokémon Jump”\p"
 	.string "Make your Pokémon skip the\n"
-	.string "VINE WHIP rope with the A Button.\p"
+	.string "Vine Whip rope with the A Button.\p"
 	.string "Only mini Pokémon around 28 inches\n"
 	.string "or less may participate.\p"
 	.string "Pokémon that only swim, burrow, or\n"
@@ -1489,13 +1489,13 @@ Text_PokemonJumpInfo_Frlg::
 	.string "jumps in time.$"
 
 Text_DodrioBerryPickingInfo_Frlg::
-	.string "“DODRIO Berry-PICKING”\p"
-	.string "Command DODRIO's three heads to\n"
-	.string "catch falling BERRIES.\p"
+	.string "“Dodrio Berry-Picking”\p"
+	.string "Command Dodrio's three heads to\n"
+	.string "catch falling Berries.\p"
 	.string "Press right, up, or left on the\n"
 	.string "{PLUS} Control Pad to move the heads.\p"
 	.string "To play this game, you must have\n"
-	.string "a DODRIO.$"
+	.string "a Dodrio.$"
 
 Text_TalkToManToPlay_Frlg::
 	.string "If you want to play a game,\n"
@@ -1539,7 +1539,7 @@ EventScript_ExplainPokemonJumpRequirements_Frlg::
 	.string "kinds of Pokémon can enter?$"
 
 Text_ShortJumpingPokemonAllowed_Frlg::
-	.string "“Pokémon JUMP” is open to Pokémon\n"
+	.string "“Pokémon Jump” is open to Pokémon\n"
 	.string "around 28 inches or less.\p"
 	.string "What you can't enter are those\n"
 	.string "Pokémon that can't jump.\p"
@@ -1548,9 +1548,9 @@ Text_ShortJumpingPokemonAllowed_Frlg::
 	.string "That's all you need to know.$"
 
 Text_OnlyDodrioAllowed_Frlg::
-	.string "“DODRIO Berry-PICKING”…\n"
+	.string "“Dodrio Berry-Picking”…\n"
 	.string "Well, the name says it all.\p"
-	.string "You have to have a DODRIO to play\n"
+	.string "You have to have a Dodrio to play\n"
 	.string "this game.$"
 
 @ Unused, translated in Emerald
@@ -1559,8 +1559,8 @@ Text_RetryFromStartPlease_Frlg::
 	.string "やりなおして　みて　くれ$"
 
 CableClub_Text_WelcomeWhichDirectCornerRoom_Frlg::
-	.string "Welcome to the Pokémon WIRELESS\n"
-	.string "CLUB DIRECT CORNER.\p"
+	.string "Welcome to the Pokémon Wireless\n"
+	.string "Club Direct Corner.\p"
 	.string "You may interact directly with\n"
 	.string "your friends here.\p"
 	.string "Which room would you like to\n"
@@ -1575,19 +1575,19 @@ CableClub_Text_PlayWhichBattleMode_Frlg::
 
 CableClub_Text_UseBerryCrush_Frlg::
 	.string "Would you like to use the\n"
-	.string "Berry CRUSH System?$"
+	.string "Berry Crush System?$"
 
 CableClub_Text_ExplainBattleModes_Frlg::
 	.string "There are three Battle Modes.\p"
-	.string "SINGLE Battle is for two Trainers\n"
+	.string "Single Battle is for two Trainers\n"
 	.string "with one or more Pokémon each.\p"
 	.string "Each Trainer can have one Pokémon\n"
 	.string "in battle at a time.\p"
-	.string "DOUBLE Battle is for two Trainers\n"
+	.string "Double Battle is for two Trainers\n"
 	.string "with two or more Pokémon each.\p"
 	.string "Each Trainer will send out two\n"
 	.string "Pokémon in battle at a time.\p"
-	.string "MULTI Battle is for four Trainers\n"
+	.string "Multi Battle is for four Trainers\n"
 	.string "with one or more Pokémon each.\p"
 	.string "Each Trainer can have one Pokémon\n"
 	.string "in battle at a time.$"
@@ -1596,32 +1596,32 @@ CableClub_Text_ChooseGroupLeaderOfTwo_Frlg::
 	.string "Please decide which of you two\n"
 	.string "will become the Leader.\p"
 	.string "The other player must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "“Join Group.”$"
 
 CableClub_Text_ChooseGroupLeaderOfFour_Frlg::
 	.string "Please decide which of you four\n"
-	.string "will become the GROUP Leader.\p"
+	.string "will become the Group Leader.\p"
 	.string "The other players must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "“Join Group.”$"
 
 CableClub_Text_ChooseGroupLeader_Frlg::
 	.string "Please decide which of you will\n"
-	.string "become the GROUP Leader.\p"
+	.string "become the Group Leader.\p"
 	.string "The other players must then choose\n"
-	.string "“JOIN GROUP.”$"
+	.string "“Join Group.”$"
 
 CableClub_Text_WelcomeUnionRoomEnter_Frlg::
-	.string "Welcome to the Pokémon WIRELESS\n"
-	.string "CLUB UNION ROOM.\p"
+	.string "Welcome to the Pokémon Wireless\n"
+	.string "Club Union Room.\p"
 	.string "You may interact directly with\n"
 	.string "other Trainers here, some of\l"
 	.string "whom you may not even know.\p"
-	.string "Would you like to enter the ROOM?$"
+	.string "Would you like to enter the Room?$"
 
 CableClub_Text_UnionRoomInfo_Frlg::
-	.string "The Trainers in the UNION ROOM\n"
+	.string "The Trainers in the Union Room\n"
 	.string "will be those players around you\l"
-	.string "who have also entered the ROOM.\p"
+	.string "who have also entered the Room.\p"
 	.string "You may do all sorts of things\n"
 	.string "here, such as exchanging greetings.\p"
 	.string "You may enter two Pokémon up to\n"
@@ -1630,15 +1630,15 @@ CableClub_Text_UnionRoomInfo_Frlg::
 	.string "two to five people.\p"
 	.string "Or, you may register a Pokémon for\n"
 	.string "trade.\p"
-	.string "Would you like to enter the ROOM?$"
+	.string "Would you like to enter the Room?$"
 
 CableClub_Text_EnjoyUnionRoom_Frlg::
 	.string "I hope you enjoy your time in\n"
-	.string "the UNION ROOM.$"
+	.string "the Union Room.$"
 
 CableClub_Text_FirstTimeRightThisWay_Frlg::
 	.string "Hello!\n"
-	.string "My name is TEALA.\p"
+	.string "My name is Teala.\p"
 	.string "This must be your first time\n"
 	.string "up here.\p"
 	.string "I'll show you how the Wireless\n"
@@ -1651,57 +1651,57 @@ CableClub_Text_ExplainWirelessClubFirstTime_Frlg::
 	.string "On the top floor, there are two\n"
 	.string "rooms.\p"
 	.string "First, the room on the left.\n"
-	.string "It's the UNION ROOM.\p"
+	.string "It's the Union Room.\p"
 	.string "You may link up with Trainers\n"
 	.string "around you who have also entered\l"
-	.string "the UNION ROOM.\p"
+	.string "the Union Room.\p"
 	.string "With them, you may do things like\n"
 	.string "chat, battle, and trade.\p"
 	.string "Second, the room on the right is\n"
-	.string "the DIRECT CORNER.\p"
+	.string "the Direct Corner.\p"
 	.string "You may trade or battle Pokémon\n"
 	.string "with your friends in this room.\p"
 	.string "If the Wireless Adapter isn't\n"
 	.string "connected, you may still link up\l"
-	.string "using a GBA Game Link cable.\p"
+	.string "using a Gba Game Link cable.\p"
 	.string "If that is the case, you must go\n"
-	.string "to the DIRECT CORNER.\p"
+	.string "to the Direct Corner.\p"
 	.string "I hope you enjoy the Wireless \n"
 	.string "Communication System.$"
 
 CableClub_Text_AskAboutLinking_Frlg::
 	.string "Hello, {PLAYER}!\p"
-	.string "It's me, TEALA, the Pokémon\n"
+	.string "It's me, Teala, the Pokémon\n"
 	.string "Center 2F attendant.\p"
 	.string "Is there something you needed to\n"
 	.string "ask me about linking?$"
 
 CableClub_Text_ExplainWirelessClub_Frlg::
 	.string "Let me explain how the Pokémon\n"
-	.string "WIRELESS CLUB works.\p"
+	.string "Wireless Club works.\p"
 	.string "On this, the top floor, there are\n"
 	.string "two rooms.\p"
 	.string "First, the room on the left.\n"
-	.string "It's the UNION ROOM.\p"
+	.string "It's the Union Room.\p"
 	.string "You may link up with Trainers\n"
 	.string "around you who have also entered\l"
-	.string "the UNION ROOM.\p"
+	.string "the Union Room.\p"
 	.string "With them, you may do things like\n"
 	.string "chat, battle, and trade.\p"
 	.string "Second, the room on the right is\n"
-	.string "the DIRECT CORNER.\p"
+	.string "the Direct Corner.\p"
 	.string "You may trade or battle Pokémon\n"
 	.string "with your friends in this room.\p"
 	.string "Sometimes, you may not be able to\n"
-	.string "find your friends in the UNION ROOM\l"
-	.string "or the DIRECT CORNER.\p"
+	.string "find your friends in the Union Room\l"
+	.string "or the Direct Corner.\p"
 	.string "In that case, please move closer\n"
 	.string "to your friends.\p"
 	.string "If the Wireless Adapter isn't\n"
 	.string "connected, you may still link up\l"
-	.string "using a GBA Game Link cable.\p"
+	.string "using a Gba Game Link cable.\p"
 	.string "If that is the case, you must go\n"
-	.string "to the DIRECT CORNER.\p"
+	.string "to the Direct Corner.\p"
 	.string "I hope you enjoy the Wireless \n"
 	.string "Communication System.$"
 
@@ -1711,7 +1711,7 @@ CableClub_Text_HopeYouEnjoyWirelessSystem_Frlg::
 
 Text_WirelessClubUndergoingAdjustments::
 	.string "I'm terribly sorry.\n"
-	.string "The Pokémon WIRELESS CLUB is\l"
+	.string "The Pokémon Wireless Club is\l"
 	.string "undergoing adjustments now.$"
 
 Text_AppearsToBeUndergoingAdjustments::

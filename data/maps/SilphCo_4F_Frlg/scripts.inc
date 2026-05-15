@@ -68,7 +68,7 @@ SilphCo_4F_Text_RodneyDefeat::
 SilphCo_4F_Text_RodneyPostBattle::
 	.string "The doors are electronically\n"
 	.string "locked.\p"
-	.string "It takes a Card KEY to open the\n"
+	.string "It takes a Card Key to open the\n"
 	.string "doors here.$"
 
 SilphCo_4F_Text_Grunt2Intro::

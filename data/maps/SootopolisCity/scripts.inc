@@ -1651,7 +1651,7 @@ SootopolisCity_Text_KnowWhatsNeededToHelpHim:
 	.string "needed to help him…$"
 
 SootopolisCity_Text_NeverBeenToSkyPillar:
-	.string "Steven: The SKY PILLAR…\p"
+	.string "Steven: The Sky Pillar…\p"
 	.string "I've never been there.\n"
 	.string "I wonder where it could be?$"
 
@@ -1664,15 +1664,15 @@ SootopolisCity_Text_MaxieArchieLeft:
 	.string "Steven: It looks like both Maxie and\n"
 	.string "Archie have gone away somewhere.\p"
 	.string "Perhaps they've gone to Mt. Pyre to\n"
-	.string "return those ORBS…$"
+	.string "return those Orbs…$"
 
 SootopolisCity_Text_HaventYouScaledSkyPillar:
 	.string "Wallace: Oh?\n"
 	.string "{PLAYER}{KUN}?\p"
-	.string "Haven't you scaled the SKY PILLAR\n"
+	.string "Haven't you scaled the Sky Pillar\n"
 	.string "yet?\p"
 	.string "I'm sure that you can make it to\n"
-	.string "the top of the SKY PILLAR…$"
+	.string "the top of the Sky Pillar…$"
 
 SootopolisCity_Text_AquaMagmaDidntMeanHarm:
 	.string "Wallace: {PLAYER}{KUN}…\p"
@@ -1691,12 +1691,12 @@ SootopolisCity_Text_ThankYouForHelpAcceptThis:
 	.string "Please accept it.$"
 
 SootopolisCity_Text_ExplainWaterfallGoToGym:
-	.string "That HIDDEN MACHINE contains\n"
+	.string "That Hidden Machine contains\n"
 	.string "Waterfall.\p"
-	.string "If you have the RAIN Badge, a Pokémon\n"
+	.string "If you have the Rain Badge, a Pokémon\n"
 	.string "that has learned that HM move can\l"
 	.string "force its way up waterfalls.\p"
-	.string "And where does one get the RAIN Badge?\n"
+	.string "And where does one get the Rain Badge?\n"
 	.string "You know, don't you?\p"
 	.string "That's right! You have to beat\n"
 	.string "the Sootopolis Gym Leader.\p"

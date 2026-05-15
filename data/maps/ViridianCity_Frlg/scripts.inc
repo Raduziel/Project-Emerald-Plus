@@ -253,10 +253,10 @@ ViridianCity_Text_OhOkayThen::
 	.string "Oh, okay then!$"
 
 ViridianCity_Text_ExplainCaterpieWeedle::
-	.string "CATERPIE has no poison,\n"
-	.string "but WEEDLE does.\p"
+	.string "Caterpie has no poison,\n"
+	.string "but Weedle does.\p"
 	.string "Watch that your Pokémon aren't\n"
-	.string "stabbed by WEEDLE's POISON STING.$"
+	.string "stabbed by Weedle's Poison Sting.$"
 
 ViridianCity_Text_GrandpaHasntHadCoffeeYet::
 	.string "Oh, Grandpa!\n"
@@ -318,7 +318,7 @@ ViridianCity_Text_HowsTeachyTVHelping::
 	.string "that's what I need to get going!\p"
 	.string "But I made it too strong.\n"
 	.string "It gave me a headache…\p"
-	.string "Incidentally, is my old TEACHY TV\n"
+	.string "Incidentally, is my old Teachy TV\n"
 	.string "helping you?$"
 
 ViridianCity_Text_MyGrandsonOnTheShow::
@@ -329,7 +329,7 @@ ViridianCity_Text_MyGrandsonOnTheShow::
 
 ViridianCity_Text_TooBusyForTeachyTV::
 	.string "Hm… You're too busy to not even\n"
-	.string "have the time for TEACHY TV…\p"
+	.string "have the time for Teachy TV…\p"
 	.string "Time is money, and neither should\n"
 	.string "be ill spent…$"
 
@@ -338,16 +338,16 @@ ViridianCity_Text_CitySign::
 	.string "The Eternally Green Paradise$"
 
 ViridianCity_Text_CatchMonsForEasierBattles::
-	.string "Trainer TIPS\p"
+	.string "Trainer Tips\p"
 	.string "Catch Pokémon and expand your\n"
 	.string "collection.\p"
 	.string "The more you have, the easier it\n"
 	.string "is to battle.$"
 
 ViridianCity_Text_MovesLimitedByPP::
-	.string "Trainer TIPS\p"
+	.string "Trainer Tips\p"
 	.string "The battle moves of Pokémon are\n"
-	.string "limited by their POWER POINTS, PP.\p"
+	.string "limited by their Power Points, PP.\p"
 	.string "To replenish PP, rest your tired\n"
 	.string "Pokémon at a Pokémon Center.$"
 

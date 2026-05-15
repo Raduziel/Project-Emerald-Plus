@@ -25,7 +25,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Endings[] = {
     },
     [EC_INDEX(EC_WORD_WONDER)] =
     {
-        .text = COMPOUND_STRING("Wonder"),
+        .text = COMPOUND_STRING("WONDER"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_AN),
         .enabled = TRUE,
     },
@@ -79,7 +79,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Endings[] = {
     },
     [EC_INDEX(EC_WORD_LET_S)] =
     {
-        .text = COMPOUND_STRING("LET's"),
+        .text = COMPOUND_STRING("LET'S"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_CAN),
         .enabled = TRUE,
     },

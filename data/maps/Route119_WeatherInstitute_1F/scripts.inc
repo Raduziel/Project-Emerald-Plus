@@ -114,7 +114,7 @@ Route119_WeatherInstitute_1F_Text_ProfStudyingRain:
 	.string "if the rain can be put to good use.$"
 
 Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather:
-	.string "On the 2nd floor of the INSTITUTE,\n"
+	.string "On the 2nd floor of the Institute,\n"
 	.string "we study the weather patterns over\l"
 	.string "the Hoenn region.\p"
 	.string "We've been noticing temporary and\n"
@@ -125,7 +125,7 @@ Route119_WeatherInstitute_1F_Text_WhatWereAquasUpTo:
 	.string "Hello!\n"
 	.string "We've been saved by your actions!\p"
 	.string "What I don't understand is what on\n"
-	.string "earth the AQUAS were up to.$"
+	.string "earth the Aquas were up to.$"
 
 Route119_WeatherInstitute_1F_Text_TakeRestInBed:
 	.string "There's a bed…\n"

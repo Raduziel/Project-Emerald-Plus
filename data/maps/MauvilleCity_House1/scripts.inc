@@ -21,14 +21,14 @@ MauvilleCity_House1_EventScript_ReceivedRockSmash::
 MauvilleCity_House1_Text_ImRockSmashDudeTakeThis:
 	.string "Woohoo!\p"
 	.string "I hear people call me the Rock Smash\n"
-	.string "GUY, but I find that sort of degrading.\p"
+	.string "Guy, but I find that sort of degrading.\p"
 	.string "I think I deserve a bit more respect,\n"
-	.string "like maybe the Rock Smash DUDE.\p"
+	.string "like maybe the Rock Smash Dude.\p"
 	.string "Woohoo!\p"
 	.string "Anyways, your Pokémon look pretty\n"
 	.string "strong.\p"
 	.string "I like that!\n"
-	.string "Here, take this HIDDEN MACHINE!$"
+	.string "Here, take this Hidden Machine!$"
 
 MauvilleCity_House1_Text_ExplainRockSmash:
 	.string "That HM contains Rock Smash.\p"

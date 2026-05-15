@@ -24,13 +24,13 @@ Route25_Text_JoeyPostBattle::
 
 Route25_Text_DanIntro::
 	.string "Dad took me to a great party on\n"
-	.string "the S.S. ANNE at Vermilion City.$"
+	.string "the S.S. Anne at Vermilion City.$"
 
 Route25_Text_DanDefeat::
 	.string "I'm not mad!$"
 
 Route25_Text_DanPostBattle::
-	.string "On the S.S. ANNE, I saw Trainers\n"
+	.string "On the S.S. Anne, I saw Trainers\n"
 	.string "from around the world.$"
 
 Route25_Text_FlintIntro::
@@ -75,11 +75,11 @@ Route25_Text_HaleyDefeat::
 	.string "I'm not so jealous!$"
 
 Route25_Text_HaleyPostBattle::
-	.string "You came from MT. MOON?\n"
-	.string "May I have a CLEFAIRY?$"
+	.string "You came from Mt. Moon?\n"
+	.string "May I have a Clefairy?$"
 
 Route25_Text_FranklinIntro::
-	.string "I just got down from MT. MOON,\n"
+	.string "I just got down from Mt. Moon,\n"
 	.string "but I've still got gas in the tank!$"
 
 Route25_Text_FranklinDefeat::
@@ -87,10 +87,10 @@ Route25_Text_FranklinDefeat::
 
 Route25_Text_FranklinPostBattle::
 	.string "Drat!\n"
-	.string "A ZUBAT bit me back in that cave.$"
+	.string "A Zubat bit me back in that cave.$"
 
 Route25_Text_NobIntro::
-	.string "I'm off to see a POKéMANIAC's\n"
+	.string "I'm off to see a Poké Maniac's\n"
 	.string "collection at the cape.$"
 
 Route25_Text_NobDefeat::
@@ -98,13 +98,13 @@ Route25_Text_NobDefeat::
 	.string "too!$"
 
 Route25_Text_NobPostBattle::
-	.string "The POKéMANIAC sure lives up to\n"
+	.string "The Poké Maniac sure lives up to\n"
 	.string "his name.\p"
 	.string "His collection includes many rare\n"
 	.string "species of Pokémon.$"
 
 Route25_Text_WayneIntro::
-	.string "You're going to see BILL?\n"
+	.string "You're going to see Bill?\n"
 	.string "First, we battle!$"
 
 Route25_Text_WayneDefeat::
@@ -115,8 +115,8 @@ Route25_Text_WaynePostBattle::
 	.string "Cerulean City.$"
 
 Route25_Text_SeaCottageSign::
-	.string "SEA COTTAGE\n"
-	.string "BILL lives here!$"
+	.string "Sea Cottage\n"
+	.string "Bill lives here!$"
 
 Route25_Text_MistyHighHopesAboutThisPlace::
 	.string "This cape is a famous date spot.\p"

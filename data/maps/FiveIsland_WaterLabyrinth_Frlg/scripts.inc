@@ -111,7 +111,7 @@ FiveIsland_WaterLabyrinth_Text_CuteMonRemindsMeOfDaisy::
 	.string "She was gently grooming Pokémon…\n"
 	.string "She was a little angel.\p"
 	.string "That little girl's name…\n"
-	.string "I think it was DAISY.$"
+	.string "I think it was Daisy.$"
 
 FiveIsland_WaterLabyrinth_Text_AlizeIntro::
 	.string "This is an excellent environment\n"
@@ -123,4 +123,4 @@ FiveIsland_WaterLabyrinth_Text_AlizeDefeat::
 
 FiveIsland_WaterLabyrinth_Text_AlizePostBattle::
 	.string "You know, I think you have the\n"
-	.string "talent to be a good BREEDER.$"
+	.string "talent to be a good Breeder.$"

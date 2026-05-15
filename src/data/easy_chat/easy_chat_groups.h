@@ -26,14 +26,14 @@
 const struct EasyChatGroup gEasyChatGroups[EC_NUM_GROUPS] = {
     [EC_GROUP_POKEMON] =
     {
-        .name = COMPOUND_STRING("Pokémon"),
+        .name = COMPOUND_STRING("POKéMON"),
         .wordData = {.valueList = gEasyChatGroup_Pokemon},
         .numWords = ARRAY_COUNT(gEasyChatGroup_Pokemon),
         .numEnabledWords = ARRAY_COUNT(gEasyChatGroup_Pokemon),
     },
     [EC_GROUP_TRAINER] =
     {
-        .name = COMPOUND_STRING("Trainer"),
+        .name = COMPOUND_STRING("TRAINER"),
         .wordData = {.words = gEasyChatGroup_Trainer},
         .numWords = ARRAY_COUNT(gEasyChatGroup_Trainer),
         .numEnabledWords = ARRAY_COUNT(gEasyChatGroup_Trainer) - 6, // Excludes Red, Green, Flame, Gold, Leaf, and Silver
@@ -47,7 +47,7 @@ const struct EasyChatGroup gEasyChatGroups[EC_NUM_GROUPS] = {
     },
     [EC_GROUP_BATTLE] =
     {
-        .name = COMPOUND_STRING("Battle"),
+        .name = COMPOUND_STRING("BATTLE"),
         .wordData = {.words = gEasyChatGroup_Battle},
         .numWords = ARRAY_COUNT(gEasyChatGroup_Battle),
         .numEnabledWords = ARRAY_COUNT(gEasyChatGroup_Battle),
@@ -173,7 +173,7 @@ const struct EasyChatGroup gEasyChatGroups[EC_NUM_GROUPS] = {
     },
     [EC_GROUP_POKEMON_NATIONAL] =
     {
-        .name = COMPOUND_STRING("Pokémon2"),
+        .name = COMPOUND_STRING("POKéMON2"),
         .wordData = {.valueList = gEasyChatGroup_Pokemon2},
         .numWords = ARRAY_COUNT(gEasyChatGroup_Pokemon2),
         .numEnabledWords = ARRAY_COUNT(gEasyChatGroup_Pokemon2),

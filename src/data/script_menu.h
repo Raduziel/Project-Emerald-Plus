@@ -1020,7 +1020,7 @@ static const struct MenuAction sMultichoiceList_DomeAmber[] = {
 };
 
 static const struct MenuAction sMultichoiceList_Mushrooms[] = {
-    { COMPOUND_STRING("2 TINYMUSHROOMS") },
+    { COMPOUND_STRING("2 TINY MUSHROOMS") },
     { COMPOUND_STRING("1 BIG MUSHROOM") }
 };
 

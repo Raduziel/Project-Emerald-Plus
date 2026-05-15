@@ -76,14 +76,14 @@ CeruleanCity_Gym_Text_MistyIntro::
 	.string "What is your approach when you\n"
 	.string "catch and train Pokémon?\p"
 	.string "My policy is an all-out offensive\n"
-	.string "with WATER-type Pokémon!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
+	.string "with Water-type Pokémon!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
-	.string "TM03 teaches WATER PULSE.\p"
+	.string "TM03 teaches Water Pulse.\p"
 	.string "Use it on an aquatic Pokémon!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
-	.string "The CASCADEBADGE makes all\n"
+	.string "The Cascade Badge makes all\n"
 	.string "Pokémon up to Lv. 30 obey.\p"
 	.string "That includes even outsiders you\n"
 	.string "got in trades.\p"
@@ -104,7 +104,7 @@ CeruleanCity_Gym_Text_MistyDefeat::
 	.string "Wow!\n"
 	.string "You're too much!\p"
 	.string "All right!\p"
-	.string "You can have the CASCADEBADGE to\n"
+	.string "You can have the Cascade Badge to\n"
 	.string "show you beat me.$"
 
 CeruleanCity_Gym_Text_DianaIntro::
@@ -137,10 +137,10 @@ CeruleanCity_Gym_Text_GymGuyAdvice::
 	.string "Champ in the making!\p"
 	.string "Let me give you some advice!\p"
 	.string "The Leader, Misty, is a pro who\n"
-	.string "uses WATER-type Pokémon.\p"
+	.string "uses Water-type Pokémon.\p"
 	.string "You can drain all their water with\n"
-	.string "GRASS-type Pokémon.\p"
-	.string "Or, you might use ELECTRIC-type\n"
+	.string "Grass-type Pokémon.\p"
+	.string "Or, you might use Electric-type\n"
 	.string "Pokémon and zap them!$"
 
 CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
@@ -152,12 +152,12 @@ CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
 CeruleanCity_Gym_Text_GymStatue::
 	.string "Cerulean Pokémon Gym\n"
 	.string "Leader: Misty\p"
-	.string "WINNING Trainers:\n"
+	.string "Winning Trainers:\n"
 	.string "{RIVAL}$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
 	.string "Cerulean Pokémon Gym\n"
 	.string "Leader: Misty\p"
-	.string "WINNING Trainers:\n"
+	.string "Winning Trainers:\n"
 	.string "{RIVAL}, {PLAYER}$"
 

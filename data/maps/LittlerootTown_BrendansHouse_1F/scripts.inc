@@ -368,7 +368,7 @@ PlayersHouse_1F_Text_Vigoroth2:
 	.string "Huggoh, uggo uggo…$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym:
-	.string "INTERVIEWER: …We brought you this\n"
+	.string "Interviewer: …We brought you this\n"
 	.string "report from in front of Petalburg Gym.$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV:
@@ -379,10 +379,10 @@ PlayersHouse_1F_Text_TheresAMovieOnTV:
 
 PlayersHouse_1F_Text_RunningShoesManual:
 	.string "It's the instruction booklet for the\n"
-	.string "RUNNING SHOES.\p"
+	.string "Running Shoes.\p"
 	.string "“Press the B Button to run while\n"
-	.string "wearing your RUNNING SHOES.\p"
-	.string "“Lace up your RUNNING SHOES and hit\n"
+	.string "wearing your Running Shoes.\p"
+	.string "“Lace up your Running Shoes and hit\n"
 	.string "the road running!”$"
 
 PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
@@ -394,10 +394,10 @@ PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
 	.string "But your old man hasn't given up yet!\p"
 	.string "Oh, yes, I have something for you.\n"
 	.string "This came to you from someone named\l"
-	.string "Mr. BRINEY.$"
+	.string "Mr. Briney.$"
 
 PlayersHouse_1F_Text_PortsInSlateportLilycove:
-	.string "Dad: Hm, a TICKET for a ferry?\p"
+	.string "Dad: Hm, a Ticket for a ferry?\p"
 	.string "If I recall, there are ferry ports in\n"
 	.string "Slateport and Lilycove.$"
 
@@ -419,7 +419,7 @@ PlayersHouse_1F_Text_LatiEmergencyNewsFlash:
 	.string "We bring you this emergency\n"
 	.string "news flash!\p"
 	.string "In various Hoenn locales, there have\n"
-	.string "been reports of a BZZT…colored\l"
+	.string "been reports of a Bzzt…colored\l"
 	.string "Pokémon in flight.\p"
 	.string "The identity of this Pokémon is\n"
 	.string "currently unknown.\p"

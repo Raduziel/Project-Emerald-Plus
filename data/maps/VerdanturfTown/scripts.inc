@@ -111,14 +111,14 @@ VerdanturfTown_Text_TownSign:
 	.string "sweet fragrance of grass.”$"
 
 VerdanturfTown_Text_WandasHouse:
-	.string "WANDA's House$"
+	.string "Wanda's House$"
 
 VerdanturfTown_Text_BattleTentSign:
 	.string "Battle Tent Verdanturf Site\n"
 	.string "“Feast Your Eyes on Battles!”$"
 
 VerdanturfTown_Text_RusturfTunnelSign:
-	.string "RUSTURF TUNNEL\n"
+	.string "Rusturf Tunnel\n"
 	.string "“Linking Rustboro and Verdanturf\p"
 	.string "“The tunnel project has been\n"
 	.string "canceled.”$"

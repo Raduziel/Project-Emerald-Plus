@@ -935,7 +935,7 @@ BattleFrontier_BattleTowerLobby_EventScript_ExitRules::
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_DirectYouToBattleRoom:
-	.string "I'll direct you to your Battle ROOM now.$"
+	.string "I'll direct you to your Battle Room now.$"
 
 BattleFrontier_BattleTowerLobby_Text_DidntSaveBeforeQuitting:
 	.string "Excuse me!\p"
@@ -978,7 +978,7 @@ BattleFrontier_BattleTowerLobby_Text_WeveBeenWaitingForYou:
 	.string "$"
 
 BattleFrontier_BattleTowerLobby_Text_ProgressWillBeSaved:
-	.string "Before entering a Battle ROOM, your\n"
+	.string "Before entering a Battle Room, your\n"
 	.string "progress will be saved. Please wait.$"
 
 BattleFrontier_BattleTowerLobby_Text_AboutToFace50thTrainer:
@@ -1046,8 +1046,8 @@ BattleFrontier_BattleTowerLobby_Text_CanLeaveUntilLossOrSevenWins:
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_DoubleBattleRoomConstruction:
 	.string "Welcome to the Battle Tower\n"
-	.string "DOUBLE Battle CORNER!\p"
-	.string "Unfortunately, the Battle ROOMS\n"
+	.string "Double Battle Corner!\p"
+	.string "Unfortunately, the Battle Rooms\n"
 	.string "are still under construction.\p"
 	.string "Please come back when the work\n"
 	.string "is completed.$"
@@ -1055,8 +1055,8 @@ BattleFrontier_BattleTowerLobby_Text_DoubleBattleRoomConstruction:
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_MultiBattleRoomConstruction:
 	.string "Welcome to the Battle Tower\n"
-	.string "MULTI Battle CORNER!\p"
-	.string "Unfortunately, the Battle ROOMS\n"
+	.string "Multi Battle Corner!\p"
+	.string "Unfortunately, the Battle Rooms\n"
 	.string "are still under construction.\p"
 	.string "Please come back when the work\n"
 	.string "is completed.$"
@@ -1066,7 +1066,7 @@ BattleFrontier_BattleTowerLobby_Text_LookForwardToAnotherChallenge:
 	.string "another challenge!$"
 
 BattleFrontier_BattleTowerLobby_Text_WhichLevelMode:
-	.string "The Battle ROOM offers two levels\n"
+	.string "The Battle Room offers two levels\n"
 	.string "of challenge, Level 50 and Open Level.\l"
 	.string "Which is your choice?$"
 
@@ -1076,12 +1076,12 @@ BattleFrontier_BattleTowerLobby_Text_PleaseSelectMons:
 	.string "to enter.$"
 
 BattleFrontier_BattleTowerLobby_Text_OkayToSaveBeforeEntering:
-	.string "Before entering a Battle ROOM, your\n"
+	.string "Before entering a Battle Room, your\n"
 	.string "progress must be saved. Is that okay?$"
 
 BattleFrontier_BattleTowerLobby_Text_ShowYouToBattleRoom:
 	.string "I will now show you to the\n"
-	.string "{STR_VAR_1} Battle ROOM.$"
+	.string "{STR_VAR_1} Battle Room.$"
 
 BattleFrontier_BattleTowerLobby_Text_RecordLastMatch:
 	.string "Shall I record your last Battle Tower\n"
@@ -1168,20 +1168,20 @@ BattleFrontier_BattleTowerLobby_Text_WelcomSingleBattle:
 	.string "Where the talents of Trainers\n"
 	.string "are put to the test!\p"
 	.string "Welcome to the Battle Tower!\p"
-	.string "I am your guide to the SINGLE\n"
-	.string "Battle ROOMS.$"
+	.string "I am your guide to the Single\n"
+	.string "Battle Rooms.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeSinglesChallenge:
-	.string "Would you like to take the SINGLE\n"
-	.string "Battle ROOM challenge?$"
+	.string "Would you like to take the Single\n"
+	.string "Battle Room challenge?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainSinglesChallenge:
-	.string "The Battle Tower's SINGLE Battle\n"
-	.string "ROOMS are facilities for conducting\l"
-	.string "SINGLE BATTLES with three Pokémon.\p"
-	.string "There are many SINGLE Battle ROOMS\n"
+	.string "The Battle Tower's Single Battle\n"
+	.string "Rooms are facilities for conducting\l"
+	.string "Single Battles with three Pokémon.\p"
+	.string "There are many Single Battle Rooms\n"
 	.string "in the Battle Tower for team battles.\p"
-	.string "In each of the SINGLE Battle ROOMS,\n"
+	.string "In each of the Single Battle Rooms,\n"
 	.string "seven Trainers await your challenge.\p"
 	.string "If you manage to defeat all seven,\n"
 	.string "you will earn Battle Points.\p"
@@ -1198,20 +1198,20 @@ BattleFrontier_BattleTowerLobby_Text_WelcomeDoubleBattle:
 	.string "Where the talents of Trainers\n"
 	.string "are put to the test!\p"
 	.string "Welcome to the Battle Tower!\p"
-	.string "I am your guide to the DOUBLE\n"
-	.string "Battle ROOMS.$"
+	.string "I am your guide to the Double\n"
+	.string "Battle Rooms.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeDoublesChallenge:
-	.string "Would you like to take the DOUBLE\n"
-	.string "Battle ROOM challenge?$"
+	.string "Would you like to take the Double\n"
+	.string "Battle Room challenge?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainDoublesChallenge:
-	.string "The Battle Tower's DOUBLE Battle\n"
-	.string "ROOMS are facilities for conducting\l"
-	.string "DOUBLE BATTLES with four Pokémon.\p"
-	.string "There are many DOUBLE Battle ROOMS\n"
+	.string "The Battle Tower's Double Battle\n"
+	.string "Rooms are facilities for conducting\l"
+	.string "Double Battles with four Pokémon.\p"
+	.string "There are many Double Battle Rooms\n"
 	.string "in the Battle Tower for team battles.\p"
-	.string "In each of the DOUBLE Battle ROOMS,\n"
+	.string "In each of the Double Battle Rooms,\n"
 	.string "seven Trainers await your challenge.\p"
 	.string "If you manage to defeat all seven,\n"
 	.string "you will earn Battle Points.\p"
@@ -1228,28 +1228,28 @@ BattleFrontier_BattleTowerLobby_Text_WelcomeMultiBattle:
 	.string "Where the talents of Trainers\n"
 	.string "are put to the test!\p"
 	.string "Welcome to the Battle Tower!\p"
-	.string "I am your guide to the MULTI\n"
-	.string "Battle ROOMS.$"
+	.string "I am your guide to the Multi\n"
+	.string "Battle Rooms.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeMultisChallenge:
-	.string "Would you like to take the MULTI\n"
-	.string "Battle ROOM challenge?$"
+	.string "Would you like to take the Multi\n"
+	.string "Battle Room challenge?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainMultisChallenge:
-	.string "The Battle Tower's MULTI Battle\n"
-	.string "ROOMS are facilities for conducting\l"
-	.string "MULTI BATTLES.\p"
-	.string "For MULTI BATTLES, you must partner\n"
+	.string "The Battle Tower's Multi Battle\n"
+	.string "Rooms are facilities for conducting\l"
+	.string "Multi Battles.\p"
+	.string "For Multi Battles, you must partner\n"
 	.string "with a Trainer in the Tower and enter\l"
 	.string "with two Pokémon each.\p"
 	.string "Inside the Tower is a room named\n"
-	.string "the Battle SALON where you may meet\l"
+	.string "the Battle Salon where you may meet\l"
 	.string "other Trainers.\p"
 	.string "There, you must find a Trainer to act\n"
-	.string "as your partner in MULTI BATTLES.\p"
+	.string "as your partner in Multi Battles.\p"
 	.string "Once you have partnered up, you will\n"
-	.string "be shown to a MULTI Battle ROOM.\p"
-	.string "In the MULTI Battle ROOM, seven\n"
+	.string "be shown to a Multi Battle Room.\p"
+	.string "In the Multi Battle Room, seven\n"
 	.string "tag teams await your challenge.\p"
 	.string "If you manage to defeat all seven\n"
 	.string "teams, you will earn Battle Points.\p"
@@ -1266,33 +1266,33 @@ BattleFrontier_BattleTowerLobby_Text_WelcomeLinkMultiBattle:
 	.string "Where the talents of Trainers\n"
 	.string "are put to the test!\p"
 	.string "Welcome to the Battle Tower!\p"
-	.string "I am your guide to the LINK MULTI\n"
-	.string "Battle ROOMS.$"
+	.string "I am your guide to the Link Multi\n"
+	.string "Battle Rooms.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeLinkMultisChallenge:
-	.string "Would you like to take the LINK MULTI\n"
-	.string "Battle ROOM challenge?$"
+	.string "Would you like to take the Link Multi\n"
+	.string "Battle Room challenge?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainLinkMultisChallenge:
-	.string "The Battle Tower's MULTI Battle\n"
-	.string "ROOMS are facilities for conducting\l"
-	.string "MULTI BATTLES with a friend.\p"
+	.string "The Battle Tower's Multi Battle\n"
+	.string "Rooms are facilities for conducting\l"
+	.string "Multi Battles with a friend.\p"
 	.string "You must link with your friend using\n"
 	.string "Wireless Adapters or a Game Boy\l"
 	.string "Advance Game Link cable.\p"
 	.string "You must partner with your friend and\n"
 	.string "enter two different kinds of Pokémon.\p"
-	.string "There are many MULTI Battle ROOMS\n"
+	.string "There are many Multi Battle Rooms\n"
 	.string "in the Battle Tower for team battles.\p"
-	.string "In a MULTI Battle ROOM, seven\n"
+	.string "In a Multi Battle Room, seven\n"
 	.string "tag teams await you and your friend\l"
 	.string "to make a tag-team challenge.\p"
 	.string "If you manage to defeat all seven\n"
 	.string "teams, you will earn Battle Points.\p"
-	.string "Please beware that unlike other ROOMS,\n"
+	.string "Please beware that unlike other Rooms,\n"
 	.string "you may not interrupt your challenge.\p"
 	.string "Once you start, you must battle seven\n"
-	.string "MULTI BATTLES in a row nonstop.$"
+	.string "Multi Battles in a row nonstop.$"
 
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons2:
 	.string "Now please select the two Pokémon\n"
@@ -1307,7 +1307,7 @@ BattleFrontier_BattleTowerLobby_Text_ChoseSameMonAsFriend:
 	.string "you wish to enter, and register again.$"
 
 BattleFrontier_BattleTowerLobby_Text_LinkMultiOnlyForTwoPlayers:
-	.string "The LINK MULTI Battle ROOM challenge\n"
+	.string "The Link Multi Battle Room challenge\n"
 	.string "is only for two linked players.$"
 
 BattleFrontier_BattleTowerLobby_Text_FriendAlsoSelectedMon:
@@ -1347,7 +1347,7 @@ BattleFrontier_BattleTowerLobby_Text_SaveGameBeforeShowingIn:
 
 BattleFrontier_BattleTowerLobby_Text_CongratsDefeatedMaiden:
 	.string "Congratulations!\n"
-	.string "You have defeated the SALON MAIDEN\l"
+	.string "You have defeated the Salon Maiden\l"
 	.string "and swept seven Trainers!$"
 
 BattleFrontier_BattleTowerLobby_Text_AwardYouTheseBattlePoints:
@@ -1366,26 +1366,26 @@ BattleFrontier_BattleTowerLobby_Text_ReadWhichHeading:
 BattleFrontier_BattleTowerLobby_Text_ExplainTowerRules:
 	.string "The Battle Tower is a facility where\n"
 	.string "four types of battles are waged--\l"
-	.string "SINGLE Battle, DOUBLE Battle, MULTI\l"
-	.string "Battle, and LINK MULTI Battle.\p"
+	.string "Single Battle, Double Battle, Multi\l"
+	.string "Battle, and Link Multi Battle.\p"
 	.string "For each of these types, there are\n"
-	.string "separate Battle ROOMS.\p"
+	.string "separate Battle Rooms.\p"
 	.string "Please speak with a guide offering\n"
 	.string "the type of battle you wish to enter.$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainMonRules:
-	.string "Depending on the Battle ROOM you are\n"
+	.string "Depending on the Battle Room you are\n"
 	.string "entering, you will be required to take\l"
 	.string "a certain number of Pokémon.\p"
-	.string "The SINGLE Battle mode requires\n"
+	.string "The Single Battle mode requires\n"
 	.string "three Pokémon.\p"
-	.string "The DOUBLE Battle mode requires four,\n"
-	.string "and the MULTI modes both require two.$"
+	.string "The Double Battle mode requires four,\n"
+	.string "and the Multi modes both require two.$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainSalonRules:
-	.string "The Battle SALON is where you must\n"
+	.string "The Battle Salon is where you must\n"
 	.string "find a partner to form a tag team for\l"
-	.string "the MULTI Battle ROOM challenge.\p"
+	.string "the Multi Battle Room challenge.\p"
 	.string "Choose the best partner for you by\n"
 	.string "examining other Trainers'\l"
 	.string "Pokémon and their moves.\p"
@@ -1393,10 +1393,10 @@ BattleFrontier_BattleTowerLobby_Text_ExplainSalonRules:
 	.string "after winning seven straight matches.$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainMultiLinkRules:
-	.string "The LINK MULTI Battle Mode is for two\n"
+	.string "The Link Multi Battle Mode is for two\n"
 	.string "friends to mount a challenge together.\p"
 	.string "You and your friend must be linked with\n"
-	.string "Wireless Adapters or a GBA Game Link\l"
+	.string "Wireless Adapters or a Gba Game Link\l"
 	.string "cable.\p"
 	.string "You must choose two Pokémon at\n"
 	.string "the registration counter.\p"

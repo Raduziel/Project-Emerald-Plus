@@ -119,7 +119,7 @@ ViridianCity_Gym_Text_GiovanniDefeat::
 	.string "Ha!\n"
 	.string "That was a truly intense fight.\l"
 	.string "You have won!\p"
-	.string "As proof, here is the EARTHBADGE!\n"
+	.string "As proof, here is the Earth Badge!\n"
 	.string "{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}$"
 
 ViridianCity_Gym_Text_GiovanniPostBattle::
@@ -134,7 +134,7 @@ ViridianCity_Gym_Text_GiovanniPostBattle::
 	.string "Farewell!$"
 
 ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
-	.string "The EARTHBADGE makes Pokémon of\n"
+	.string "The Earthbadge makes Pokémon of\n"
 	.string "any level obey without question.\p"
 	.string "It is evidence of your mastery as\n"
 	.string "a Pokémon Trainer.\p"
@@ -149,7 +149,7 @@ ViridianCity_Gym_Text_ReceivedTM26FromGiovanni::
 	.string "from Giovanni.$"
 
 ViridianCity_Gym_Text_ExplainTM26::
-	.string "TM26 contains EARTHQUAKE.\p"
+	.string "TM26 contains Earthquake.\p"
 	.string "It is a powerful attack that causes\n"
 	.string "a massive tremor.\p"
 	.string "I made it when I ran the Gym here,\n"
@@ -213,7 +213,7 @@ ViridianCity_Gym_Text_WarrenPostBattle::
 	.string "losing this way…$"
 
 ViridianCity_Gym_Text_TakashiIntro::
-	.string "I'm the KARATE KING!\n"
+	.string "I'm the Karate King!\n"
 	.string "Your fate rests with me!$"
 
 ViridianCity_Gym_Text_TakashiDefeat::
@@ -257,7 +257,7 @@ ViridianCity_Gym_Text_GymGuyAdvice::
 	.string "This will be the toughest of all\l"
 	.string "the Gym Leaders.\p"
 	.string "Also, I heard that the Trainers\n"
-	.string "here like GROUND-type Pokémon.$"
+	.string "here like Ground-type Pokémon.$"
 
 ViridianCity_Gym_Text_GymGuyPostVictory::
 	.string "Blow me away! Giovanni was the\n"
@@ -266,12 +266,12 @@ ViridianCity_Gym_Text_GymGuyPostVictory::
 ViridianCity_Gym_Text_GymStatue::
 	.string "Viridian Pokémon Gym\n"
 	.string "Leader: ?\p"
-	.string "WINNING Trainers:\n"
+	.string "Winning Trainers:\n"
 	.string "{RIVAL}$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
 	.string "Viridian Pokémon Gym\n"
 	.string "Leader: Giovanni\p"
-	.string "WINNING Trainers:\n"
+	.string "Winning Trainers:\n"
 	.string "{RIVAL}, {PLAYER}$"
 

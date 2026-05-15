@@ -113,7 +113,7 @@ PokemonLeague_BrunosRoom_EventScript_BrunoLookAwayDown::
 	return
 
 PokemonLeague_BrunosRoom_Text_Intro::
-	.string "I am BRUNO of the Elite Four!\p"
+	.string "I am Bruno of the Elite Four!\p"
 	.string "Through rigorous training, people\n"
 	.string "and Pokémon can become stronger\l"
 	.string "without limit.\p"
@@ -126,7 +126,7 @@ PokemonLeague_BrunosRoom_Text_Intro::
 	.string "Hoo hah!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_BrunosRoom_Text_RematchIntro::
-	.string "I am BRUNO of the Elite Four!\p"
+	.string "I am Bruno of the Elite Four!\p"
 	.string "Through rigorous training, people\n"
 	.string "and Pokémon can become stronger\l"
 	.string "without limit.\p"

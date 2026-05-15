@@ -26,7 +26,7 @@ Route11_EastEntrance_1F_Text_ManInLavenderRatesNames::
 
 Route11_EastEntrance_1F_Text_RockTunnelToReachLavender::
 	.string "If you're aiming to reach Lavender\n"
-	.string "Town, take ROCK TUNNEL.\p"
-	.string "You can get to ROCK TUNNEL from\n"
+	.string "Town, take Rock Tunnel.\p"
+	.string "You can get to Rock Tunnel from\n"
 	.string "Cerulean City.$"
 

@@ -1,31 +1,31 @@
 gText_PkmnTransferredSomeonesPC::
 	.string "{STR_VAR_2} was transferred to\n"
-	.string "SOMEONE's PC.\p"
+	.string "Someone's PC.\p"
 	.string "It was placed in \n"
 	.string "Box “{STR_VAR_1}.”$"
 
 gText_PkmnTransferredLanettesPC::
 	.string "{STR_VAR_2} was transferred to\n"
 #if IS_FRLG
-	.string "BILL's PC.\p"
+	.string "Bill's PC.\p"
 #else
-	.string "LANETTE's PC.\p"
+	.string "Lanette's PC.\p"
 #endif
 	.string "It was placed in \n"
 	.string "Box “{STR_VAR_1}.”$"
 
 gText_PkmnTransferredSomeonesPCBoxFull::
 	.string "Box “{STR_VAR_3}” on\n"
-	.string "SOMEONE's PC was full.\p"
+	.string "Someone's PC was full.\p"
 	.string "{STR_VAR_2} was transferred to\n"
 	.string "Box “{STR_VAR_1}.”$"
 
 gText_PkmnTransferredLanettesPCBoxFull::
 	.string "Box “{STR_VAR_3}” on\n"
 #if IS_FRLG
-	.string "BILL's PC was full.\p"
+	.string "Bill's PC was full.\p"
 #else
-	.string "LANETTE's PC was full.\p"
+	.string "Lanette's PC was full.\p"
 #endif
 	.string "{STR_VAR_2} was transferred to\n"
 	.string "Box “{STR_VAR_1}.”$"
@@ -42,7 +42,7 @@ gText_PlayerObtainedTheMon::
 
 gText_NoMoreRoomForPokemon::
 	.string "There's no more room for Pokémon!\p"
-	.string "The Pokémon BOXES are full and\n"
+	.string "The Pokémon Boxes are full and\n"
 	.string "can't accept any more!$"
 
 gText_NicknameThisPokemon::

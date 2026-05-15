@@ -34,7 +34,7 @@ Route17_Text_RaulDefeat::
 
 Route17_Text_RaulPostBattle::
 	.string "You can find good stuff lying\n"
-	.string "around on CYCLING ROAD.\p"
+	.string "around on Cycling Road.\p"
 	.string "There's good money in picking them\n"
 	.string "up and selling them.$"
 
@@ -59,7 +59,7 @@ Route17_Text_VirgilPostBattle::
 	.string "I love racing downhill!$"
 
 Route17_Text_BillyIntro::
-	.string "We're BIKERS!\n"
+	.string "We're Bikers!\n"
 	.string "We rule the roads, man!$"
 
 Route17_Text_BillyDefeat::
@@ -69,13 +69,13 @@ Route17_Text_BillyPostBattle::
 	.string "Are you looking for adventure?$"
 
 Route17_Text_NikolasIntro::
-	.string "Let VOLTORB electrify you!$"
+	.string "Let Voltorb electrify you!$"
 
 Route17_Text_NikolasDefeat::
 	.string "Grounded out!$"
 
 Route17_Text_NikolasPostBattle::
-	.string "I got my VOLTORB at the abandoned\n"
+	.string "I got my Voltorb at the abandoned\n"
 	.string "Power Plant.$"
 
 Route17_Text_ZeekIntro::
@@ -87,7 +87,7 @@ Route17_Text_ZeekDefeat::
 
 Route17_Text_ZeekPostBattle::
 	.string "Maybe some Pokémon need element\n"
-	.string "STONES to evolve.$"
+	.string "Stones to evolve.$"
 
 Route17_Text_JamalIntro::
 	.string "I need a little exercise!$"
@@ -109,7 +109,7 @@ Route17_Text_CoreyPostBattle::
 	.string "Be ready to fight for your beliefs!$"
 
 Route17_Text_JaxonIntro::
-	.string "Nice BIKE!\n"
+	.string "Nice Bike!\n"
 	.string "How's it handle?$"
 
 Route17_Text_JaxonDefeat::
@@ -133,13 +133,13 @@ Route17_Text_WatchOutForDiscardedItems::
 	.string "Watch out for discarded items.$"
 
 Route17_Text_SameSpeciesGrowDifferentRates::
-	.string "Trainer TIPS\p"
+	.string "Trainer Tips\p"
 	.string "All Pokémon are unique.\p"
 	.string "Even Pokémon of the same species\n"
 	.string "and level grow at different rates.$"
 
 Route17_Text_PressBToStayInPlace::
-	.string "Trainer TIPS\p"
+	.string "Trainer Tips\p"
 	.string "Press the B Button to stay in place\n"
 	.string "while on a slope.$"
 
@@ -153,6 +153,6 @@ Route17_Text_DontThrowGameThrowBalls::
 	.string "Balls instead!$"
 
 Route17_Text_CyclingRoadSign::
-	.string "CYCLING ROAD\n"
+	.string "Cycling Road\n"
 	.string "Slope ends here!$"
 

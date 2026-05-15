@@ -45,7 +45,7 @@ VerdanturfTown_BattleTentCorridor_Movement_AttendantEnterDoor:
 VerdanturfTown_ContestHall_Text_WhichContestYouEntering:
 	.string "Which Contest are you entering?\n"
 	.string "Want a piece of advice?\p"
-	.string "In any Contest, for example, a CUTE\n"
+	.string "In any Contest, for example, a Cute\n"
 	.string "Contest, I don't think they judge you\l"
 	.string "only on cuteness in the first round.\p"
 	.string "You need to work out ways for raising\n"
@@ -70,5 +70,5 @@ VerdanturfTown_ContestHall_Text_MyMonRules:
 @ Unused
 VerdanturfTown_ContestHall_Text_NormalRankStage:
 	.string "Pokémon Contests\n"
-	.string "NORMAL RANK STAGE!$"
+	.string "Normal Rank Stage!$"
 

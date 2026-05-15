@@ -134,7 +134,7 @@ SilphCo_11F_EventScript_Grunt2::
 
 SilphCo_11F_Text_ThanksForSavingMeDearBoy::
 	.string "President: Oh, dear boy!\n"
-	.string "Thank you for saving SILPH.\p"
+	.string "Thank you for saving Silph.\p"
 	.string "I will never forget you saved us in\n"
 	.string "our moment of peril.\p"
 	.string "I have to thank you in some way.\p"
@@ -144,7 +144,7 @@ SilphCo_11F_Text_ThanksForSavingMeDearBoy::
 
 SilphCo_11F_Text_ThanksForSavingMeDearGirl::
 	.string "President: Oh, dear girl!\n"
-	.string "Thank you for saving SILPH.\p"
+	.string "Thank you for saving Silph.\p"
 	.string "I will never forget you saved us in\n"
 	.string "our moment of peril.\p"
 	.string "I have to thank you in some way.\p"
@@ -153,13 +153,13 @@ SilphCo_11F_Text_ThanksForSavingMeDearGirl::
 	.string "Here, maybe this will do.$"
 
 SilphCo_11F_Text_ObtainedMasterBallFromPresident::
-	.string "{PLAYER} obtained a MASTER Ball\n"
+	.string "{PLAYER} obtained a Master Ball\n"
 	.string "from the President!$"
 
 SilphCo_11F_Text_ThatsOurSecretPrototype::
 	.string "President: You can't buy that\n"
 	.string "anywhere.\p"
-	.string "It's our secret prototype MASTER\n"
+	.string "It's our secret prototype Master\n"
 	.string "Ball.\p"
 	.string "It will catch any Pokémon without\n"
 	.string "fail!\p"
@@ -170,7 +170,7 @@ SilphCo_11F_Text_YouHaveNoRoomForThis::
 	.string "You have no room for this.$"
 
 SilphCo_11F_Text_ThanksForRescuingUs::
-	.string "SECRETARY: Thank you for rescuing\n"
+	.string "Secretary: Thank you for rescuing\n"
 	.string "all of us.\p"
 	.string "We, from the President down,\n"
 	.string "are indebted to you.$"
@@ -190,7 +190,7 @@ SilphCo_11F_Text_GiovanniDefeat::
 
 SilphCo_11F_Text_GiovanniPostBattle::
 	.string "Blast it all!\n"
-	.string "You ruined our plans for SILPH!\p"
+	.string "You ruined our plans for Silph!\p"
 	.string "But, Team Rocket will never fall!\p"
 	.string "{PLAYER}! Never forget that all\n"
 	.string "Pokémon exist for Team Rocket!\p"

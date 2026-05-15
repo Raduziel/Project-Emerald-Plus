@@ -27,7 +27,7 @@ SafariZone_SecretHouse_EventScript_ExplainSurf::
 SafariZone_SecretHouse_Text_CongratsYouveWon::
 	.string "Ah! Finally!\p"
 	.string "You're the first person to reach\n"
-	.string "the SECRET House!\p"
+	.string "the Secret House!\p"
 	.string "Although I made a campaign\n"
 	.string "for our grand opening,\p"
 	.string "I was getting worried that no one\n"

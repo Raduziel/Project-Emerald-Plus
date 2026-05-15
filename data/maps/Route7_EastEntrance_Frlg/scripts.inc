@@ -89,7 +89,7 @@ Route7_EastEntrance_Text_ThirstyOnGuardDuty::
 	.string "Oh, wait there, the road's closed.$"
 
 Route7_EastEntrance_Text_ThatTeaLooksTasty::
-	.string "Oh, that TEA…\n"
+	.string "Oh, that Tea…\n"
 	.string "It looks awfully tasty…$"
 
 Route7_EastEntrance_Text_ThanksIllShareTeaWithGuards::
@@ -103,7 +103,7 @@ Route7_EastEntrance_Text_ThanksIllShareTeaWithGuards::
 	.string "City…\l"
 	.string "… …\l"
 	.string "You can go on through.\p"
-	.string "I'll share this TEA with the other\n"
+	.string "I'll share this Tea with the other\n"
 	.string "guards!$"
 
 Route7_EastEntrance_Text_HiHowsItGoing::

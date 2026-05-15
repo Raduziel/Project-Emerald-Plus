@@ -100,24 +100,24 @@ FuchsiaCity_Gym_Text_KogaIntro::
 	.string "Poison brings steady doom.\n"
 	.string "Sleep renders foes helpless.\p"
 	.string "Despair to the creeping horror of\n"
-	.string "POISON-type Pokémon!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
+	.string "Poison-type Pokémon!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 FuchsiaCity_Gym_Text_KogaDefeat::
 	.string "Humph!\n"
 	.string "You have proven your worth!\p"
 	.string "Here!\n"
-	.string "Take the SOULBADGE!$"
+	.string "Take the Soulbadge!$"
 
 FuchsiaCity_Gym_Text_KogaPostBattle::
-	.string "When afflicted by TOXIC, a Pokémon\n"
+	.string "When afflicted by Toxic, a Pokémon\n"
 	.string "suffers more and more.\p"
 	.string "It suffers worsening damage as the\n"
 	.string "battle wears on!\p"
 	.string "It will surely terrorize foes!$"
 
 FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
-	.string "Now that you have the SOULBADGE,\n"
-	.string "the DEFENSE of your Pokémon rises.\p"
+	.string "Now that you have the Soulbadge,\n"
+	.string "the Defense of your Pokémon rises.\p"
 	.string "It also lets you Surf outside of\n"
 	.string "battle.\p"
 	.string "Ah!\n"
@@ -129,7 +129,7 @@ FuchsiaCity_Gym_Text_ReceivedTM06FromKoga::
 
 FuchsiaCity_Gym_Text_KogaExplainTM06::
 	.string "Sealed within that TM06 lies\n"
-	.string "TOXIC!\p"
+	.string "Toxic!\p"
 	.string "It is a secret technique dating\n"
 	.string "back some four hundred years.$"
 
@@ -236,12 +236,12 @@ FuchsiaCity_Gym_Text_GymGuyPostVictory::
 FuchsiaCity_Gym_Text_GymStatue::
 	.string "Fuchsia Pokémon Gym\n"
 	.string "Leader: Koga\p"
-	.string "WINNING Trainers:\n"
+	.string "Winning Trainers:\n"
 	.string "{RIVAL}$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
 	.string "Fuchsia Pokémon Gym\n"
 	.string "Leader: Koga\p"
-	.string "WINNING Trainers:\n"
+	.string "Winning Trainers:\n"
 	.string "{RIVAL}, {PLAYER}$"
 

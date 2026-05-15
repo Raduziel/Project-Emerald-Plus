@@ -40,7 +40,7 @@ SevenIsland_Mart_EventScript_Fisher::
 SevenIsland_Mart_Text_MonHavePersonalitiesOfTheirOwn::
 	.string "Pokémon have personalities of their\n"
 	.string "own, just like people.\p"
-	.string "My PIKACHU has a HASTY nature,\n"
+	.string "My Pikachu has a Hasty nature,\n"
 	.string "so it grew to be a speedy Pokémon.$"
 
 SevenIsland_Mart_Text_PreparationsCompleteForRuins::

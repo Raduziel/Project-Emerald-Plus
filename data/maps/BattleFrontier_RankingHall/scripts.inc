@@ -101,18 +101,18 @@ BattleFrontier_RankingHall_EventScript_Boy::
 	end
 
 BattleFrontier_RankingHall_Text_ExplainRankingHall:
-	.string "This is the RANKING HALL.\p"
+	.string "This is the Ranking Hall.\p"
 	.string "This is where we recognize the immortal\n"
 	.string "Trainers who left great records in\l"
 	.string "Battle Frontier events.$"
 
 BattleFrontier_RankingHall_Text_DomePikeFactoryRecords:
-	.string "Battle DOME, Battle PIKE,\n"
-	.string "and Battle FACTORY Records$"
+	.string "Battle Dome, Battle Pike,\n"
+	.string "and Battle Factory Records$"
 
 BattleFrontier_RankingHall_Text_PalaceArenaPyramidRecords:
-	.string "Battle PALACE, Battle ARENA,\n"
-	.string "and Battle PYRAMID Records$"
+	.string "Battle Palace, Battle Arena,\n"
+	.string "and Battle Pyramid Records$"
 
 BattleFrontier_RankingHall_Text_IsYourNameOnThisList:
 	.string "Hi, is your name on this list?$"

@@ -325,7 +325,7 @@ BattleFrontier_BattleFactoryLobby_EventScript_ExitRules::
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForSingleBattle:
 	.string "Where the intelligence of Trainers\n"
 	.string "is put to the test!\p"
-	.string "Welcome to the Battle FACTORY!\p"
+	.string "Welcome to the Battle Factory!\p"
 	.string "I am your guide to the Battle Swap\n"
 	.string "Single Tournament.$"
 
@@ -335,12 +335,12 @@ BattleFrontier_BattleFactoryLobby_Text_TakeSinglesChallenge:
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge:
 	.string "The Battle Swap Single Tournament\n"
-	.string "is a SINGLE Battle competition using\l"
+	.string "is a Single Battle competition using\l"
 	.string "only rental Pokémon.\p"
 	.string "First, you will be loaned three\n"
 	.string "Pokémon specifically for this event.\p"
 	.string "Using the supplied rental Pokémon,\n"
-	.string "you must conduct a SINGLE Battle.\p"
+	.string "you must conduct a Single Battle.\p"
 	.string "If you win, you are permitted to trade\n"
 	.string "one of your rental Pokémon.\p"
 	.string "Repeat this cycle of battling and\n"
@@ -421,7 +421,7 @@ BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem:
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle:
 	.string "Where the intelligence of Trainers\n"
 	.string "is put to the test!\p"
-	.string "Welcome to the Battle FACTORY!\p"
+	.string "Welcome to the Battle Factory!\p"
 	.string "I am your guide to the Battle Swap\n"
 	.string "Double Tournament.$"
 
@@ -431,12 +431,12 @@ BattleFrontier_BattleFactoryLobby_Text_TakeDoublesChallenge:
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge:
 	.string "The Battle Swap Double Tournament\n"
-	.string "is a DOUBLE Battle competition using\l"
+	.string "is a Double Battle competition using\l"
 	.string "only rental Pokémon.\p"
 	.string "First, you will be loaned three\n"
 	.string "Pokémon specifically for this event.\p"
 	.string "Using the supplied rental Pokémon,\n"
-	.string "you must conduct a DOUBLE Battle.\p"
+	.string "you must conduct a Double Battle.\p"
 	.string "If you win, you are permitted to trade\n"
 	.string "one of your rental Pokémon.\p"
 	.string "Repeat this cycle of battling and\n"
@@ -449,7 +449,7 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge:
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsForDefeatingHead:
 	.string "Congratulations for defeating\n"
-	.string "the FACTORY HEAD and winning\l"
+	.string "the Factory Head and winning\l"
 	.string "seven matches in a row!$"
 
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePoints:
@@ -465,7 +465,7 @@ BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave:
 
 BattleFrontier_BattleFactoryLobby_Text_RecordLastMatch:
 	.string "Would you like to record your last\n"
-	.string "Battle FACTORY match on your\l"
+	.string "Battle Factory match on your\l"
 	.string "Frontier Pass?$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves:

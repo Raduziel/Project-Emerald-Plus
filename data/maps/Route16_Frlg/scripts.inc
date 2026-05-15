@@ -84,14 +84,14 @@ Route16_Text_LaoPostBattle::
 	.string "What's it to you?$"
 
 Route16_Text_KojiIntro::
-	.string "Nice BIKE!\n"
+	.string "Nice Bike!\n"
 	.string "Hand it over!$"
 
 Route16_Text_KojiDefeat::
 	.string "Knockout!$"
 
 Route16_Text_KojiPostBattle::
-	.string "Forget it, who needs your BIKE!$"
+	.string "Forget it, who needs your Bike!$"
 
 Route16_Text_LukeIntro::
 	.string "Come out and play, little mouse!$"
@@ -147,42 +147,42 @@ Route16_Text_MonSprawledOutInSlumber::
 
 Route16_Text_CyclingRoadSign::
 	.string "Enjoy the slope!\n"
-	.string "CYCLING ROAD$"
+	.string "Cycling Road$"
 
 Route16_Text_RouteSign::
 	.string "Route 16\n"
 	.string "Celadon City - Fuchsia City$"
 
 Route16_Text_JedIntro::
-	.string "JED: Our love knows no bounds.\n"
+	.string "Jed: Our love knows no bounds.\n"
 	.string "We're in love and we show it!$"
 
 Route16_Text_JedDefeat::
-	.string "JED: Oh, no!\n"
+	.string "Jed: Oh, no!\n"
 	.string "My love has seen me as a loser!$"
 
 Route16_Text_JedPostBattle::
-	.string "JED: Listen, LEA.\n"
+	.string "Jed: Listen, Lea.\n"
 	.string "You need to focus less on me.$"
 
 Route16_Text_JedNotEnoughMons::
-	.string "JED: You have just one Pokémon?\n"
+	.string "Jed: You have just one Pokémon?\n"
 	.string "Is there no love in your heart?$"
 
 Route16_Text_LeaIntro::
-	.string "LEA: Sometimes, the intensity of\n"
+	.string "Lea: Sometimes, the intensity of\n"
 	.string "our love scares me.$"
 
 Route16_Text_LeaDefeat::
-	.string "LEA: Ohh! But JED looks cool\n"
+	.string "Lea: Ohh! But Jed looks cool\n"
 	.string "even in a loss!$"
 
 Route16_Text_LeaPostBattle::
-	.string "LEA: Ehehe, I'm sorry.\n"
-	.string "JED is so cool.$"
+	.string "Lea: Ehehe, I'm sorry.\n"
+	.string "Jed is so cool.$"
 
 Route16_Text_LeaNotEnoughMons::
-	.string "LEA: Oh, you don't have two\n"
+	.string "Lea: Oh, you don't have two\n"
 	.string "Pokémon with you?\p"
 	.string "Doesn't it feel lonely for you or\n"
 	.string "your Pokémon?$"

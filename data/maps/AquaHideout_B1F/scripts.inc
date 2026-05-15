@@ -121,9 +121,9 @@ AquaHideout_B1F_Text_Grunt2PostBattle:
 	.string "Kekekeke…$"
 
 AquaHideout_B1F_Text_Grunt3Intro:
-	.string "Fuel supply loaded A-OK!\n"
-	.string "In-cruise snacks loaded A-OK!\p"
-	.string "Nothing left to do but KO a pesky\n"
+	.string "Fuel supply loaded A-Ok!\n"
+	.string "In-cruise snacks loaded A-Ok!\p"
+	.string "Nothing left to do but Ko a pesky\n"
 	.string "meddler!$"
 
 AquaHideout_B1F_Text_Grunt3Defeat:

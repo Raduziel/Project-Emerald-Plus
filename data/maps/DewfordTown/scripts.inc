@@ -646,49 +646,49 @@ DewfordTown_Text_HallSign:
 	.string "“Everyone's information exchange!”$"
 
 Route104_Text_LandedInDewfordDeliverLetter:
-	.string "Mr. BRINEY: Ahoy!\n"
+	.string "Mr. Briney: Ahoy!\n"
 	.string "We've hit land in Dewford.\p"
 	.string "I suppose you're off to deliver that\n"
-	.string "LETTER to, who was it now, Steven!$"
+	.string "Letter to, who was it now, Steven!$"
 
 DewfordTown_Text_SetSailBackToPetalburg:
-	.string "Mr. BRINEY: Have you delivered your\n"
-	.string "LETTER?\p"
+	.string "Mr. Briney: Have you delivered your\n"
+	.string "Letter?\p"
 	.string "Or were you meaning to sail back to\n"
 	.string "Petalburg?$"
 
 DewfordTown_Text_PetalburgWereSettingSail2:
-	.string "Mr. BRINEY: Petalburg it is, then!\p"
+	.string "Mr. Briney: Petalburg it is, then!\p"
 	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "Peeko, we're setting sail, my darling!$"
 
 DewfordTown_Text_GoDeliverIllBeWaiting:
-	.string "Mr. BRINEY: Then you go on and deliver\n"
-	.string "the LETTER. I'll be waiting.$"
+	.string "Mr. Briney: Then you go on and deliver\n"
+	.string "the Letter. I'll be waiting.$"
 
 DewfordTown_Text_BrineyLandedInDewford:
-	.string "Mr. BRINEY: Ahoy!\n"
+	.string "Mr. Briney: Ahoy!\n"
 	.string "We've hit land in Dewford!\p"
 	.string "You just go on and tell me whenever\n"
 	.string "you want to set sail again!$"
 
 DewfordTown_Text_WhereAreWeBound:
-	.string "Mr. BRINEY: Ahoy!\n"
+	.string "Mr. Briney: Ahoy!\n"
 	.string "For you, I'll go out to sea anytime!\p"
 	.string "Now, my friend, where are we bound?$"
 
 DewfordTown_Text_PetalburgWereSettingSail:
-	.string "Mr. BRINEY: Petalburg, is it?\p"
+	.string "Mr. Briney: Petalburg, is it?\p"
 	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "Peeko, we're setting sail, my darling!$"
 
 DewfordTown_Text_SlateportWereSettingSail:
-	.string "Mr. BRINEY: Slateport, is it?\p"
+	.string "Mr. Briney: Slateport, is it?\p"
 	.string "Anchors aweigh!\n"
-	.string "PEEKO, we're setting sail, my darling!$"
+	.string "Peeko, we're setting sail, my darling!$"
 
 DewfordTown_Text_JustTellMeWhenYouNeedToSetSail:
-	.string "Mr. BRINEY: You just tell me whenever\n"
+	.string "Mr. Briney: You just tell me whenever\n"
 	.string "you need to set sail again!$"
 
 DewfordTown_Text_GettingItchToFish:
@@ -698,18 +698,18 @@ DewfordTown_Text_GettingItchToFish:
 DewfordTown_Text_GiveYouOneOfMyRods:
 	.string "I hear you, and I like what\n"
 	.string "you're saying!\p"
-	.string "I'll give you one of my fishing RODS.$"
+	.string "I'll give you one of my fishing Rods.$"
 
 DewfordTown_Text_ThrowInFishingAdvice:
 	.string "And, as an added bonus, I'll even throw\n"
 	.string "in a little fishing advice!\p"
 	.string "First, you want to face the water,\n"
-	.string "then use the ROD.\p"
+	.string "then use the Rod.\p"
 	.string "Focus your mind…\n"
-	.string "If you get a bite, pull on the ROD.\p"
+	.string "If you get a bite, pull on the Rod.\p"
 	.string "Sometimes you can snag something\n"
 	.string "immediately, but with bigger catches,\l"
-	.string "you need to time the pulls on your ROD\l"
+	.string "you need to time the pulls on your Rod\l"
 	.string "to haul them in.$"
 
 DewfordTown_Text_ThatsTooBadThen:
@@ -728,12 +728,12 @@ DewfordTown_Text_FishingAdvice:
 	.string "Oh, hey, don't get down on yourself!\n"
 	.string "I'll give you a little fishing advice.\p"
 	.string "First, you want to face the water,\n"
-	.string "then use the ROD.\p"
+	.string "then use the Rod.\p"
 	.string "Focus your mind…\n"
-	.string "If you get a bite, pull the ROD.\p"
+	.string "If you get a bite, pull the Rod.\p"
 	.string "Sometimes you can snag something\n"
 	.string "immediately, but with bigger catches,\l"
-	.string "you need to time the pulls on your ROD\l"
+	.string "you need to time the pulls on your Rod\l"
 	.string "to haul them in.$"
 
 DewfordTown_Text_XIsTheBiggestHappeningThingRight:

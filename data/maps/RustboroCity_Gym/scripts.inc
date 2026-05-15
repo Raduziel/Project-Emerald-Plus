@@ -110,17 +110,17 @@ RustboroCity_Gym_Text_GymGuideAdvice:
 	.string "I'm no Trainer, not me, but I can\n"
 	.string "sure give you winning advice.\p"
 	.string "That's settled, then! We'll aim for the\n"
-	.string "Pokémon CHAMPIONSHIP together!\p"
+	.string "Pokémon Championship together!\p"
 	.string "It's your job as a Trainer to collect\n"
 	.string "Gym Badges, am I right?\p"
 	.string "But Gym Leaders aren't pushovers!\p"
 	.string "And that's where I come in!\n"
 	.string "I'm here to provide expert advice!\p"
 	.string "Roxanne, the Gym Leader, is a user\n"
-	.string "of ROCK-type Pokémon.\p"
-	.string "The ROCK type is very durable, but\n"
-	.string "it can't stand WATER-type and\l"
-	.string "GRASS-type moves.\p"
+	.string "of Rock-type Pokémon.\p"
+	.string "The Rock type is very durable, but\n"
+	.string "it can't stand Water-type and\l"
+	.string "Grass-type moves.\p"
 	.string "Come see me afterwards, if you beat\n"
 	.string "the Gym Leader.\p"
 	.string "Well, go for it!$"
@@ -134,7 +134,7 @@ RustboroCity_Gym_Text_GymGuidePostVictory:
 	.string "properly recorded on it.\p"
 	.string "In other words…\p"
 	.string "You've climbed the first step on\n"
-	.string "the stairs to the CHAMPIONSHIP!\p"
+	.string "the stairs to the Championship!\p"
 	.string "That's got to feel awesome!$"
 
 RustboroCity_Gym_Text_JoshIntro:
@@ -145,7 +145,7 @@ RustboroCity_Gym_Text_JoshDefeat:
 	.string "You were too good for me…$"
 
 RustboroCity_Gym_Text_JoshPostBattle:
-	.string "You haven't seen anything of the ROCK\n"
+	.string "You haven't seen anything of the Rock\n"
 	.string "type's terrifying power!$"
 
 RustboroCity_Gym_Text_TommyIntro:
@@ -163,7 +163,7 @@ RustboroCity_Gym_Text_TommyPostBattle:
 RustboroCity_Gym_Text_MarcIntro:
 	.string "We might be in the middle of town,\n"
 	.string "but so what?\p"
-	.string "My ROCK Pokémon need room to\n"
+	.string "My Rock Pokémon need room to\n"
 	.string "rampage!$"
 
 RustboroCity_Gym_Text_MarcDefeat:
@@ -173,7 +173,7 @@ RustboroCity_Gym_Text_MarcDefeat:
 RustboroCity_Gym_Text_MarcPostBattle:
 	.string "I have to hand it to our Leader.\p"
 	.string "It took smarts and sense for her to\n"
-	.string "pick the ROCK type at her young age.$"
+	.string "pick the Rock type at her young age.$"
 
 RustboroCity_Gym_Text_RoxanneIntro:
 	.string "Hello, I am Roxanne, the Rustboro\n"
@@ -201,17 +201,17 @@ RustboroCity_Gym_Text_ReceivedStoneBadge:
 	.string "from Roxanne.$"
 
 RustboroCity_Gym_Text_StoneBadgeInfoTakeThis:
-	.string "The Stone Badge heightens the ATTACK\n"
+	.string "The Stone Badge heightens the Attack\n"
 	.string "power of your Pokémon.\p"
 	.string "It also enables them to use the HM move\n"
 	.string "Cut outside of battle.\p"
 	.string "Please take this with you, too.$"
 
 RustboroCity_Gym_Text_ExplainRockTomb:
-	.string "That TECHNICAL MACHINE, TM39,\n"
-	.string "contains ROCK TOMB.\p"
+	.string "That Technical Machine, TM39,\n"
+	.string "contains Rock Tomb.\p"
 	.string "It not only inflicts damage by dropping\n"
-	.string "rocks, it also lowers SPEED.\p"
+	.string "rocks, it also lowers Speed.\p"
 	.string "If you use a TM, it instantly teaches\n"
 	.string "the move to a Pokémon.\p"
 	.string "Remember, a TM can be used only once,\n"

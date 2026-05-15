@@ -71,12 +71,12 @@ Route16_NorthEntrance_2F_Text_LongPathOverWater::
 
 Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
 	.string "Hi! Remember me?\n"
-	.string "I'm one of Prof. Oak's AIDES.\p"
+	.string "I'm one of Prof. Oak's Aides.\p"
 	.string "If your Pokédex has complete data\n"
 	.string "on 40 species, I'm supposed to\l"
 	.string "give you a reward.\p"
 	.string "Prof. Oak entrusted me with an\n"
-	.string "AMULET COIN for you.\p"
+	.string "Amulet Coin for you.\p"
 	.string "So, {PLAYER}, let me ask you.\p"
 	.string "Have you gathered data on at least\n"
 	.string "40 kinds of Pokémon?$"
@@ -88,11 +88,11 @@ Route16_NorthEntrance_2F_Text_GreatHereYouGo::
 	.string "Here you go!$"
 
 Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
-	.string "{PLAYER} received the AMULET COIN\n"
-	.string "from the AIDE.$"
+	.string "{PLAYER} received the Amulet Coin\n"
+	.string "from the Aide.$"
 
 Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::
-	.string "An AMULET COIN is an item to be\n"
+	.string "An Amulet Coin is an item to be\n"
 	.string "held by a Pokémon.\p"
 	.string "If the Pokémon appears in a winning\n"
 	.string "battle, you will earn more money.$"

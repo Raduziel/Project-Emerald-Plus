@@ -166,9 +166,9 @@ SlateportCity_ContestHall_Text_AdviceForContests:
 
 @ Unused
 SlateportCity_ContestHall_Text_MyPapaIsContestJudge:
-	.string "My papa, he's a Contest JUDGE.\p"
+	.string "My papa, he's a Contest Judge.\p"
 	.string "I wonder what I should be when I\n"
-	.string "grow up, a JUDGE or a Gym Leader?$"
+	.string "grow up, a Judge or a Gym Leader?$"
 
 @ Unused
 SlateportCity_ContestHall_Text_ImLikeMajorlyCheesed:
@@ -176,7 +176,7 @@ SlateportCity_ContestHall_Text_ImLikeMajorlyCheesed:
 	.string "you know. Like, you know, I just\l"
 	.string "wanted to know why my Pokémon\l"
 	.string "never won, you know, like, hey?\p"
-	.string "So, like, I gave the JUDGE my two\n"
+	.string "So, like, I gave the Judge my two\n"
 	.string "cents, you know, they're free.\p"
 	.string "And he wouldn't hear me out, like, hey!\n"
 	.string "So, like, total bummer, man!\p"
@@ -186,7 +186,7 @@ SlateportCity_ContestHall_Text_ImLikeMajorlyCheesed:
 @ Unused
 SlateportCity_ContestHall_Text_ExplainTorment:
 	.string "That's, like, TM41, you know?\n"
-	.string "Hey, it's TORMENT, you hearing me?\p"
+	.string "Hey, it's Torment, you hearing me?\p"
 	.string "Like, it won't let the other guy\n"
 	.string "use the same move twice in a row, see?\p"
 	.string "Hey, now, you listen here, like,\n"
@@ -203,7 +203,7 @@ SlateportCity_ContestHall_Text_MCStepUpTakePartInContest:
 
 @ Unused
 SlateportCity_ContestHall_Text_JudgeWouldntDoToMissContest:
-	.string "JUDGE: Well, hello there!\n"
+	.string "Judge: Well, hello there!\n"
 	.string "I see that you're a Trainer!\p"
 	.string "Then, it just wouldn't do for you\n"
 	.string "to miss a Pokémon Contest!\p"
@@ -219,7 +219,7 @@ SlateportCity_ContestHall_Text_ItsAppealTime:
 SlateportCity_ContestHall_Text_DidntPayAttentionToAppeal:
 	.string "They didn't pay much attention to\n"
 	.string "my Pokémon's appeal…\p"
-	.string "Humph, that JUDGE, he doesn't know\n"
+	.string "Humph, that Judge, he doesn't know\n"
 	.string "a good thing when he sees it.$"
 
 @ Unused
@@ -271,5 +271,5 @@ SlateportCity_ContestHall_Text_GetUrgeToMoveWithMon:
 @ Unused
 SlateportCity_ContestHall_Text_HyperRankStage:
 	.string "Pokémon Contests\n"
-	.string "HYPER RANK STAGE!$"
+	.string "Hyper Rank Stage!$"
 

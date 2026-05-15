@@ -63,7 +63,7 @@ LavenderTown_House2_EventScript_ChoseNewNickname::
 
 LavenderTown_House2_Text_WantMeToRateNicknames::
 	.string "Hello, hello!\n"
-	.string "I am the official NAME RATER!\p"
+	.string "I am the official Name Rater!\p"
 	.string "Want me to rate the nicknames of\n"
 	.string "your Pokémon?$"
 

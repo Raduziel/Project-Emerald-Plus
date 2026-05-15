@@ -68,10 +68,10 @@ SSAnne_Kitchen_Text_PeelSpudsEveryDay::
 	.string "Hum-hum…$"
 
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
-	.string "Did you hear about SNORLAX?\n"
+	.string "Did you hear about Snorlax?\n"
 	.string "It's a glutton.\p"
 	.string "No other Pokémon eats and sleeps\n"
-	.string "the way SNORLAX can and does!$"
+	.string "the way Snorlax can and does!$"
 
 SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
 	.string "Snivel… Sniff…\p"
@@ -80,7 +80,7 @@ SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
 
 SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
 	.string "Er-hem!\n"
-	.string "Indeed I am le CHEF!\p"
+	.string "Indeed I am le Chef!\p"
 	.string "Le main course is$"
 
 SSAnne_Kitchen_Text_SalmonDuSalad::

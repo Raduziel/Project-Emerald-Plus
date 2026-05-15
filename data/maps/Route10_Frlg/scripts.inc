@@ -18,7 +18,7 @@ Route10_EventScript_PowerPlantSign::
 
 Route10_Text_MarkIntro::
 	.string "Wow, you came all the way here?\n"
-	.string "Maybe you're a POKéMANIAC, too?\l"
+	.string "Maybe you're a Poké Maniac, too?\l"
 	.string "Want to see my collection?$"
 
 Route10_Text_MarkDefeat::
@@ -93,11 +93,11 @@ Route10_Text_CarolPostBattle::
 	.string "with a floral pattern!$"
 
 Route10_Text_RockTunnelDetourToLavender::
-	.string "ROCK TUNNEL\n"
+	.string "Rock Tunnel\n"
 	.string "Detour to Lavender Town$"
 
 Route10_Text_RockTunnel::
-	.string "ROCK TUNNEL$"
+	.string "Rock Tunnel$"
 
 Route10_Text_PowerPlant::
 	.string "Power Plant$"

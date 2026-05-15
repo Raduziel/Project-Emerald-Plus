@@ -40,7 +40,7 @@ SevenIsland_TrainerTower_Text_RodettePostBattle::
 	.string "for you?$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerSign::
-	.string "Trainer Tower ENTRANCE\n"
+	.string "Trainer Tower Entrance\n"
 	.string "Rise to the Challenge, Trainers!$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerAhead::

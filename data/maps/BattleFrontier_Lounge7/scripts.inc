@@ -310,7 +310,7 @@ BattleFrontier_Lounge7_Text_LeftTutorIntro:
 	.string "You couldn't tell it from looking now,\n"
 	.string "but I used to be one tough Trainer.\p"
 	.string "I had a reputation as the toughest\n"
-	.string "BEAUTY around, I tell you!\p"
+	.string "Beauty around, I tell you!\p"
 	.string "… … … … … …\p"
 	.string "What is it now?\n"
 	.string "You don't believe me.\p"
@@ -359,7 +359,7 @@ BattleFrontier_Lounge7_Text_RightTutorIntro:
 	.string "I know it's hard to see now, but I used\n"
 	.string "to be one fantastic Trainer.\p"
 	.string "I had a reputation as the most\n"
-	.string "invincible SWIMMER around, I tell you!\p"
+	.string "invincible Swimmer around, I tell you!\p"
 	.string "… … … … … …\p"
 	.string "What's wrong?\n"
 	.string "You don't believe me.\p"
@@ -444,12 +444,12 @@ BattleFrontier_Lounge7_Text_ThunderWaveDesc::
 BattleFrontier_Lounge7_Text_SwordsDanceDesc::
 	.string "A fighting dance\n"
 	.string "that sharply\n"
-	.string "raises ATTACK.$"
+	.string "raises Attack.$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc::
 	.string "Curls up to con-\n"
 	.string "ceal weak spots\n"
-	.string "and raise DEFENSE.$"
+	.string "and raise Defense.$"
 
 BattleFrontier_Lounge7_Text_SnoreDesc::
 	.string "A loud attack\n"
@@ -469,7 +469,7 @@ BattleFrontier_Lounge7_Text_SwiftDesc::
 BattleFrontier_Lounge7_Text_IcyWindDesc::
 	.string "A chilling attack\n"
 	.string "that lowers the\n"
-	.string "foe's SPEED.$"
+	.string "foe's Speed.$"
 
 BattleFrontier_Lounge7_Text_EndureDesc::
 	.string "Endures any at-\n"

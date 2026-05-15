@@ -4,35 +4,35 @@
 @       section by editing ScrCmd_braillemessage.
 Underwater_SealedChamber_Braille_GoUpHere:
 	brailleformat 4, 6, 26, 13, 7, 9
-	.braille "GO UP HERE.$"
+	.braille "Go Up Here.$"
 
 SealedChamber_OuterRoom_Braille_ABC:
 	brailleformat 7, 6, 21, 13, 10, 9
-	.braille "ABC$"
+	.braille "Abc$"
 
 SealedChamber_OuterRoom_Braille_GHI:
 	brailleformat 7, 6, 21, 13, 10, 9
-	.braille "GHI$"
+	.braille "Ghi$"
 
 SealedChamber_OuterRoom_Braille_MNO:
 	brailleformat 7, 6, 21, 13, 10, 9
-	.braille "MNO$"
+	.braille "Mno$"
 
 SealedChamber_OuterRoom_Braille_TUV:
 	brailleformat 7, 6, 21, 13, 10, 9
-	.braille "TUV$"
+	.braille "Tuv$"
 
 SealedChamber_OuterRoom_Braille_DEF:
 	brailleformat 7, 6, 21, 13, 10, 9
-	.braille "DEF$"
+	.braille "Def$"
 
 SealedChamber_OuterRoom_Braille_JKL:
 	brailleformat 7, 6, 21, 13, 10, 9
-	.braille "JKL$"
+	.braille "Jkl$"
 
 SealedChamber_OuterRoom_Braille_PQRS:
 	brailleformat 7, 6, 21, 13, 10, 9
-	.braille "PQRS$"
+	.braille "Pqrs$"
 
 SealedChamber_OuterRoom_Braille_Period:
 	brailleformat 9, 6, 19, 13, 12, 9
@@ -40,7 +40,7 @@ SealedChamber_OuterRoom_Braille_Period:
 
 SealedChamber_OuterRoom_Braille_WXYZ:
 	brailleformat 7, 6, 21, 13, 10, 9
-	.braille "WXYZ$"
+	.braille "Wxyz$"
 
 SealedChamber_OuterRoom_Braille_Comma:
 	brailleformat 9, 6, 19, 13, 12, 9
@@ -48,126 +48,126 @@ SealedChamber_OuterRoom_Braille_Comma:
 
 SealedChamber_OuterRoom_Braille_DigHere:
 	brailleformat 7, 4, 23, 15, 10, 7
-	.braille "DIG HERE.$"
+	.braille "Dig Here.$"
 
 SealedChamber_InnerRoom_Braille_FirstWailordLastRelicanth:
 	brailleformat 0, 0, 29, 19, 3, 3
-	.braille "FIRST COMES\n"
-	.braille "WAILORD.\n"
-	.braille "LAST COMES\n"
-	.braille "RELICANTH.$"
+	.braille "First Comes\n"
+	.braille "Wailord.\n"
+	.braille "Last Comes\n"
+	.braille "Relicanth.$"
 
 SealedChamber_InnerRoom_Braille_InThisCaveWeHaveLived:
 	brailleformat 2, 0, 26, 19, 5, 3
-	.braille "IN THIS\n"
-	.braille "Cave WE\n"
-	.braille "HAVE\n"
-	.braille "LIVED.$"
+	.braille "In This\n"
+	.braille "Cave We\n"
+	.braille "Have\n"
+	.braille "Lived.$"
 
 SealedChamber_InnerRoom_Braille_WeOweAllToThePokemon:
 	brailleformat 7, 2, 23, 17, 10, 5
-	.braille "WE OWE ALL\n"
-	.braille "TO THE\n"
-	.braille "POKEMON.$"
+	.braille "We Owe All\n"
+	.braille "To The\n"
+	.braille "Pokemon.$"
 
 SealedChamber_InnerRoom_Braille_ButWeSealedThePokemonAway:
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "BUT, WE\n"
-	.braille "SEALED THE\n"
-	.braille "POKEMON\n"
-	.braille "AWAY.$"
+	.braille "But, We\n"
+	.braille "Sealed The\n"
+	.braille "Pokemon\n"
+	.braille "Away.$"
 
 SealedChamber_InnerRoom_Braille_WeFearedIt:
 	brailleformat 5, 6, 25, 13, 8, 9
-	.braille "WE FEARED IT.$"
+	.braille "We Feared It.$"
 
 SealedChamber_InnerRoom_Braille_ThoseWithCourageHope:
 	brailleformat 6, 0, 24, 19, 9, 3
-	.braille "THOSE WITH\n"
-	.braille "COURAGE,\n"
-	.braille "THOSE WITH\n"
-	.braille "HOPE.$"
+	.braille "Those With\n"
+	.braille "Courage,\n"
+	.braille "Those With\n"
+	.braille "Hope.$"
 
 SealedChamber_InnerRoom_Braille_OpenDoorEternalPokemonWaits:
 	brailleformat 3, 2, 27, 17, 6, 5
-	.braille "OPEN A DOOR.\n"
-	.braille "AN ETERNAL\n"
-	.braille "POKEMON\n"
-	.braille "WAITS.$"
+	.braille "Open A Door.\n"
+	.braille "An Eternal\n"
+	.braille "Pokemon\n"
+	.braille "Waits.$"
 
 DesertRuins_Braille_UseRockSmash:
 	brailleformat 1, 0, 27, 19, 4, 3
-	.braille "LEFT, LEFT,\n"
-	.braille "DOWN, DOWN.\n"
-	.braille "THEN, USE\n"
-	.braille "ROCK SMASH.$"
+	.braille "Left, Left,\n"
+	.braille "Down, Down.\n"
+	.braille "Then, Use\n"
+	.braille "Rock Smash.$"
 
 IslandCave_Braille_RunLapAroundWall:
 	brailleformat 5, 0, 25, 19, 8, 3
-	.braille "STAY CLOSE\n"
-	.braille "TO THE WALL.\n"
-	.braille "RUN AROUND\n"
-	.braille "ONE LAP.$"
+	.braille "Stay Close\n"
+	.braille "To The Wall.\n"
+	.braille "Run Around\n"
+	.braille "One Lap.$"
 
 AncientTomb_Braille_ShineInTheMiddle:
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "THOSE WHO\n"
-	.braille "INHERIT OUR\n"
-	.braille "WILL, SHINE\n"
-	.braille "IN THE MIDDLE.$"
+	.braille "Those Who\n"
+	.braille "Inherit Our\n"
+	.braille "Will, Shine\n"
+	.braille "In The Middle.$"
 
 @ FRLG
 Braille_Text_Up::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "UP$"
+	.braille "Up$"
 
 Braille_Text_Down::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "DOWN$"
+	.braille "Down$"
 
 Braille_Text_Right::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "RIGHT$"
+	.braille "Right$"
 
 Braille_Text_Left::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "LEFT$"
+	.braille "Left$"
 
 Braille_Text_Cut::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "CUT$"
+	.braille "Cut$"
 
 Braille_Text_ABC::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "ABC$"
+	.braille "Abc$"
 
 Braille_Text_GHI::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "GHI$"
+	.braille "Ghi$"
 
 Braille_Text_MNO::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "MNO$"
+	.braille "Mno$"
 
 Braille_Text_TUV::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "TUV$"
+	.braille "Tuv$"
 
 Braille_Text_DEF::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "DEF$"
+	.braille "Def$"
 
 Braille_Text_JKL::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "JKL$"
+	.braille "Jkl$"
 
 Braille_Text_PQRS::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "PQRS$"
+	.braille "Pqrs$"
 
 Braille_Text_WXYZ::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "WXYZ$"
+	.braille "Wxyz$"
 
 Braille_Text_Period::
 	brailleformat 3, 0, 25, 19, 6, 3
@@ -179,97 +179,97 @@ Braille_Text_Comma::
 
 Braille_Text_Everything::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "EVERYTHING$"
+	.braille "Everything$"
 
 Braille_Text_HasMeaning1::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "HAS MEANING$"
+	.braille "Has Meaning$"
 
 Braille_Text_Existence::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "EXISTENCE$"
+	.braille "Existence$"
 
 Braille_Text_HasMeaning2::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "HAS MEANING$"
+	.braille "Has Meaning$"
 
 Braille_Text_BeingAlive::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "BEING ALIVE$"
+	.braille "Being Alive$"
 
 Braille_Text_HasMeaning3::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "HAS MEANING$"
+	.braille "Has Meaning$"
 
 Braille_Text_HaveDreams::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "HAVE DREAMS$"
+	.braille "Have Dreams$"
 
 Braille_Text_UsePower::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "USE POWER.$"
+	.braille "Use Power.$"
 
 Braille_Text_LetTheTwo::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "LET THE TWO$"
+	.braille "Let The Two$"
 
 Braille_Text_Glittering::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "GLITTERING$"
+	.braille "Glittering$"
 
 Braille_Text_Stones::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "STONES$"
+	.braille "Stones$"
 
 Braille_Text_OneInRed::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "ONE IN RED$"
+	.braille "One In Red$"
 
 Braille_Text_OneInBlue::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "ONE IN BLUE$"
+	.braille "One In Blue$"
 
 Braille_Text_ConnectThe::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "CONNECT THE$"
+	.braille "Connect The$"
 
 Braille_Text_Past::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "PAST.$"
+	.braille "Past.$"
 
 Braille_Text_TwoFriends::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "TWO FRIENDS$"
+	.braille "Two Friends$"
 
 Braille_Text_Sharing::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "SHARING$"
+	.braille "Sharing$"
 
 Braille_Text_PowerOpen::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "POWER OPEN$"
+	.braille "Power Open$"
 
 Braille_Text_AWindowTo::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "A WINDOW TO$"
+	.braille "A Window To$"
 
 Braille_Text_ANewWorld::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "A NEW WORLD$"
+	.braille "A New World$"
 
 Braille_Text_ThatGlows::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "THAT GLOWS.$"
+	.braille "That Glows.$"
 
 Braille_Text_TheNext::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "THE NEXT$"
+	.braille "The Next$"
 
 Braille_Text_WorldWaits::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "WORLD WAITS$"
+	.braille "World Waits$"
 
 Braille_Text_ForYou::
 	brailleformat 3, 0, 25, 19, 6, 3
-	.braille "FOR YOU.$"
+	.braille "For You.$"
 

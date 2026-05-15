@@ -35,7 +35,7 @@ Route18_Text_WiltonDefeat::
 	.string "Tch!$"
 
 Route18_Text_WiltonPostBattle::
-	.string "I wish I had a BIKE!$"
+	.string "I wish I had a Bike!$"
 
 Route18_Text_RamiroIntro::
 	.string "Kurukkoo!\n"
@@ -64,6 +64,6 @@ Route18_Text_RouteSign::
 	.string "Celadon City - Fuchsia City$"
 
 Route18_Text_CyclingRoadSign::
-	.string "CYCLING ROAD\n"
+	.string "Cycling Road\n"
 	.string "No pedestrians permitted!$"
 

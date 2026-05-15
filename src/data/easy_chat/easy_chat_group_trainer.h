@@ -13,7 +13,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Trainer[] = {
     },
     [EC_INDEX(EC_WORD_TRADE)] =
     {
-        .text = COMPOUND_STRING("Trade"),
+        .text = COMPOUND_STRING("TRADE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_EGG),
         .enabled = TRUE,
     },
@@ -43,13 +43,13 @@ const struct EasyChatWordInfo gEasyChatGroup_Trainer[] = {
     },
     [EC_INDEX(EC_WORD_CENTER)] =
     {
-        .text = COMPOUND_STRING("Center"),
+        .text = COMPOUND_STRING("CENTER"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GET),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_EGG)] =
     {
-        .text = COMPOUND_STRING("Egg"),
+        .text = COMPOUND_STRING("EGG"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GOLD),
         .enabled = TRUE,
     },
@@ -67,7 +67,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Trainer[] = {
     },
     [EC_INDEX(EC_WORD_TRAINER)] =
     {
-        .text = COMPOUND_STRING("Trainer"),
+        .text = COMPOUND_STRING("TRAINER"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_I_CHOOSE_YOU),
         .enabled = TRUE,
     },
@@ -79,13 +79,13 @@ const struct EasyChatWordInfo gEasyChatGroup_Trainer[] = {
     },
     [EC_INDEX(EC_WORD_POKENAV)] =
     {
-        .text = COMPOUND_STRING("PokéNav"),
+        .text = COMPOUND_STRING("POKéNAV"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_LEVEL),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_POKEMON)] =
     {
-        .text = COMPOUND_STRING("Pokémon"),
+        .text = COMPOUND_STRING("POKéMON"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_LINK),
         .enabled = TRUE,
     },
@@ -97,7 +97,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Trainer[] = {
     },
     [EC_INDEX(EC_WORD_POKEDEX)] =
     {
-        .text = COMPOUND_STRING("Pokédex"),
+        .text = COMPOUND_STRING("POKéDEX"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_POKEDEX),
         .enabled = TRUE,
     },
@@ -127,7 +127,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Trainer[] = {
     },
     [EC_INDEX(EC_WORD_BAG)] =
     {
-        .text = COMPOUND_STRING("Bag"),
+        .text = COMPOUND_STRING("BAG"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SAPPHIRE),
         .enabled = TRUE,
     },

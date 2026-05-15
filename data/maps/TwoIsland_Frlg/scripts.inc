@@ -224,7 +224,7 @@ TwoIsland_Text_JoyfulGameCornerSign::
 	.string "Joyful Game Corner$"
 
 TwoIsland_Text_DangerFastCurrent::
-	.string "DANGER! FAST CURRENT!\n"
+	.string "Danger! Fast Current!\n"
 	.string "Fishing and surfing prohibited!$"
 
 TwoIsland_Text_WelcomeToShopMerchandiseLimited::
@@ -236,11 +236,11 @@ TwoIsland_Text_WelcomeToShopMerchandiseLimited::
 
 TwoIsland_Text_AddedMerchandiseForLostelle::
 	.string "I can't tell you how grateful I am\n"
-	.string "for your rescue of LOSTELLE.\p"
+	.string "for your rescue of Lostelle.\p"
 	.string "Thanks to your feat, the people of\n"
 	.string "Three Island have changed their\l"
-	.string "attitudes about KANTO people.\p"
-	.string "And, I'm from KANTO, you see.\p"
+	.string "attitudes about Kanto people.\p"
+	.string "And, I'm from Kanto, you see.\p"
 	.string "The people of Three Island\n"
 	.string "helped me add to my merchandise.$"
 
@@ -276,7 +276,7 @@ TwoIsland_Text_BrunoCameToIslandWhileBack::
 	.string "A famous Trainer came to the\n"
 	.string "Island a little while back.\p"
 	.string "He's one of the Elite Four.\n"
-	.string "His name is BRUNO.\p"
+	.string "His name is Bruno.\p"
 	.string "He went away disappointed when he\n"
 	.string "found out that they were all sold\l"
 	.string "out of Rage Candybars.$"

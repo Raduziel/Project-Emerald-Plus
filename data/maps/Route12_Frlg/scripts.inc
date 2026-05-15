@@ -61,19 +61,19 @@ Route12_Text_MonSprawledOutInSlumber::
 	.string "a deep and comfortable slumber.$"
 
 Text_SnorlaxWokeUp::
-	.string "SNORLAX woke up!\p"
+	.string "Snorlax woke up!\p"
 	.string "It attacked in a grumpy rage!$"
 
 Text_SnorlaxReturnedToMountains::
-	.string "SNORLAX calmed down.\n"
+	.string "Snorlax calmed down.\n"
 	.string "It gave a huge yawn…\l"
 	.string "And returned to the mountains.$"
 
 Text_WantToUsePokeFlute::
-	.string "Want to use the Poké FLUTE?$"
+	.string "Want to use the Poké Flute?$"
 
 Text_PlayedPokeFlute::
-	.string "{PLAYER} played the Poké FLUTE.$"
+	.string "{PLAYER} played the Poké Flute.$"
 
 Route12_Text_NedIntro::
 	.string "Yeah!\n"
@@ -95,11 +95,11 @@ Route12_Text_ChipDefeat::
 	.string "That one got away!$"
 
 Route12_Text_ChipPostBattle::
-	.string "With a better ROD, I could catch\n"
+	.string "With a better Rod, I could catch\n"
 	.string "better Pokémon…$"
 
 Route12_Text_JustinIntro::
-	.string "I'm searching for a MOON Stone.\n"
+	.string "I'm searching for a Moon Stone.\n"
 	.string "Have you found one?$"
 
 Route12_Text_JustinDefeat::
@@ -107,7 +107,7 @@ Route12_Text_JustinDefeat::
 
 Route12_Text_JustinPostBattle::
 	.string "I could have made my Pokémon\n"
-	.string "evolve with a MOON Stone.\p"
+	.string "evolve with a Moon Stone.\p"
 	.string "I would have won then, I bet.$"
 
 Route12_Text_LucaIntro::
@@ -123,7 +123,7 @@ Route12_Text_LucaPostBattle::
 	.string "should zap sea Pokémon.$"
 
 Route12_Text_HankIntro::
-	.string "The FISHING FOOL versus Pokémon\n"
+	.string "The Fishing Fool versus Pokémon\n"
 	.string "Kid!$"
 
 Route12_Text_HankDefeat::
@@ -156,7 +156,7 @@ Route12_Text_AndrewDefeat::
 	.string "Lost it!$"
 
 Route12_Text_AndrewPostBattle::
-	.string "What, MAGIKARP?\p"
+	.string "What, Magikarp?\p"
 	.string "I catch them all the time, sure.\n"
 	.string "But, boy are they wimpy.$"
 
@@ -165,38 +165,38 @@ Route12_Text_RouteSign::
 	.string "North to Lavender$"
 
 Route12_Text_SportfishingArea::
-	.string "SPORTFISHING AREA$"
+	.string "Sportfishing Area$"
 
 Route12_Text_JesIntro::
-	.string "JES: If I win, I'm going to\n"
-	.string "propose to GIA.$"
+	.string "Jes: If I win, I'm going to\n"
+	.string "propose to Gia.$"
 
 Route12_Text_JesDefeat::
-	.string "JES: Oh, please, why couldn't you\n"
+	.string "Jes: Oh, please, why couldn't you\n"
 	.string "let us win?$"
 
 Route12_Text_JesPostBattle::
-	.string "JES: Oh, GIA, forgive me,\n"
+	.string "Jes: Oh, Gia, forgive me,\n"
 	.string "my love!$"
 
 Route12_Text_JesNotEnoughMons::
-	.string "JES: GIA and I, we'll be\n"
+	.string "Jes: Gia and I, we'll be\n"
 	.string "together forever.\p"
 	.string "We won't battle unless you have\n"
 	.string "two Pokémon of your own.$"
 
 Route12_Text_GiaIntro::
-	.string "GIA: Hey, JES…\p"
+	.string "Gia: Hey, Jes…\p"
 	.string "If we win, I'll marry you!$"
 
 Route12_Text_GiaDefeat::
-	.string "GIA: Oh, but why?$"
+	.string "Gia: Oh, but why?$"
 
 Route12_Text_GiaPostBattle::
-	.string "GIA: JES, you silly!\n"
+	.string "Gia: Jes, you silly!\n"
 	.string "You ruined this!$"
 
 Route12_Text_GiaNotEnoughMons::
-	.string "GIA: I can't bear to battle\n"
-	.string "without my JES!\p"
+	.string "Gia: I can't bear to battle\n"
+	.string "without my Jes!\p"
 	.string "Don't you have one more Pokémon?$"

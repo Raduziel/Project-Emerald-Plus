@@ -94,7 +94,7 @@ CeladonCity_Gym_Text_ErikaIntro::
 	.string "I am a student of the art of\n"
 	.string "flower arranging.\p"
 	.string "My Pokémon are solely of the\n"
-	.string "GRASS type.\p"
+	.string "Grass type.\p"
 	.string "…Oh, I'm sorry, I had no idea that\n"
 	.string "you wished to challenge me.\p"
 	.string "Very well, but I shall not lose.{PLAY_BGM MUS_RG_ENCOUNTER_GYM_LEADER}$"
@@ -104,7 +104,7 @@ CeladonCity_Gym_Text_ErikaDefeat::
 	.string "I concede defeat.\l"
 	.string "You are remarkably strong.\p"
 	.string "I must confer on you the\n"
-	.string "RAINBOWBADGE.$"
+	.string "Rainbow Badge.$"
 
 CeladonCity_Gym_Text_ErikaPostBattle::
 	.string "You are cataloging Pokémon?\n"
@@ -113,7 +113,7 @@ CeladonCity_Gym_Text_ErikaPostBattle::
 	.string "they were unattractive.$"
 
 CeladonCity_Gym_Text_ExplainRainbowBadgeTakeThis::
-	.string "The RAINBOWBADGE will make\n"
+	.string "The Rainbow Badge will make\n"
 	.string "Pokémon up to Lv. 50 obey.\p"
 	.string "It also allows Pokémon to use\n"
 	.string "Strength in and out of battle.\p"
@@ -124,7 +124,7 @@ CeladonCity_Gym_Text_ReceivedTM19FromErika::
 	.string "from Erika.$"
 
 CeladonCity_Gym_Text_ExplainTM19::
-	.string "TM19 contains GIGA DRAIN.\p"
+	.string "TM19 contains Giga Drain.\p"
 	.string "Half the damage it inflicts is\n"
 	.string "drained to heal your Pokémon.\p"
 	.string "Wouldn't you agree that it's a\n"
@@ -153,10 +153,10 @@ CeladonCity_Gym_Text_BridgetDefeat::
 	.string "My makeup!$"
 
 CeladonCity_Gym_Text_BridgetPostBattle::
-	.string "GRASS-type Pokémon are tough\n"
-	.string "against the WATER type.\p"
-	.string "They also have an edge on ROCK-\n"
-	.string "and GROUND-type Pokémon.$"
+	.string "Grass-type Pokémon are tough\n"
+	.string "against the Water type.\p"
+	.string "They also have an edge on Rock-\n"
+	.string "and Ground-type Pokémon.$"
 
 CeladonCity_Gym_Text_TinaIntro::
 	.string "…Weren't you peeking in here\n"
@@ -172,21 +172,21 @@ CeladonCity_Gym_Text_TinaPostBattle::
 CeladonCity_Gym_Text_TamiaIntro::
 	.string "Look, look!\n"
 	.string "See my Pokémon!\p"
-	.string "I like the GRASS type.\n"
+	.string "I like the Grass type.\n"
 	.string "I like how they're easy to raise.$"
 
 CeladonCity_Gym_Text_TamiaDefeat::
 	.string "No!$"
 
 CeladonCity_Gym_Text_TamiaPostBattle::
-	.string "We only use GRASS-type Pokémon at\n"
+	.string "We only use Grass-type Pokémon at\n"
 	.string "our Gym.\p"
 	.string "Why? We also use them for making\n"
 	.string "flower arrangements!$"
 
 CeladonCity_Gym_Text_LisaIntro::
 	.string "Oh, hey!\p"
-	.string "We don't like BUG- or FIRE-type\n"
+	.string "We don't like Bug- or Fire-type\n"
 	.string "Pokémon in here!$"
 
 CeladonCity_Gym_Text_LisaDefeat::
@@ -226,12 +226,12 @@ CeladonCity_Gym_Text_MaryPostBattle::
 CeladonCity_Gym_Text_GymStatue::
 	.string "Celadon Pokémon Gym\n"
 	.string "Leader: Erika\p"
-	.string "WINNING Trainers:\n"
+	.string "Winning Trainers:\n"
 	.string "{RIVAL}$"
 
 CeladonCity_Gym_Text_GymStatuePlayerWon::
 	.string "Celadon Pokémon Gym\n"
 	.string "Leader: Erika\p"
-	.string "WINNING Trainers:\n"
+	.string "Winning Trainers:\n"
 	.string "{RIVAL}, {PLAYER}$"
 

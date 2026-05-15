@@ -306,7 +306,7 @@ MossdeepCity_Movement_ScottExitEast:
 MossdeepCity_Text_WantKingsRockStevenGaveMe:
 	.string "I got this from Steven, but I don't\n"
 	.string "know what it's good for.\p"
-	.string "I think it's called KING's ROCK.\n"
+	.string "I think it's called King's Rock.\n"
 	.string "Do you want it?$"
 
 MossdeepCity_Text_YouCanKeepIt:
@@ -324,11 +324,11 @@ MossdeepCity_Text_WhatToDoWithWeirdRock:
 
 MossdeepCity_Text_WailmerWatching:
 	.string "Around Mossdeep, you can see wild\n"
-	.string "WAILMER.\p"
+	.string "Wailmer.\p"
 	.string "It's called, uh…\n"
 	.string "What was it now…\p"
-	.string "WAI, WAI, WAI…\p"
-	.string "WAILMER watching!$"
+	.string "Wai, Wai, Wai…\p"
+	.string "Wailmer watching!$"
 
 MossdeepCity_Text_SpaceCenterReceivedLetter:
 	.string "The island's Space Center has been\n"
@@ -341,7 +341,7 @@ MossdeepCity_Text_SpaceCenterLaunchingRockets:
 	.string "launching huge rockets.$"
 
 MossdeepCity_Text_MossdeepTargetedByMagma:
-	.string "I heard from a SAILOR buddy that\n"
+	.string "I heard from a Sailor buddy that\n"
 	.string "Team Aqua set up shop in Lilycove.\p"
 	.string "I also heard that someone came along\n"
 	.string "and wiped the floor with them!\p"
@@ -351,7 +351,7 @@ MossdeepCity_Text_MossdeepTargetedByMagma:
 	.string "go visit the Space Center.$"
 
 MossdeepCity_Text_FeelReliefOnLand:
-	.string "I'm a SAILOR, so the sea's obviously\n"
+	.string "I'm a Sailor, so the sea's obviously\n"
 	.string "more important to me.\p"
 	.string "But you know? When I get back on land\n"
 	.string "after a long voyage, I do feel relief!$"
@@ -404,7 +404,7 @@ MossdeepCity_Text_SpaceCenterSign:
 	.string "“The closest place to space.”$"
 
 MossdeepCity_Text_ScottSomethingWrongWithTown:
-	.string "SCOTT: {PLAYER}{KUN}, feeling good?\n"
+	.string "Scott: {PLAYER}{KUN}, feeling good?\n"
 	.string "I'm doing great!\p"
 	.string "I'd heard Mossdeep's Gym Leader is\n"
 	.string "pretty strong, so I decided to come\l"

@@ -360,20 +360,20 @@ BattleFrontier_BattleArenaLobby_EventScript_ExitRules::
 BattleFrontier_BattleArenaLobby_Text_WelcomeToBattleArena:
 	.string "Where the battling spirit of Trainers\n"
 	.string "is put to the test!\p"
-	.string "I welcome you to the Battle ARENA!\p"
-	.string "I am your guide to the Set KO Tourney!$"
+	.string "I welcome you to the Battle Arena!\p"
+	.string "I am your guide to the Set Ko Tourney!$"
 
 BattleFrontier_BattleArenaLobby_Text_WishToTakeChallenge:
 	.string "Now, do you wish to take\n"
-	.string "the Battle ARENA challenge?$"
+	.string "the Battle Arena challenge?$"
 
 BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge:
 	.string "We await your challenge on\n"
 	.string "another occasion!$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainChallenge:
-	.string "In the Battle ARENA, we undertake\n"
-	.string "the Set KO Tourney.\p"
+	.string "In the Battle Arena, we undertake\n"
+	.string "the Set Ko Tourney.\p"
 	.string "All participants enter with a team of\n"
 	.string "three Pokémon.\p"
 	.string "The three Pokémon must be lined up in\n"
@@ -394,10 +394,10 @@ BattleFrontier_BattleArenaLobby_Text_ExplainChallenge:
 
 BattleFrontier_BattleArenaLobby_Text_OkayToSave:
 	.string "Before showing you to the Battle\n"
-	.string "ARENA, you must save. Is that okay?$"
+	.string "Arena, you must save. Is that okay?$"
 
 BattleFrontier_BattleArenaLobby_Text_WhichLevelMode:
-	.string "The Battle ARENA offers two levels\n"
+	.string "The Battle Arena offers two levels\n"
 	.string "of challenge, Level 50 and Open Level.\l"
 	.string "Which is your choice?$"
 
@@ -433,7 +433,7 @@ BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLv50:
 
 BattleFrontier_BattleArenaLobby_Text_GuideYouToArena:
 	.string "I shall now guide you to\n"
-	.string "the Battle ARENA.$"
+	.string "the Battle Arena.$"
 
 BattleFrontier_BattleArenaLobby_Text_DidntSaveBeforeShuttingDown:
 	.string "My dear challenger!\p"
@@ -482,15 +482,15 @@ BattleFrontier_BattleArenaLobby_Text_LookingForwardToArrivalSaveGame:
 	.string "We have been looking forward to\n"
 	.string "your arrival.\p"
 	.string "Before I show you to the Battle\n"
-	.string "ARENA, I must save the game.\l"
+	.string "Arena, I must save the game.\l"
 	.string "Please wait.$"
 
 BattleFrontier_BattleArenaLobby_Text_RecordLastMatch:
-	.string "Shall I record your last Battle ARENA\n"
+	.string "Shall I record your last Battle Arena\n"
 	.string "match on your Frontier Pass?$"
 
 BattleFrontier_BattleArenaLobby_Text_BadIdeaToNotAttack:
-	.string "I lost on the REFEREE's decision…\p"
+	.string "I lost on the Referee's decision…\p"
 	.string "I don't think it was a good idea to only\n"
 	.string "use defensive moves and not attack…$"
 
@@ -506,7 +506,7 @@ BattleFrontier_BattleArenaLobby_Text_MatchWasDeclaredDraw:
 	.string "the same amount of HP left.$"
 
 BattleFrontier_BattleArenaLobby_Text_OrderOfMonsImportant:
-	.string "In the Battle ARENA, the order of\n"
+	.string "In the Battle Arena, the order of\n"
 	.string "Pokémon is totally important.\p"
 	.string "For example, if your first Pokémon\n"
 	.string "has certain type disadvantages,\l"
@@ -517,19 +517,19 @@ BattleFrontier_BattleArenaLobby_Text_OrderOfMonsImportant:
 	.string "making an effective team.$"
 
 BattleFrontier_BattleArenaLobby_Text_RulesAreListed:
-	.string "The Set KO Tourney's rules are listed.$"
+	.string "The Set Ko Tourney's rules are listed.$"
 
 BattleFrontier_BattleArenaLobby_Text_ReadWhichHeading:
 	.string "Which heading do you want to read?$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainBattleRules:
-	.string "The Set KO Tourney has special rules,\n"
+	.string "The Set Ko Tourney has special rules,\n"
 	.string "unlike standard battles.\p"
 	.string "First, one battle lasts only\n"
 	.string "three turns.\p"
 	.string "If the outcome is not decided after\n"
 	.string "three turns, it goes to judging.\p"
-	.string "The REFEREE will choose the winner\n"
+	.string "The Referee will choose the winner\n"
 	.string "based on how the Pokémon battled.\p"
 	.string "Also, a Pokémon cannot be switched out\n"
 	.string "until its battle's outcome is decided.$"
@@ -555,9 +555,9 @@ BattleFrontier_BattleArenaLobby_Text_ExplainSkillRules:
 	.string "effective” and goes down if it was\l"
 	.string "“not very effective.”\p"
 	.string "The Skill rating will not go up for\n"
-	.string "moves such as PROTECT and DETECT.\p"
-	.string "If the opponent used PROTECT or\n"
-	.string "DETECT, and your Pokémon failed to\l"
+	.string "moves such as Protect and Detect.\p"
+	.string "If the opponent used Protect or\n"
+	.string "Detect, and your Pokémon failed to\l"
 	.string "hit with a move, its Skill rating will not\l"
 	.string "go down.$"
 
@@ -570,8 +570,8 @@ BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules:
 	.string "battle, and what remained at the end.$"
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnDefeatingTycoon:
-	.string "A victory snatched from the ARENA\n"
-	.string "TYCOON, and a seven-Trainer sweep!\p"
+	.string "A victory snatched from the Arena\n"
+	.string "Tycoon, and a seven-Trainer sweep!\p"
 	.string "We congratulate you on your most\n"
 	.string "splendid challenge!$"
 

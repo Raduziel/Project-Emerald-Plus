@@ -261,19 +261,19 @@ PokemonTower_7F_Text_Grunt3Intro::
 	.string "You're not saving anyone, kid!$"
 
 PokemonTower_7F_Text_Grunt3Defeat::
-	.string "Don't fight us ROCKETS!$"
+	.string "Don't fight us Rockets!$"
 
 PokemonTower_7F_Text_Grunt3PostBattle::
 	.string "You're not getting away with this!$"
 
 PokemonTower_7F_Text_MrFujiThankYouFollowMe::
-	.string "Mr. FUJI: Heh?\n"
+	.string "Mr. Fuji: Heh?\n"
 	.string "You came to save me?\p"
 	.string "Thank you. But, I came here of my\n"
 	.string "own free will.\p"
 	.string "I came to calm the spirit of\n"
-	.string "CUBONE's mother.\p"
-	.string "I think MAROWAK's spirit has\n"
+	.string "Cubone's mother.\p"
+	.string "I think Marowak's spirit has\n"
 	.string "finally left us.\p"
 	.string "I must thank you for your kind\n"
 	.string "concern.\p"

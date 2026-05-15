@@ -31,10 +31,10 @@ PewterCity_House1_EventScript_DoNidoranCry::
 	return
 
 PewterCity_House1_Text_Nidoran::
-	.string "NIDORAN♂: Bowbow!$"
+	.string "Nidoran♂: Bowbow!$"
 
 PewterCity_House1_Text_NidoranSit::
-	.string "NIDORAN, sit!$"
+	.string "Nidoran, sit!$"
 
 PewterCity_House1_Text_TradeMonsAreFinicky::
 	.string "Our Pokémon's an outsider, so it's\n"

@@ -40,7 +40,7 @@ LavaridgeTown_HerbShop_EventScript_ExplainCharcoal::
 	end
 
 LavaridgeTown_HerbShop_Text_WelcomeToHerbShop:
-	.string "Welcome to the HERB SHOP, home of\n"
+	.string "Welcome to the Herb Shop, home of\n"
 	.string "effective and inexpensive medicine!$"
 
 LavaridgeTown_HerbShop_Text_YouveComeToLookAtHerbalMedicine:
@@ -50,11 +50,11 @@ LavaridgeTown_HerbShop_Text_YouveComeToLookAtHerbalMedicine:
 	.string "I like you! Take this!$"
 
 LavaridgeTown_HerbShop_Text_ExplainCharcoal:
-	.string "That CHARCOAL I gave you, it's used\n"
+	.string "That Charcoal I gave you, it's used\n"
 	.string "for making herbal medicine.\p"
 	.string "It also does wonders when held by\n"
 	.string "a Pokémon.\p"
-	.string "It intensifies the power of FIRE-type\n"
+	.string "It intensifies the power of Fire-type\n"
 	.string "moves.$"
 
 LavaridgeTown_HerbShop_Text_HerbalMedicineWorksButMonWillDislike:

@@ -383,7 +383,7 @@ CinnabarIsland_Text_HeyIfItIsntPlayer::
 	.string "Hey, if it isn't {PLAYER}!$"
 
 CinnabarIsland_Text_ComeWithMeToOneIsland::
-	.string "Look, it's me, BILL.\n"
+	.string "Look, it's me, Bill.\n"
 	.string "Long time no see!\p"
 	.string "I hope you're still using my\n"
 	.string "PC system.\p"
@@ -417,11 +417,11 @@ CinnabarIsland_Text_MyPalsBoatArrived::
 
 CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain::
 	.string "Hey, wasn't that a long cruise?\p"
-	.string "My buddy CELIO seemed to enjoy\n"
+	.string "My buddy Celio seemed to enjoy\n"
 	.string "your company.\p"
 	.string "I'm sure he'd welcome you if you\n"
 	.string "were to visit him again.\p"
-	.string "If you have a TRI-Pass, you can\n"
+	.string "If you have a Tri-Pass, you can\n"
 	.string "always take a ferry there from\l"
 	.string "Vermilion Port.\p"
 	.string "All right, thanks for your company!$"

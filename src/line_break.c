@@ -362,7 +362,7 @@ bool32 IsWordSplittingChar(const u8 *src, u32 index)
 //  jagged lines scales by the square
 //  runts scale linearly
 //  numbers not final
-//  ISN'T ACTUALLY USED RIGHT NOW
+//  ISN't ACTUALLY USED RIGHT NOW
 u32 GetStringBadness(struct StringLine *stringLines, u32 numLines, u32 maxWidth)
 {
     u32 badness = 0;
