@@ -91,7 +91,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_HYPER_CUTTER)] =
     {
-        .text = COMPOUND_STRING("HYPER CUTTER"),
+        .text = COMPOUND_STRING("HYPER Cutter"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_COOLNESS),
         .enabled = TRUE,
     },
@@ -139,7 +139,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_BATTLE_ARMOR)] =
     {
-        .text = COMPOUND_STRING("BATTLE ARMOR"),
+        .text = COMPOUND_STRING("Battle ARMOR"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_DROUGHT),
         .enabled = TRUE,
     },
@@ -481,7 +481,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_WONDER_GUARD)] =
     {
-        .text = COMPOUND_STRING("WONDER GUARD"),
+        .text = COMPOUND_STRING("Wonder GUARD"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SHIELD_DUST),
         .enabled = TRUE,
     },
@@ -565,7 +565,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_MAGMA_ARMOR)] =
     {
-        .text = COMPOUND_STRING("MAGMA ARMOR"),
+        .text = COMPOUND_STRING("Magma ARMOR"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SYNCHRONIZE),
         .enabled = TRUE,
     },
@@ -619,13 +619,13 @@ const struct EasyChatWordInfo gEasyChatGroup_Status[] = {
     },
     [EC_INDEX(EC_WORD_PATTERN)] =
     {
-        .text = COMPOUND_STRING("PATTERN"),
+        .text = COMPOUND_STRING("Pattern"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_VOLT_ABSORB),
         .enabled = TRUE,
     },
     [EC_INDEX(EC_WORD_FLASH_FIRE)] =
     {
-        .text = COMPOUND_STRING("FLASH FIRE"),
+        .text = COMPOUND_STRING("Flash FIRE"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WATER),
         .enabled = TRUE,
     },

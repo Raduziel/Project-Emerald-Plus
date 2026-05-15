@@ -356,11 +356,27 @@ static u8 ObjectEventCB2_NoMovement2(void)
     return 0;
 }
 
+static void ToggleAutoRun(void)
+{
+    PlaySE(SE_SELECT);
+
+    if (FlagGet(FLAG_TOGGLE_AUTORUN))
+        FlagClear(FLAG_TOGGLE_AUTORUN);
+    else
+        FlagSet(FLAG_TOGGLE_AUTORUN);
+}
+
 void PlayerStep(enum Direction direction, u16 newKeys, u16 heldKeys)
 {
     struct ObjectEvent *playerObjEvent = &gObjectEvents[gPlayerAvatar.objectEventId];
 
     HideShowWarpArrow(playerObjEvent);
+
+    if (newKeys & B_BUTTON)
+    {
+        ToggleAutoRun();
+    }
+
     if (gPlayerAvatar.preventStep == FALSE && !TryUpdatePlayerSpinDirection())
     {
         Bike_TryAcroBikeHistoryUpdate(newKeys, heldKeys);
@@ -919,8 +935,8 @@ static void PlayerNotOnBikeMoving(enum Direction direction, u16 heldKeys)
     }
 
     if (!(gPlayerAvatar.flags & PLAYER_AVATAR_FLAG_UNDERWATER)
-     && (heldKeys & B_BUTTON)
-     && FlagGet(FLAG_SYS_B_DASH)
+   //&& (heldKeys & B_BUTTON)
+     && FlagGet(FLAG_TOGGLE_AUTORUN)
      && IsRunningDisallowed(gObjectEvents[gPlayerAvatar.objectEventId].currentMetatileBehavior) == 0
      && !FollowerNPCComingThroughDoor()
      && (I_ORAS_DOWSING_FLAG == 0 || (I_ORAS_DOWSING_FLAG != 0 && !FlagGet(I_ORAS_DOWSING_FLAG))))

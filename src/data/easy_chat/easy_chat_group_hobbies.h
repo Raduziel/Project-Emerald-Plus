@@ -37,7 +37,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Hobbies[] = {
     },
     [EC_INDEX(EC_WORD_CHILD_S_PLAY)] =
     {
-        .text = COMPOUND_STRING("CHILD'S PLAY"),
+        .text = COMPOUND_STRING("CHILD's PLAY"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_CAMERA),
         .enabled = TRUE,
     },
@@ -55,7 +55,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Hobbies[] = {
     },
     [EC_INDEX(EC_WORD_CARDS)] =
     {
-        .text = COMPOUND_STRING("CARDS"),
+        .text = COMPOUND_STRING("Cards"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_CHAT),
         .enabled = TRUE,
     },
@@ -271,7 +271,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Hobbies[] = {
     },
     [EC_INDEX(EC_WORD_BALL)] =
     {
-        .text = COMPOUND_STRING("BALL"),
+        .text = COMPOUND_STRING("Ball"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_SPORTS),
         .enabled = TRUE,
     },

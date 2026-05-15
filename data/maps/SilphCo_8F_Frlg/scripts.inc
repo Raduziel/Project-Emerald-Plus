@@ -66,7 +66,7 @@ SilphCo_8F_Text_ParkerPostBattle::
 	.string "BUILDING's maze?$"
 
 SilphCo_8F_Text_Grunt2Intro::
-	.string "I am one of the four ROCKET\n"
+	.string "I am one of the four Rocket\n"
 	.string "BROTHERS!$"
 
 SilphCo_8F_Text_Grunt2Defeat::
@@ -77,13 +77,13 @@ SilphCo_8F_Text_Grunt2PostBattle::
 	.string "I'll leave you up to my brothers.$"
 
 SilphCo_8F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
+	.string "Silph Co. Head Office\n"
 	.string "8F$"
 
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
-	.string "TEAM ROCKET's BOSS is terribly\n"
+	.string "Team Rocket's Boss is terribly\n"
 	.string "cruel!\p"
-	.string "To him, POKéMON are just tools to\n"
+	.string "To him, Pokémon are just tools to\n"
 	.string "be used.\p"
 	.string "What will happen if that tyrant\n"
 	.string "takes over our company…$"

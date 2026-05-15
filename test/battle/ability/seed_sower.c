@@ -114,7 +114,7 @@ DOUBLE_BATTLE_TEST("Multi-target moves hit correct battlers after Seed Sower is 
                     HP_BAR(playerRight);
                 }
             }
-        } else { // SURF
+        } else { // Surf
             switch (attacker) {
             case B_POSITION_PLAYER_LEFT:
                 HP_BAR(opponentLeft);

@@ -75,7 +75,7 @@ Remember to add new front pics before `TRAINER_PIC_FRONT_COUNT`!
 You can test your trainer type by going to [`src/data/trainers.party`](./src/data/trainers.party) and change the `Pic` field. The syntax should match the constant (`TRAINER_PIC_FRONT_NEW_ONE`) with the underscore replaced by spaces. For example:
 ```diff
  === TRAINER_BRENDAN_PLACEHOLDER ===
- Name: BRENDAN
+ Name: Brendan
  Class: RS Protag
 -Pic: RS Brendan
 +Pic: New One
@@ -88,7 +88,7 @@ Otherwise if you use [`src/data/trainers.h`](./src/data/trainers.h), change the 
 ```diff
      [DIFFICULTY_NORMAL][TRAINER_BRENDAN_PLACEHOLDER] =
      {
-         .trainerName = _("BRENDAN"),
+         .trainerName = _("Brendan"),
          .trainerClass = TRAINER_CLASS_RS_PROTAG,
 -        .trainerPic = TRAINER_PIC_FRONT_RS_BRENDAN,
 +        .trainerPic = TRAINER_PIC_FRONT_NEW_ONE,

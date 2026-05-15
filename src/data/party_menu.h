@@ -660,7 +660,7 @@ static const u8 *const sActionStringTable[] =
     [PARTY_MSG_ALREADY_HOLDING_ONE]    = gText_AlreadyHoldingOne,
     [PARTY_MSG_WHICH_APPLIANCE]        = gText_WhichAppliance,
     [PARTY_MSG_CHOOSE_SECOND_FUSION]   = gText_NextFusionMon,
-    [PARTY_MSG_NO_POKEMON]             = COMPOUND_STRING("You have no POKéMON."),
+    [PARTY_MSG_NO_POKEMON]             = COMPOUND_STRING("You have no Pokémon."),
     [PARTY_MSG_CHOOSE_MON_FOR_BOX]     = gText_SendWhichMonToPC,
     [PARTY_MSG_MOVE_ITEM_WHERE]        = gText_MoveItemWhere,
 };
@@ -690,7 +690,7 @@ static const u16 sUnusedData[] =
     0x0121, 0x013b, 0x000f, 0x0013, 0x0039, 0x0046, 0x0094, 0x00f9, 0x007f, 0x0123,
 };
 
-static const u8 sText_Trade4[] = _("TRADE");
+static const u8 sText_Trade4[] = _("Trade");
 
 struct
 {
@@ -705,7 +705,7 @@ struct
     [MENU_GIVE]            = {gMenuText_Give,                     CursorCb_Give},
     [MENU_TAKE_ITEM]       = {COMPOUND_STRING("TAKE"),            CursorCb_TakeItem},
     [MENU_MOVE_ITEM]       = {COMPOUND_STRING("MOVE"),            CursorCb_MoveItem},
-    [MENU_MAIL]            = {COMPOUND_STRING("MAIL"),            CursorCb_Mail},
+    [MENU_MAIL]            = {COMPOUND_STRING("Mail"),            CursorCb_Mail},
     [MENU_TAKE_MAIL]       = {COMPOUND_STRING("TAKE"),            CursorCb_TakeMail},
     [MENU_READ]            = {COMPOUND_STRING("READ"),            CursorCb_Read},
     [MENU_CANCEL2]         = {gText_Cancel2,                      CursorCb_Cancel2},
@@ -719,7 +719,7 @@ struct
     [MENU_TRADE2]          = {sText_Trade4,                       CursorCb_Trade2},
     [MENU_TOSS]            = {gMenuText_Toss,                     CursorCb_Toss},
     [MENU_LEVEL_UP_MOVES]  = {COMPOUND_STRING("LEVEL MOVES"),     CursorCb_ChangeLevelUpMoves},
-    [MENU_EGG_MOVES]       = {COMPOUND_STRING("EGG MOVES"),       CursorCb_ChangeEggMoves},
+    [MENU_EGG_MOVES]       = {COMPOUND_STRING("Egg MOVES"),       CursorCb_ChangeEggMoves},
     [MENU_TM_MOVES]        = {COMPOUND_STRING("TM MOVES"),        CursorCb_ChangeTMMoves},
     [MENU_TUTOR_MOVES]     = {COMPOUND_STRING("TUTOR MOVES"),     CursorCb_ChangeTutorMoves},
     [MENU_SUB_MOVES]       = {COMPOUND_STRING("LEARN MOVES"),     CursorCb_LearnMovesSubMenu},

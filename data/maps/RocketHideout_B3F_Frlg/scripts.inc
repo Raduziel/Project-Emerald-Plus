@@ -12,7 +12,7 @@ RocketHideout_B3F_EventScript_Grunt2::
 	end
 
 RocketHideout_B3F_Text_Grunt1Intro::
-	.string "Stop meddling in TEAM ROCKET's\n"
+	.string "Stop meddling in Team Rocket's\n"
 	.string "affairs or else!$"
 
 RocketHideout_B3F_Text_Grunt1Defeat::
@@ -21,7 +21,7 @@ RocketHideout_B3F_Text_Grunt1Defeat::
 
 RocketHideout_B3F_Text_Grunt1PostBattle::
 	.string "SILPH SCOPE?\n"
-	.string "Oh, that machine the BOSS stole.\p"
+	.string "Oh, that machine the Boss stole.\p"
 	.string "It's here somewhere.$"
 
 RocketHideout_B3F_Text_Grunt2Intro::

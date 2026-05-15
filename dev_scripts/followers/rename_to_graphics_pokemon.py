@@ -8,7 +8,7 @@ import subprocess
 # IT TAKES FOLLOWER GRAPHICS FROM a 'followers' FOLDER IN THE ROOT FOLDER AND MOVES THEM BASED ON THEIR NAME.
 # EG. 'followers/bulbasaur.png' WILL BE MOVED to 'graphics/pokemon/bulbasaur/follower.png'.
 #
-# I'M SAVING IT HERE IN CASE IT'S NEEDED SOMEWHERE IN THE FUTURE, THOUGH TWEAKING MIGHT BE NEEDED.
+# I'M SAVING IT HERE IN CASE IT's NEEDED SOMEWHERE IN THE FUTURE, THOUGH TWEAKING MIGHT BE NEEDED.
 # - AsparagusEduardo
 
 def rellocate_follower_graphics():

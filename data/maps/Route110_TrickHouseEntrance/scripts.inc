@@ -740,14 +740,14 @@ Route110_TrickHouseEntrance_Text_ConcealedBeneathCushion:
 Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster:
 	.string "Behold!\p"
 	.string "For I am the greatest living mystery\n"
-	.string "of a man in all of HOENN!\l"
+	.string "of a man in all of Hoenn!\l"
 	.string "They call me…\p"
 	.string "The TRICK MASTER!\n"
 	.string "Wahahaha! Glad to meet you!$"
 
 Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse:
 	.string "You, you've come to challenge\n"
-	.string "my TRICK HOUSE, haven't you?\p"
+	.string "my TRICK House, haven't you?\p"
 	.string "That's why you're here, isn't it?\n"
 	.string "Yes, it is!\p"
 	.string "Consider your challenge accepted!\p"

@@ -91,7 +91,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Battle[] = {
     },
     [EC_INDEX(EC_WORD_TRUMP_CARD)] =
     {
-        .text = COMPOUND_STRING("TRUMP CARD"),
+        .text = COMPOUND_STRING("TRUMP Card"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_GENIUS),
         .enabled = TRUE,
     },
@@ -241,7 +241,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Battle[] = {
     },
     [EC_INDEX(EC_WORD_BATTLE)] =
     {
-        .text = COMPOUND_STRING("BATTLE"),
+        .text = COMPOUND_STRING("Battle"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_RECEIVED),
         .enabled = TRUE,
     },
@@ -289,7 +289,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Battle[] = {
     },
     [EC_INDEX(EC_WORD_LOST)] =
     {
-        .text = COMPOUND_STRING("LOST"),
+        .text = COMPOUND_STRING("Lost"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_STRATEGY),
         .enabled = TRUE,
     },
@@ -361,7 +361,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Battle[] = {
     },
     [EC_INDEX(EC_WORD_LEADER)] =
     {
-        .text = COMPOUND_STRING("LEADER"),
+        .text = COMPOUND_STRING("Leader"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_WIN),
         .enabled = TRUE,
     },

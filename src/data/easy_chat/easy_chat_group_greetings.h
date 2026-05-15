@@ -145,7 +145,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Greetings[] = {
     },
     [EC_INDEX(EC_WORD_GO_AHEAD)] =
     {
-        .text = COMPOUND_STRING("GO AHEAD"),
+        .text = COMPOUND_STRING("GO Ahead"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_LISTENING),
         .enabled = TRUE,
     },
@@ -163,7 +163,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Greetings[] = {
     },
     [EC_INDEX(EC_WORD_WHAT_S_UP_QUES)] =
     {
-        .text = COMPOUND_STRING("WHAT'S UP?"),
+        .text = COMPOUND_STRING("WHAT's UP?"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_OI),
         .enabled = TRUE,
     },

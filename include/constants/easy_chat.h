@@ -52,7 +52,7 @@
 #define EC_GROUP_POKEMON_NATIONAL 21
 #define EC_NUM_GROUPS             22
 
-// TRAINER
+// Trainer
 #define EC_WORD_I_CHOOSE_YOU  ((EC_GROUP_TRAINER << EC_MASK_BITS) | 0)
 #define EC_WORD_GOTCHA        ((EC_GROUP_TRAINER << EC_MASK_BITS) | 1)
 #define EC_WORD_TRADE         ((EC_GROUP_TRAINER << EC_MASK_BITS) | 2)
@@ -192,7 +192,7 @@
 #define EC_WORD_PURE_POWER    ((EC_GROUP_STATUS << EC_MASK_BITS) | 107)
 #define EC_WORD_SHIELD_DUST   ((EC_GROUP_STATUS << EC_MASK_BITS) | 108)
 
-// BATTLE
+// Battle
 #define EC_WORD_MATCH_UP     ((EC_GROUP_BATTLE << EC_MASK_BITS) | 0)
 #define EC_WORD_GO           ((EC_GROUP_BATTLE << EC_MASK_BITS) | 1)
 #define EC_WORD_NO_1         ((EC_GROUP_BATTLE << EC_MASK_BITS) | 2)

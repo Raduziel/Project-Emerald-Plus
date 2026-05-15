@@ -45,12 +45,12 @@ CeladonCity_Restaurant_Text_TakingBreakRightNow::
 	.string "right now.$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-	.string "My POKéMON are weak, so I often\n"
+	.string "My Pokémon are weak, so I often\n"
 	.string "have to go to the DRUGSTORE.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
 	.string "Psst! There's a basement under the\n"
-	.string "GAME CORNER, I hear.$"
+	.string "Game Corner, I hear.$"
 
 CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
 	.string "Munch…\p"

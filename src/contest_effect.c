@@ -890,7 +890,7 @@ static void ContestEffect_ScrambleNextTurnOrder(void)
     }
 }
 
-// An appeal that excites the audience in any CONTEST.
+// An appeal that excites the audience in any Contest.
 static void ContestEffect_ExciteAudienceInAnyContest(void)
 {
     if (GetMoveContestCategory(eContestantStatus[eContestAppealResults.contestant].currMove) != gSpecialVar_ContestCategory)

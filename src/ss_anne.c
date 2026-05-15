@@ -5,7 +5,7 @@
 #include "task.h"
 #include "constants/songs.h"
 
-// Tasks governing the ship's departure after you've gotten HM01 CUT
+// Tasks governing the ship's departure after you've gotten HM01 Cut
 
 #define SPRITE_TAG_WAKE  4000
 #define SPRITE_TAG_SMOKE 4001

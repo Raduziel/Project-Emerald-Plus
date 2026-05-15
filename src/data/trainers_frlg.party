@@ -4977,7 +4977,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BOSS_GIOVANNI ===
-Name: GIOVANNI
+Name: Giovanni
 Class: Boss Frlg
 Pic: Leader Giovanni Frlg
 Gender: Male
@@ -4998,7 +4998,7 @@ Level: 29
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_BOSS_GIOVANNI_2 ===
-Name: GIOVANNI
+Name: Giovanni
 Class: Boss Frlg
 Pic: Leader Giovanni Frlg
 Gender: Male
@@ -5023,7 +5023,7 @@ Level: 41
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_LEADER_GIOVANNI ===
-Name: GIOVANNI
+Name: Giovanni
 Class: Leader Frlg
 Pic: Leader Giovanni Frlg
 Gender: Male
@@ -5073,7 +5073,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Earthquake
 
 === TRAINER_TEAM_ROCKET_GRUNT ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5090,7 +5090,7 @@ Level: 13
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_2 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5111,7 +5111,7 @@ Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_3 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5128,7 +5128,7 @@ Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_4 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5145,7 +5145,7 @@ Level: 13
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_5 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5162,7 +5162,7 @@ Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_6 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5179,7 +5179,7 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_7 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5196,7 +5196,7 @@ Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_8 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5213,7 +5213,7 @@ Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_9 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5230,7 +5230,7 @@ Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_10 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5261,7 +5261,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Poison Gas
 
 === TRAINER_TEAM_ROCKET_GRUNT_11 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5286,7 +5286,7 @@ Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_12 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5311,7 +5311,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Poison Gas
 
 === TRAINER_TEAM_ROCKET_GRUNT_13 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5359,7 +5359,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Tackle
 
 === TRAINER_TEAM_ROCKET_GRUNT_14 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5380,7 +5380,7 @@ Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_15 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5397,7 +5397,7 @@ Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_16 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5418,7 +5418,7 @@ Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_17 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5439,7 +5439,7 @@ Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_18 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5456,7 +5456,7 @@ Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_19 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5477,7 +5477,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_20 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5494,7 +5494,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_21 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5519,7 +5519,7 @@ Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_22 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5536,7 +5536,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_23 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5553,7 +5553,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_24 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5582,7 +5582,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_25 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5603,7 +5603,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_26 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5620,7 +5620,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_27 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5641,7 +5641,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_28 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5654,7 +5654,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_29 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5667,7 +5667,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_30 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5684,7 +5684,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_31 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5705,7 +5705,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_32 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5746,7 +5746,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Supersonic
 
 === TRAINER_TEAM_ROCKET_GRUNT_33 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5763,7 +5763,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_34 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5780,7 +5780,7 @@ Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_35 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5805,7 +5805,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_36 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5826,7 +5826,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_37 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5847,7 +5847,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_38 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5868,7 +5868,7 @@ Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_39 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5881,7 +5881,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_40 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -5910,7 +5910,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_41 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -7035,7 +7035,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Wing Attack
 
 === TRAINER_LEADER_BROCK ===
-Name: BROCK
+Name: Brock
 Class: Leader Frlg
 Pic: Leader Brock Frlg
 Gender: Male
@@ -7057,7 +7057,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Rock Tomb
 
 === TRAINER_LEADER_MISTY ===
-Name: MISTY
+Name: Misty
 Class: Leader Frlg
 Pic: Leader Misty Frlg
 Gender: Male
@@ -7083,7 +7083,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Water Pulse
 
 === TRAINER_LEADER_LT_SURGE ===
-Name: LT. SURGE
+Name: Lt. Surge
 Class: Leader Frlg
 Pic: Leader Lt Surge Frlg
 Gender: Male
@@ -7117,7 +7117,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Shock Wave
 
 === TRAINER_LEADER_ERIKA ===
-Name: ERIKA
+Name: Erika
 Class: Leader Frlg
 Pic: Leader Erika Frlg
 Gender: Male
@@ -7151,7 +7151,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Giga Drain
 
 === TRAINER_LEADER_KOGA ===
-Name: KOGA
+Name: Koga
 Class: Leader Frlg
 Pic: Leader Koga Frlg
 Gender: Male
@@ -7193,7 +7193,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Toxic
 
 === TRAINER_LEADER_BLAINE ===
-Name: BLAINE
+Name: Blaine
 Class: Leader Frlg
 Pic: Leader Blaine Frlg
 Gender: Male
@@ -7235,7 +7235,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Fire Blast
 
 === TRAINER_LEADER_SABRINA ===
-Name: SABRINA
+Name: Sabrina
 Class: Leader Frlg
 Pic: Leader Sabrina Frlg
 Gender: Male
@@ -8939,7 +8939,7 @@ Level: 25
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_PKMN_PROF_PROF_OAK ===
-Name: PROF. OAK
+Name: Prof. Oak
 Class: Pkmn Prof Frlg
 Pic: Professor Oak Frlg
 Gender: Male
@@ -8952,7 +8952,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_42 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt F Frlg
 Gender: Male
@@ -9367,7 +9367,7 @@ Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_43 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -9384,7 +9384,7 @@ Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_44 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -9409,7 +9409,7 @@ Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_45 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -9430,7 +9430,7 @@ Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_46 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -9451,7 +9451,7 @@ Level: 48
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_47 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -9472,7 +9472,7 @@ Level: 48
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_48 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -10012,7 +10012,7 @@ Level: 48
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_49 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -10033,7 +10033,7 @@ Level: 48
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TEAM_ROCKET_GRUNT_50 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt M Frlg
 Gender: Male
@@ -10058,7 +10058,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Self Destruct
 
 === TRAINER_TEAM_ROCKET_GRUNT_51 ===
-Name: GRUNT
+Name: Grunt
 Class: Team Rocket Frlg
 Pic: Rocket Grunt F Frlg
 Gender: Male

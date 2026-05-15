@@ -1316,10 +1316,10 @@ static void Task_OakSpeech_HandleGenderInput(u8 taskId)
     s8 input = Menu_ProcessInputNoWrap();
     switch (input)
     {
-    case 0: // BOY
+    case 0: // Boy
         gSaveBlock2Ptr->playerGender = MALE;
         break;
-    case 1: // GIRL
+    case 1: // Girl
         gSaveBlock2Ptr->playerGender = FEMALE;
         break;
     case MENU_B_PRESSED:

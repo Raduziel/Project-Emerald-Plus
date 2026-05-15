@@ -4017,7 +4017,7 @@ static void CursorCb_FieldMove(u8 taskId)
     }
     else
     {
-        // All field moves before WATERFALL are HMs.
+        // All field moves before Waterfall are HMs.
         if (!IsFieldMoveUnlocked(fieldMove))
         {
             DisplayPartyMenuMessage(gText_CantUseUntilNewBadge, TRUE);

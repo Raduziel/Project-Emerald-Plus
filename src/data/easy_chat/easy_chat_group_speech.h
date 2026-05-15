@@ -175,7 +175,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Speech[] = {
     },
     [EC_INDEX(EC_WORD_THAT_S)] =
     {
-        .text = COMPOUND_STRING("THAT'S"),
+        .text = COMPOUND_STRING("THAT's"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_LIE),
         .enabled = TRUE,
     },

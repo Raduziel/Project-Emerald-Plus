@@ -123,11 +123,11 @@ RocketHideout_B4F_EventScript_RemoveBarrier::
 RocketHideout_B4F_Text_GiovanniIntro::
 	.string "So! I must say, I am impressed you\n"
 	.string "got here.\p"
-	.string "TEAM ROCKET captures POKéMON from\n"
+	.string "Team Rocket captures Pokémon from\n"
 	.string "around the world.\p"
 	.string "They're important tools for keeping\n"
 	.string "our criminal enterprise going.\p"
-	.string "I am the leader, GIOVANNI!\p"
+	.string "I am the leader, Giovanni!\p"
 	.string "For your insolence, you will feel a\n"
 	.string "world of pain!$"
 
@@ -136,7 +136,7 @@ RocketHideout_B4F_Text_GiovanniDefeat::
 	.string "This can't be!$"
 
 RocketHideout_B4F_Text_GiovanniPostBattle::
-	.string "I see that you raise POKéMON with\n"
+	.string "I see that you raise Pokémon with\n"
 	.string "utmost care.\p"
 	.string "A child like you would never\n"
 	.string "understand what I hope to achieve.\p"
@@ -151,8 +151,8 @@ RocketHideout_B4F_Text_Grunt2Defeat::
 	.string "Burned again!$"
 
 RocketHideout_B4F_Text_Grunt2PostBattle::
-	.string "Do you have something against TEAM\n"
-	.string "ROCKET?$"
+	.string "Do you have something against Team\n"
+	.string "Rocket?$"
 
 RocketHideout_B4F_Text_Grunt3Intro::
 	.string "How can you not see the beauty of\n"
@@ -162,7 +162,7 @@ RocketHideout_B4F_Text_Grunt3Defeat::
 	.string "Ayaya!$"
 
 RocketHideout_B4F_Text_Grunt3PostBattle::
-	.string "BOSS!\n"
+	.string "Boss!\n"
 	.string "I'm sorry I failed you!$"
 
 RocketHideout_B4F_Text_Grunt1Intro::

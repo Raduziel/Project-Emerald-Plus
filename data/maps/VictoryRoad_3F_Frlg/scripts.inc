@@ -62,7 +62,7 @@ VictoryRoad_3F_EventScript_Tyra::
 Text_DoubleEdgeTeach::
 	.string "You should be proud of yourself,\n"
 	.string "having battled your way through\l"
-	.string "VICTORY ROAD so courageously.\p"
+	.string "Victory Road so courageously.\p"
 	.string "In recognition of your feat,\n"
 	.string "I'll teach you DOUBLE-EDGE.\p"
 	.string "Would you like me to teach that\n"
@@ -73,12 +73,12 @@ Text_DoubleEdgeDeclined::
 	.string "anytime.$"
 
 Text_DoubleEdgeWhichMon::
-	.string "Which POKéMON should I teach\n"
+	.string "Which Pokémon should I teach\n"
 	.string "DOUBLE-EDGE?$"
 
 Text_DoubleEdgeTaught::
 	.string "Keep that drive going for the\n"
-	.string "POKéMON LEAGUE!\p"
+	.string "Pokémon League!\p"
 	.string "Take a run at them and knock 'em\n"
 	.string "out!$"
 
@@ -89,11 +89,11 @@ VictoryRoad_3F_Text_GeorgeDefeat::
 	.string "The rumors were true!$"
 
 VictoryRoad_3F_Text_GeorgePostBattle::
-	.string "So, it was you who beat GIOVANNI\n"
-	.string "of TEAM ROCKET?$"
+	.string "So, it was you who beat Giovanni\n"
+	.string "of Team Rocket?$"
 
 VictoryRoad_3F_Text_AlexaIntro::
-	.string "TRAINERS live to seek stronger\n"
+	.string "Trainers live to seek stronger\n"
 	.string "opponents.$"
 
 VictoryRoad_3F_Text_AlexaDefeat::
@@ -122,8 +122,8 @@ VictoryRoad_3F_Text_ColbyDefeat::
 	.string "I don't believe it!$"
 
 VictoryRoad_3F_Text_ColbyPostBattle::
-	.string "All TRAINERS here are headed to\n"
-	.string "the POKéMON LEAGUE.\p"
+	.string "All Trainers here are headed to\n"
+	.string "the Pokémon League.\p"
 	.string "Don't let down your guard.$"
 
 VictoryRoad_3F_Text_RayIntro::
@@ -141,7 +141,7 @@ VictoryRoad_3F_Text_RayPostBattle::
 VictoryRoad_3F_Text_RayNotEnoughMons::
 	.string "RAY: Together, the two of us are\n"
 	.string "striving for the pinnacle.\p"
-	.string "We need you to bring two POKéMON\n"
+	.string "We need you to bring two Pokémon\n"
 	.string "into battle with us.$"
 
 VictoryRoad_3F_Text_TyraIntro::
@@ -157,5 +157,5 @@ VictoryRoad_3F_Text_TyraPostBattle::
 
 VictoryRoad_3F_Text_TyraNotEnoughMons::
 	.string "TYRA: You can't battle with us if\n"
-	.string "you have only one POKéMON.$"
+	.string "you have only one Pokémon.$"
 

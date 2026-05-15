@@ -12,7 +12,7 @@ for file in glob.glob('./src/data/battle_frontier/battle_frontier_trainer_mons.h
         source_content = f.read()
 
 # Extract party info from battle_frontier_trainer_mons.h
-source_pattern = re.compile(r'gBattleFrontierTrainerMons_(.*)\[\]\s*=\s*\n\{\n\s*(FRONTIER.*)')
+source_pattern = re.compile(r'gBattleFrontierTrainerMons_(.*)\[\]\s*=\s*\n\{\n\s*(Frontier.*)')
 source_data = {}
 for match in source_pattern.findall(source_content):
     if len(match) == 2:

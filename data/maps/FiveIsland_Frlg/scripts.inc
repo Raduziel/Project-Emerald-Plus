@@ -19,7 +19,7 @@ FiveIsland_EventScript_Fisher::
 	end
 
 FiveIsland_Text_IslandSign::
-	.string "FIVE ISLAND\n"
+	.string "Five Island\n"
 	.string "Chrono Island: Where Time Goes$"
 
 FiveIsland_Text_WeirdBuildingInMeadow::

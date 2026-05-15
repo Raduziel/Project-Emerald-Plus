@@ -47,7 +47,7 @@ FallarborTown_Mart_EventScript_Skitty::
 FallarborTown_Mart_Text_DecidingSkittyEvolve:
 	.string "I'm having a hard time deciding if I\n"
 	.string "should make my SKITTY evolve or not.\p"
-	.string "I only have to use this MOON STONE,\n"
+	.string "I only have to use this MOON Stone,\n"
 	.string "but it's so hard to decide…\p"
 	.string "If I make it evolve, it will become\n"
 	.string "much stronger.\p"

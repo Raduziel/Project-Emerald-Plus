@@ -428,7 +428,7 @@ B_ATK_TRAINER_NAME_WITH_CLASS = FD 45
 B_EFF_TEAM1 = FD 46
 B_EFF_TEAM2 = FD 47
 
-@ indicates the end of a town/city name (before " TOWN" or " CITY")
+@ indicates the end of a town/city name (before " Town" or " City")
 NAME_END = FC 00
 
 @ special 0xF7 character

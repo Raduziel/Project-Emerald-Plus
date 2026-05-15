@@ -418,10 +418,10 @@
 	@ ignored by SetPlayerCoordsFromWarp. If none are provided it will use dummy arguments,
 	@ and the warp will send the player to the center of the map.
 	@ Examples of valid inputs for a warp command:
-	@ - warp MAP, x, y
-	@ - warp MAP, warpId
-	@ - warp MAP
-	@ - warp MAP, warpId, x, y
+	@ - warp Map, x, y
+	@ - warp Map, warpId
+	@ - warp Map
+	@ - warp Map, warpId, x, y
 	.macro formatwarp map:req, a, b, c
 	map \map
 	.ifb \a @ No arguments provided, use dummy warpId and coords.
@@ -1872,7 +1872,7 @@
 	.endm
 
 	@ Buffers the name of the contest category to the buffer.
-	@ For example a category of CONTEST_CATEGORY_COOL will buffer the string "COOLNESS CONTEST".
+	@ For example a category of CONTEST_CATEGORY_COOL will buffer the string "COOLNESS Contest".
 	.macro buffercontestname stringVarId:req, category:req
 	.byte SCR_OP_BUFFERCONTESTNAME
 	stringvar \stringVarId

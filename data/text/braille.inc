@@ -60,7 +60,7 @@ SealedChamber_InnerRoom_Braille_FirstWailordLastRelicanth:
 SealedChamber_InnerRoom_Braille_InThisCaveWeHaveLived:
 	brailleformat 2, 0, 26, 19, 5, 3
 	.braille "IN THIS\n"
-	.braille "CAVE WE\n"
+	.braille "Cave WE\n"
 	.braille "HAVE\n"
 	.braille "LIVED.$"
 

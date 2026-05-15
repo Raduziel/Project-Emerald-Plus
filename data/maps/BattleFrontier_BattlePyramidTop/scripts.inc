@@ -216,7 +216,7 @@ BattleFrontier_BattlePyramidTop_Movement_CameraPanUp:
 BattleFrontier_BattlePyramidTop_Text_ReachedSummitUpYouGo:
 	.string "It is a delight to see you here!\n"
 	.string "You have reached the summit of\l"
-	.string "the BATTLE PYRAMID!\p"
+	.string "the Battle PYRAMID!\p"
 	.string "Above here is the PYRAMID's\n"
 	.string "lookout point.\p"
 	.string "It is a place open only to those\n"
@@ -235,7 +235,7 @@ BattleFrontier_BattlePyramidTop_Text_ChiefBeatYouHere:
 	.string "Our chief has already conquered\n"
 	.string "the PYRAMID ahead of you.\p"
 	.string "However, my young explorer…\n"
-	.string "You are a TRAINER!\p"
+	.string "You are a Trainer!\p"
 	.string "Assert your power and take the glory\n"
 	.string "of the pinnacle from our chief!\p"
 	.string "Now, please! When you are ready,\n"
@@ -247,7 +247,7 @@ BattleFrontier_BattlePyramidTop_Text_ExplorationsAreGrandestAdventure:
 	.string "are the grandest of adventures?\p"
 	.string "Your own wits!\p"
 	.string "Your own strength!\p"
-	.string "Your own POKéMON!\p"
+	.string "Your own Pokémon!\p"
 	.string "And, above all, only your own courage\n"
 	.string "to lead you through unknown worlds…$"
 
@@ -272,11 +272,11 @@ BattleFrontier_BattlePyramidTop_Text_BrandonFrontierPassPlease:
 	.string "BRANDON: Hahahah! Grand it was!\n"
 	.string "Grand, yes, indeed!\p"
 	.string "Well done! You've earned recognition!\n"
-	.string "Your FRONTIER PASS, please!$"
+	.string "Your Frontier Pass, please!$"
 
 BattleFrontier_BattlePyramidTop_Text_ReceivedBraveSymbol:
 	.string "The Brave Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "the Frontier Pass!$"
 
 BattleFrontier_BattlePyramidTop_Text_LookForwardToNextMeeting:
 	.string "Young explorer!\n"

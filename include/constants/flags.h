@@ -59,7 +59,7 @@
 #define FLAG_EXP_SHARE          0x25
 #define FLAG_VS_SEEKER_CHARGE   0x26
 #define FLAG_ORAS_DOWSING       0x27
-#define FLAG_UNUSED_0x028    0x28 // Unused Flag
+#define FLAG_TOGGLE_AUTORUN     0x28
 #define FLAG_UNUSED_0x029    0x29 // Unused Flag
 #define FLAG_UNUSED_0x02A    0x2A // Unused Flag
 #define FLAG_UNUSED_0x02B    0x2B // Unused Flag

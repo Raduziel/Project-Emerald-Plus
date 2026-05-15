@@ -195,7 +195,7 @@ MauvilleCity_BikeShop_Text_GuessYouDontNeedBike:
 MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne:
 	.string "RYDEL: Hm, hm… … … … …\p"
 	.string "You're saying that you came all this\n"
-	.string "way from LITTLEROOT?\p"
+	.string "way from Littleroot?\p"
 	.string "My goodness!\n"
 	.string "That's ridiculously far!\p"
 	.string "If you had one of my BIKES, you could\n"
@@ -285,7 +285,7 @@ MauvilleCity_BikeShop_Text_HowToTurnMachBike:
 
 MauvilleCity_BikeShop_Text_SandySlopes:
 	.string "There are small sandy slopes\n"
-	.string "throughout the HOENN region.\p"
+	.string "throughout the Hoenn region.\p"
 	.string "The loose, crumbly sand makes it\n"
 	.string "impossible to climb normally.\p"
 	.string "But if you have a MACH BIKE, you can\n"

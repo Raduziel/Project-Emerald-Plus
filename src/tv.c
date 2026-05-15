@@ -919,7 +919,7 @@ u8 GetNextActiveShowIfMassOutbreak(void)
     return gSpecialVar_0x8004;
 }
 
-// IN SEARCH OF TRAINERS
+// IN SEARCH OF Trainers
 
 void ResetGabbyAndTy(void)
 {

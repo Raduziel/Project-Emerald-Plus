@@ -38,14 +38,14 @@ Text_SeismicTossTeach::
 	.string "harder, not toss in the towel.\p"
 	.string "The only thing you should toss…\p"
 	.string "Well, how about SEISMIC TOSS?\n"
-	.string "Should I teach that to a POKéMON?$"
+	.string "Should I teach that to a Pokémon?$"
 
 Text_SeismicTossDeclined::
 	.string "Is that so?\n"
 	.string "I'm sure you'll be back for it.$"
 
 Text_SeismicTossWhichMon::
-	.string "Which POKéMON wants to learn\n"
+	.string "Which Pokémon wants to learn\n"
 	.string "SEISMIC TOSS?$"
 
 Text_SeismicTossTaught::
@@ -53,7 +53,7 @@ Text_SeismicTossTaught::
 	.string "Keep it up.$"
 
 PewterCity_Museum_1F_Text_WhatsSpecialAboutMoonStone::
-	.string "MOON STONE, huh?\p"
+	.string "MOON Stone, huh?\p"
 	.string "What's so special about it?\n"
 	.string "Looks like an ordinary rock to me.$"
 
@@ -81,5 +81,5 @@ PewterCity_Museum_1F_Text_SpaceShuttle::
 
 PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoon::
 	.string "A meteorite that fell on MT. MOON.\n"
-	.string "It is thought to be a MOON STONE.$"
+	.string "It is thought to be a MOON Stone.$"
 

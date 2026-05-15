@@ -23,7 +23,7 @@
 #define ACTIVITY_BATTLE_MULTI       3
 #define ACTIVITY_TRADE              4
 #define ACTIVITY_CHAT               5
-#define ACTIVITY_WONDER_CARD_DUP    6 // Duplicates of later WONDER constants
+#define ACTIVITY_WONDER_CARD_DUP    6 // Duplicates of later Wonder constants
 #define ACTIVITY_WONDER_NEWS_DUP    7 //
 #define ACTIVITY_CARD               8
 #define ACTIVITY_POKEMON_JUMP       9

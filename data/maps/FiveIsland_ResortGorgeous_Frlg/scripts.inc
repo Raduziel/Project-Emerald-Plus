@@ -96,7 +96,7 @@ FiveIsland_ResortGorgeous_Text_JackiPostBattle::
 
 FiveIsland_ResortGorgeous_Text_GillianIntro::
 	.string "I'm thinking of having a pool\n"
-	.string "made specially for POKéMON.$"
+	.string "made specially for Pokémon.$"
 
 FiveIsland_ResortGorgeous_Text_GillianDefeat::
 	.string "Oh, my goodness gracious!$"
@@ -134,5 +134,5 @@ FiveIsland_ResortGorgeous_Text_SelphyThanksYouMayGoNow::
 	.string "You may go now.$"
 
 FiveIsland_ResortGorgeous_Text_SelphysHouse::
-	.string "SELPHY'S HOUSE$"
+	.string "SELPHY's House$"
 
