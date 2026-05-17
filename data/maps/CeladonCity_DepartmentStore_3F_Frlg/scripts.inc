@@ -51,8 +51,8 @@ CeladonCity_DepartmentStore_3F_EventScript_Poster::
 
 CeladonCity_DepartmentStore_3F_Text_OTStandsForOriginalTrainer::
 	.string "Captured Pokémon are registered\n"
-	.string "with an Id No. and the Ot.\p"
-	.string "Ot stands for “Original Trainer” -\n"
+	.string "with an ID No. and the OT.\p"
+	.string "OT stands for “Original Trainer” -\n"
 	.string "the Trainer that caught it first.$"
 
 CeladonCity_DepartmentStore_3F_Text_BuddyTradingKangaskhanForHaunter::
@@ -70,7 +70,7 @@ CeladonCity_DepartmentStore_3F_Text_HaunterEvolvedOnTrade::
 
 CeladonCity_DepartmentStore_3F_Text_CanIdentifyTradeMonsByID::
 	.string "You can identify Pokémon you get\n"
-	.string "in trades by their Id Numbers.$"
+	.string "in trades by their ID Numbers.$"
 
 CeladonCity_DepartmentStore_3F_Text_ItsSuperNES::
 	.string "It's a Super Nes.$"

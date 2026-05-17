@@ -1525,7 +1525,7 @@ static bool8 SecretBaseBelongsToPlayer(struct SecretBase *secretBase)
     if (secretBase->secretBaseId && secretBase->gender != gSaveBlock2Ptr->playerGender)
         return FALSE;
 
-    // Check if the player's trainer Id matches the secret base's id.
+    // Check if the player's trainer ID matches the secret base's id.
     for (i = 0; i < TRAINER_ID_LENGTH; i++)
     {
         if (secretBase->trainerId[i] != gSaveBlock2Ptr->playerTrainerId[i])

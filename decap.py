@@ -2,7 +2,7 @@ import re
 import sys
 from pathlib import Path
 
-EXCEPTIONS = {"TV", "PC", "PP", "HP", "HM", "TM", "MC"}
+EXCEPTIONS = {"TV", "PC", "PP", "HP", "HM", "TM", "MC", "DNA", "HQ", "AM", "PM", "ID", "OT"}
 
 def fix_caps_in_string(s):
     def replace(m):
@@ -49,18 +49,24 @@ def process_file(path, dry_run=True):
         path.write_text(new_text, encoding="utf-8")
 
 # --- Configuração ---
-dry_run = False
+dry_run = True
+
+#root = Path(".")  # or Path("src") if you want to limit to that folder
+#
+#for file in sorted(root.rglob("*.inc")):
+#    print(f"\n[{file}]")
+#    process_file(file, dry_run=dry_run)
 
 party_files = [
-    Path("src/contest_painting.c"),
-    Path("src/contest.c"),
-    Path("src/field_specials.c"),
-    Path("src/frontier_util.c"),
-    Path("src/item_menu.c"),
-    Path("src/landmark.c"),
-    Path("src/player_pc.c"),
-    Path("src/pokeblock.c"),
-    Path("src/pokemon_storage_system.c"),
+    Path("src/strings.c"),
+#    Path("src/contest.c"),
+#    Path("src/field_specials.c"),
+#    Path("src/frontier_util.c"),
+#    Path("src/item_menu.c"),
+#    Path("src/landmark.c"),
+#    Path("src/player_pc.c"),
+#    Path("src/pokeblock.c"),
+#    Path("src/pokemon_storage_system.c"),
 ]
 
 for file in party_files:

@@ -1103,7 +1103,7 @@ u32 DetermineFollowerNPCState(struct ObjectEvent *follower, u32 state, enum Dire
 
 /*
  * Reload the entire event object.
- * It would usually be enough just to change the sprite Id, but if the original
+ * It would usually be enough just to change the sprite ID, but if the original
  * sprite and the new sprite have different palettes, the palette would need to
  * be reloaded.
  */

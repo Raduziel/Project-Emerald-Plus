@@ -1,5 +1,5 @@
 /*
-    "$Id: gbafix.c,v 1.2 2008-07-30 17:12:51 wntrmute Exp $"
+    "$ID: gbafix.c,v 1.2 2008-07-30 17:12:51 wntrmute Exp $"
 
     DevkitPro GBA ROM fix utility
 

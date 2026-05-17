@@ -308,8 +308,8 @@ enum BattleScriptOpcode
 // Array entries for battle communication
 #define MULTIUSE_STATE          0
 #define CURSOR_POSITION         1
-#define TASK_ID                 1 // task Id and cursor position share the same field
-#define SPRITES_INIT_STATE1     1 // shares the Id as well
+#define TASK_ID                 1 // task ID and cursor position share the same field
+#define SPRITES_INIT_STATE1     1 // shares the ID as well
 #define SPRITES_INIT_STATE2     2
 #define MOVE_EFFECT_BYTE        3
 #define ACTIONS_CONFIRMED_COUNT 4
