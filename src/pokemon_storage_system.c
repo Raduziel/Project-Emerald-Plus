@@ -50,7 +50,7 @@
 /*
     NOTE: This file is large. Some general groups of functions have
           been labeled with commented headers to make navigation easier.
-          Search for "SECTION:" to locate them. These sections are not
+          Search for "Section:" to locate them. These sections are not
           hard and fast rules, but give a basic idea of where certain
           types of functions are likely located.
 */
@@ -319,7 +319,7 @@ enum {
 };
 
 // Modes for selecting and moving Pokémon in the box.
-// "MULTIPLE" mode allows up to an entire box to be
+// "Multiple" mode allows up to an entire box to be
 // picked up at once by pressing Select then holding
 // down the A button. While holding A down, the player
 // may move the cursor around to select multiple Pokémon.
@@ -866,11 +866,11 @@ struct {
     const u8 *desc;
 } static const sMainMenuTexts[OPTIONS_COUNT] =
 {
-    [OPTION_WITHDRAW]   = {COMPOUND_STRING("WITHDRAW Pokémon"), COMPOUND_STRING("Move Pokémon stored in BOXES to\nyour party.")},
-    [OPTION_DEPOSIT]    = {COMPOUND_STRING("DEPOSIT Pokémon"),  COMPOUND_STRING("Store Pokémon in your party in BOXES.")},
-    [OPTION_MOVE_MONS]  = {COMPOUND_STRING("MOVE Pokémon"),     COMPOUND_STRING("Organize the Pokémon in BOXES and\nin your party.")},
-    [OPTION_MOVE_ITEMS] = {COMPOUND_STRING("MOVE ITEMS"),       COMPOUND_STRING("Move items held by any Pokémon\nin a Box or your party.")},
-    [OPTION_EXIT]       = {COMPOUND_STRING("SEE YA!"),          COMPOUND_STRING("Return to the previous menu.")}
+    [OPTION_WITHDRAW]   = {COMPOUND_STRING("Withdraw Pokémon"), COMPOUND_STRING("Move Pokémon stored in Boxes to\nyour party.")},
+    [OPTION_DEPOSIT]    = {COMPOUND_STRING("Deposit Pokémon"),  COMPOUND_STRING("Store Pokémon in your party in Boxes.")},
+    [OPTION_MOVE_MONS]  = {COMPOUND_STRING("Move Pokémon"),     COMPOUND_STRING("Organize the Pokémon in Boxes and\nin your party.")},
+    [OPTION_MOVE_ITEMS] = {COMPOUND_STRING("Move Items"),       COMPOUND_STRING("Move items held by any Pokémon\nin a Box or your party.")},
+    [OPTION_EXIT]       = {COMPOUND_STRING("See Ya!"),          COMPOUND_STRING("Return to the previous menu.")}
 };
 
 static const struct WindowTemplate sWindowTemplate_MainMenu =
@@ -1071,7 +1071,7 @@ static const struct StorageMessage sMessages[] =
     [MSG_SURPRISE]             = {COMPOUND_STRING("… … … … !"),                  MSG_VAR_NONE},
     [MSG_PLEASE_REMOVE_MAIL]   = {COMPOUND_STRING("Please remove the Mail."),    MSG_VAR_NONE},
     [MSG_IS_SELECTED2]         = {gText_PkmnIsSelected,                          MSG_VAR_ITEM_NAME},
-    [MSG_GIVE_TO_MON]          = {COMPOUND_STRING("GIVE to a Pokémon?"),         MSG_VAR_NONE},
+    [MSG_GIVE_TO_MON]          = {COMPOUND_STRING("Give to a Pokémon?"),         MSG_VAR_NONE},
     [MSG_PLACED_IN_BAG]        = {COMPOUND_STRING("Placed item in the Bag."),    MSG_VAR_ITEM_NAME},
     [MSG_BAG_FULL]             = {COMPOUND_STRING("The Bag is full."),           MSG_VAR_NONE},
     [MSG_PUT_IN_BAG]           = {COMPOUND_STRING("Put this item in the Bag?"),  MSG_VAR_NONE},
@@ -8037,7 +8037,7 @@ static void InitMenu(void)
     sStorage->menuWindow.baseBlock = 92;
 }
 
-static const u8 gPCText_Give[] = _("GIVE");
+static const u8 gPCText_Give[] = _("Give");
 
 static const u8 *const sMenuTexts[] =
 {

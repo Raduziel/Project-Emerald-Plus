@@ -2162,13 +2162,13 @@ static void UpdateMonData(struct BattleDebugMenu *data)
 static const u8 *const sHoldEffectNames[HOLD_EFFECT_COUNT] =
 {
     [HOLD_EFFECT_NONE]             = COMPOUND_STRING("????????"),
-    [HOLD_EFFECT_RESTORE_HP]       = COMPOUND_STRING("Restore Hp"),
+    [HOLD_EFFECT_RESTORE_HP]       = COMPOUND_STRING("Restore HP"),
     [HOLD_EFFECT_CURE_PAR]         = COMPOUND_STRING("Cure Par"),
     [HOLD_EFFECT_CURE_SLP]         = COMPOUND_STRING("Cure Slp"),
     [HOLD_EFFECT_CURE_PSN]         = COMPOUND_STRING("Cure Psn"),
     [HOLD_EFFECT_CURE_BRN]         = COMPOUND_STRING("Cure Brn"),
     [HOLD_EFFECT_CURE_FRZ]         = COMPOUND_STRING("Cure Frz"),
-    [HOLD_EFFECT_RESTORE_PP]       = COMPOUND_STRING("Restore Pp"),
+    [HOLD_EFFECT_RESTORE_PP]       = COMPOUND_STRING("Restore PP"),
     [HOLD_EFFECT_CURE_CONFUSION]   = COMPOUND_STRING("Cure Confusion"),
     [HOLD_EFFECT_CURE_STATUS]      = COMPOUND_STRING("Cure Status"),
     [HOLD_EFFECT_CONFUSE_SPICY]    = COMPOUND_STRING("Confuse Spicy"),
