@@ -49,16 +49,20 @@ def process_file(path, dry_run=True):
         path.write_text(new_text, encoding="utf-8")
 
 # --- Configuração ---
-dry_run = True
+dry_run = False
 
 party_files = [
-    Path("src/berry_blender.c"),
-    Path("src/dexnav.c"),
-    Path("src/data/union_room.h"),
-    Path("src/data/script_menu.h"),
-    Path("src/data/battle_frontier/trainer_hill.h"),
+    Path("src/contest_painting.c"),
+    Path("src/contest.c"),
+    Path("src/field_specials.c"),
+    Path("src/frontier_util.c"),
+    Path("src/item_menu.c"),
+    Path("src/landmark.c"),
+    Path("src/player_pc.c"),
+    Path("src/pokeblock.c"),
+    Path("src/pokemon_storage_system.c"),
 ]
 
 for file in party_files:
     print(f"\n[{file}]")
-    process_party_file(file, dry_run=dry_run)
+    process_file(file, dry_run=dry_run)  # ← era process_party_file
