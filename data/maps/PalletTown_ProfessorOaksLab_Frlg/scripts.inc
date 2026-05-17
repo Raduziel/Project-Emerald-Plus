@@ -1559,7 +1559,7 @@ PalletTown_ProfessorOaksLab_Text_EmailMessage::
 	.string "take on all comers!\p"
 	.string "Bring your best Pokémon and see\n"
 	.string "how you rate as a Trainer!\p"
-	.string "Pokémon League Hq\n"
+	.string "Pokémon League HQ\n"
 	.string "Indigo Plateau\p"
 	.string "Prof. Oak, please visit us!\n"
 	.string "…$"

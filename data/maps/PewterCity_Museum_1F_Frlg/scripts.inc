@@ -238,7 +238,7 @@ PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
 	.string "Ssh! Listen, I need to share a\n"
 	.string "secret with someone.\p"
 	.string "I think that this chunk of Amber\n"
-	.string "contains Pokémon Dna!\p"
+	.string "contains Pokémon DNA!\p"
 	.string "It would be a shattering scientific\n"
 	.string "breakthrough if Pokémon could be\l"
 	.string "resurrected from it.\p"
